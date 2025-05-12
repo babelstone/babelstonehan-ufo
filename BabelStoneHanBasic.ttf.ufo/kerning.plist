@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>public.kern1.uni2018</key>
+    <dict>
+      <key>public.kern2.uni2018</key>
+      <integer>-512</integer>
+    </dict>
+    <key>public.kern1.uni2019</key>
+    <dict>
+      <key>public.kern2.uni2018</key>
+      <integer>-512</integer>
+      <key>public.kern2.uni2019</key>
+      <integer>-512</integer>
+    </dict>
+  </dict>
+</plist>

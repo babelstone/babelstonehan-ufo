@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE66" format="2">
+  <advance width="512"/>
+  <unicode hex="FE66"/>
+  <outline>
+    <contour>
+      <point x="435" y="549" type="line"/>
+      <point x="435" y="494" type="line"/>
+      <point x="77" y="494" type="line"/>
+      <point x="77" y="549" type="line"/>
+    </contour>
+    <contour>
+      <point x="435" y="280" type="line"/>
+      <point x="435" y="225" type="line"/>
+      <point x="77" y="225" type="line"/>
+      <point x="77" y="280" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l435+549l435+494l77+494l77+549|l435+280l435+225l77+225l77+280|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

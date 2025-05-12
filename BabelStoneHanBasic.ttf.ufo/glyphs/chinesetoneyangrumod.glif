@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="chinesetoneyangrumod" format="2">
+  <unicode hex="A707"/>
+  <outline>
+    <contour>
+      <point x="0" y="79" type="line"/>
+      <point x="43" y="79"/>
+      <point x="71" y="53" type="qcurve"/>
+      <point x="102" y="22"/>
+      <point x="103" y="-24" type="qcurve"/>
+      <point x="103" y="-75"/>
+      <point x="71" y="-102" type="qcurve"/>
+      <point x="43" y="-127"/>
+      <point x="0" y="-127" type="qcurve"/>
+      <point x="-100" y="-127" type="line"/>
+      <point x="-100" y="-94" type="line"/>
+      <point x="0" y="-94" type="line"/>
+      <point x="31" y="-94"/>
+      <point x="49" y="-76" type="qcurve"/>
+      <point x="70" y="-59"/>
+      <point x="70" y="-24" type="qcurve"/>
+      <point x="70" y="7"/>
+      <point x="49" y="28" type="qcurve"/>
+      <point x="31" y="46"/>
+      <point x="0" y="46" type="qcurve"/>
+      <point x="-100" y="46" type="line"/>
+      <point x="-100" y="79" type="line"/>
+    </contour>
+    <contour>
+      <point x="100" y="-194" type="line"/>
+      <point x="98" y="-227" type="line"/>
+      <point x="-100" y="-227" type="line"/>
+      <point x="-100" y="-194" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>9b38371e37f19c6a74e1d43c25fe402f1a9d278fc2ee3444aaca719f03177cf729f843e61b39633c581498776c4233c4ea84bc1d2f108d21e2bacbfcd91c5381</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

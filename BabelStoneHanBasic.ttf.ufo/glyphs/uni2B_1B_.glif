@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2B1B" format="2">
+  <advance width="1024"/>
+  <unicode hex="2B1B"/>
+  <outline>
+    <contour>
+      <point x="992" y="868" type="line"/>
+      <point x="992" y="-92" type="line"/>
+      <point x="32" y="-92" type="line"/>
+      <point x="32" y="868" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1024l992+868l992-92l32-92l32+868|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

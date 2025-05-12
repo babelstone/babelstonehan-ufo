@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="logicalnot" format="2">
+  <advance width="512"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="444" y="771" type="line"/>
+      <point x="444" y="516" type="line"/>
+      <point x="389" y="516" type="line"/>
+      <point x="389" y="716" type="line"/>
+      <point x="68" y="716" type="line"/>
+      <point x="68" y="771" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l444+771l444+516l389+516l389+716l68+716l68+771|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

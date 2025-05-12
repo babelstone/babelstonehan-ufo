@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1D310" format="2">
+  <advance width="1024"/>
+  <unicode hex="1D310"/>
+  <outline>
+    <contour>
+      <point x="912" y="638" type="line"/>
+      <point x="112" y="638" type="line"/>
+      <point x="112" y="738" type="line"/>
+      <point x="912" y="738" type="line"/>
+    </contour>
+    <contour>
+      <point x="912" y="238" type="line"/>
+      <point x="112" y="238" type="line"/>
+      <point x="112" y="338" type="line"/>
+      <point x="912" y="338" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="38" type="line"/>
+      <point x="112" y="38" type="line"/>
+      <point x="112" y="138" type="line"/>
+      <point x="462" y="138" type="line"/>
+    </contour>
+    <contour>
+      <point x="912" y="38" type="line"/>
+      <point x="562" y="38" type="line"/>
+      <point x="562" y="138" type="line"/>
+      <point x="912" y="138" type="line"/>
+    </contour>
+    <contour>
+      <point x="462" y="438" type="line"/>
+      <point x="112" y="438" type="line"/>
+      <point x="112" y="538" type="line"/>
+      <point x="462" y="538" type="line"/>
+    </contour>
+    <contour>
+      <point x="912" y="438" type="line"/>
+      <point x="562" y="438" type="line"/>
+      <point x="562" y="538" type="line"/>
+      <point x="912" y="538" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>a13948d41e0f2503b8f6f7dbf3d42b3373f5a82589181f7ee7098ed6fb7792477606811676eb6f24410f88f52b03bc8f3018e6ed2626d417e3ca2780da5748fe</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

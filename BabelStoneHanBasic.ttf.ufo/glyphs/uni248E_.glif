@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni248E" format="2">
+  <advance width="1024"/>
+  <unicode hex="248E"/>
+  <outline>
+    <contour>
+      <point x="726" y="751" type="line"/>
+      <point x="606" y="532"/>
+      <point x="564" y="405" type="qcurve"/>
+      <point x="510" y="229"/>
+      <point x="510" y="60" type="qcurve"/>
+      <point x="510" y="34"/>
+      <point x="504" y="16" type="qcurve"/>
+      <point x="499" y="2"/>
+      <point x="487" y="2" type="qcurve"/>
+      <point x="475" y="2"/>
+      <point x="469" y="17" type="qcurve"/>
+      <point x="454" y="61"/>
+      <point x="475" y="187" type="qcurve"/>
+      <point x="503" y="389"/>
+      <point x="695" y="737" type="qcurve"/>
+      <point x="459" y="737" type="line"/>
+      <point x="409" y="736"/>
+      <point x="381" y="702" type="qcurve"/>
+      <point x="354" y="667"/>
+      <point x="327" y="552" type="qcurve"/>
+      <point x="304" y="552" type="line"/>
+      <point x="346" y="774" type="line"/>
+      <point x="715" y="774" type="line"/>
+    </contour>
+    <contour>
+      <point x="921" y="136"/>
+      <point x="939" y="118" type="qcurve"/>
+      <point x="956" y="101"/>
+      <point x="956" y="73" type="qcurve"/>
+      <point x="956" y="45"/>
+      <point x="938" y="27" type="qcurve"/>
+      <point x="919" y="9"/>
+      <point x="894" y="9" type="qcurve"/>
+      <point x="868" y="10"/>
+      <point x="849" y="29" type="qcurve"/>
+      <point x="832" y="46"/>
+      <point x="832" y="73" type="qcurve"/>
+      <point x="833" y="102"/>
+      <point x="849" y="118" type="qcurve"/>
+      <point x="867" y="136"/>
+      <point x="894" y="136" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>3d5e1243b68c21931186b6169704cda1b16dc8085580cac9dd89389c21fc96c8e873fbb5f0625ed6116442b9f201899c0c878f9be127513911e446f0256c8e9f</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="sailboat" format="2">
+  <advance width="1023"/>
+  <unicode hex="26F5"/>
+  <outline>
+    <contour>
+      <point x="510" y="785" type="line"/>
+      <point x="885" y="317" type="line"/>
+      <point x="558" y="316" type="line"/>
+      <point x="558" y="252" type="line"/>
+      <point x="892" y="252" type="line"/>
+      <point x="892" y="220" type="line"/>
+      <point x="857" y="137"/>
+      <point x="733" y="-9" type="qcurve"/>
+      <point x="371" y="-9" type="line"/>
+      <point x="304" y="35"/>
+      <point x="171" y="169" type="qcurve"/>
+      <point x="131" y="215" type="line"/>
+      <point x="132" y="252" type="line"/>
+      <point x="509" y="252" type="line"/>
+    </contour>
+    <contour>
+      <point x="470" y="747" type="line"/>
+      <point x="471" y="316" type="line"/>
+      <point x="131" y="317" type="line"/>
+    </contour>
+    <contour>
+      <point x="558" y="658" type="qcurve"/>
+      <point x="558" y="358" type="line"/>
+      <point x="791" y="360" type="line"/>
+      <point x="561" y="656"/>
+    </contour>
+    <contour>
+      <point x="224" y="358" type="line"/>
+      <point x="423" y="358" type="line"/>
+      <point x="423" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="204" y="206" type="line"/>
+      <point x="324" y="82"/>
+      <point x="399" y="36" type="qcurve"/>
+      <point x="707" y="36" type="line"/>
+      <point x="795" y="139"/>
+      <point x="829" y="206" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>14b6f022b9b702f8da92315762cda05c76a918447847cd8ee2ffb2ccc0c6dc2544344534b46796b21e875f7dd4b2a667561da75ba71183b22a9b3a2d51498d25</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

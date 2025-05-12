@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02EA" format="2">
+  <advance width="512"/>
+  <unicode hex="02EA"/>
+  <outline>
+    <contour>
+      <point x="68" y="6" type="line"/>
+      <point x="68" y="416" type="line"/>
+      <point x="123" y="416" type="line"/>
+      <point x="123" y="61" type="line"/>
+      <point x="444" y="61" type="line"/>
+      <point x="444" y="6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l68+6l68+416l123+416l123+61l444+61l444+6|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

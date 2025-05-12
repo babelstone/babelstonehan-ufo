@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni3014.vert" format="2">
+  <advance width="1024"/>
+  <unicode hex="FE39"/>
+  <outline>
+    <contour>
+      <point x="65" y="18" type="line"/>
+      <point x="28" y="39" type="line"/>
+      <point x="147" y="248" type="line"/>
+      <point x="877" y="248" type="line"/>
+      <point x="996" y="39" type="line"/>
+      <point x="958" y="18" type="line"/>
+      <point x="855" y="201" type="line"/>
+      <point x="168" y="201" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1024l65+18l28+39l147+248l877+248l996+39l958+18l855+201l168+201|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1D365" format="2">
+  <advance width="1024"/>
+  <unicode hex="1D365"/>
+  <outline>
+    <contour>
+      <point x="537" y="-25" type="line"/>
+      <point x="912" y="-25" type="line"/>
+      <point x="912" y="-75" type="line"/>
+      <point x="112" y="-75" type="line"/>
+      <point x="112" y="-25" type="line"/>
+      <point x="487" y="-25" type="line"/>
+      <point x="487" y="775" type="line"/>
+      <point x="537" y="775" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1024l537-25l912-25l912-75l112-75l112-25l487-25l487+775l537+775|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

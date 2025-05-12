@@ -1,0 +1,750 @@
+languagesystem DFLT dflt;
+languagesystem hani dflt;
+languagesystem kana dflt;
+languagesystem latn dflt;
+table GDEF {
+    GlyphClassDef [], [], [], [];
+} GDEF;
+
+@class1 = [uni3063 uni3095 uni3096 uni30C3 uni30F5 uni30F6 uni31F0 uni31F1 uni31F2 uni31F3 uni31F4 uni31F5 uni31F6 uni31F7 uni31F8 uni31F9 uni31FA uni31FB uni31FC uni31FD uni31FE uni31FF];
+
+lookup SingleSubstitution2 {
+    lookupflag 0;
+    ;
+    # Original source: 1 
+    sub uni3099 by uni3099.small;
+    sub uni309A by uni309A.small;
+} SingleSubstitution2;
+
+lookup ChainedContextualGSUB1 {
+    lookupflag 0;
+    ;
+    sub @class1 [uni3099 uni309A]' lookup SingleSubstitution2;
+} ChainedContextualGSUB1;
+
+lookup SingleSubstitution4 {
+    lookupflag 0;
+    ;
+    # Original source: 3 
+    sub uni3021 by uni3021.rotated;
+    sub uni3022 by uni3022.rotated;
+    sub uni3023 by uni3023.rotated;
+} SingleSubstitution4;
+
+lookup ChainedContextualGSUB3 {
+    lookupflag 0;
+    ;
+    # Original source: 2 
+    sub [uni3021 uni3022 uni3023] [uni3021 uni3022 uni3023]' lookup SingleSubstitution4;
+} ChainedContextualGSUB3;
+
+lookup LigatureSubstitution5 {
+    lookupflag 0;
+    ;
+    # Original source: 4 
+    sub uni3046 uni3099 by uni3094;
+    sub uni304B uni3099 by uni304C;
+    sub uni304D uni3099 by uni304E;
+    sub uni304F uni3099 by uni3050;
+    sub uni3051 uni3099 by uni3052;
+    sub uni3053 uni3099 by uni3054;
+    sub uni3055 uni3099 by uni3056;
+    sub uni3057 uni3099 by uni3058;
+    sub uni3059 uni3099 by uni305A;
+    sub uni305B uni3099 by uni305C;
+    sub uni305D uni3099 by uni305E;
+    sub uni305F uni3099 by uni3060;
+    sub uni3061 uni3099 by uni3062;
+    sub uni3064 uni3099 by uni3065;
+    sub uni3066 uni3099 by uni3067;
+    sub uni3068 uni3099 by uni3069;
+    sub uni306F uni3099 by uni3070;
+    sub uni306F uni309A by uni3071;
+    sub uni3072 uni3099 by uni3073;
+    sub uni3072 uni309A by uni3074;
+    sub uni3075 uni3099 by uni3076;
+    sub uni3075 uni309A by uni3077;
+    sub uni3078 uni3099 by uni3079;
+    sub uni3078 uni309A by uni307A;
+    sub uni307B uni3099 by uni307C;
+    sub uni307B uni309A by uni307D;
+    sub uni309D uni3099 by uni309E;
+    sub uni30A6 uni3099 by uni30F4;
+    sub uni30AB uni3099 by uni30AC;
+    sub uni30AD uni3099 by uni30AE;
+    sub uni30AF uni3099 by uni30B0;
+    sub uni30B1 uni3099 by uni30B2;
+    sub uni30B3 uni3099 by uni30B4;
+    sub uni30B5 uni3099 by uni30B6;
+    sub uni30B7 uni3099 by uni30B8;
+    sub uni30B9 uni3099 by uni30BA;
+    sub uni30BB uni3099 by uni30BC;
+    sub uni30BD uni3099 by uni30BE;
+    sub uni30BF uni3099 by uni30C0;
+    sub uni30C1 uni3099 by uni30C2;
+    sub uni30C4 uni3099 by uni30C5;
+    sub uni30C6 uni3099 by uni30C7;
+    sub uni30C8 uni3099 by uni30C9;
+    sub uni30CF uni3099 by uni30D0;
+    sub uni30CF uni309A by uni30D1;
+    sub uni30D2 uni3099 by uni30D3;
+    sub uni30D2 uni309A by uni30D4;
+    sub uni30D5 uni3099 by uni30D6;
+    sub uni30D5 uni309A by uni30D7;
+    sub uni30D8 uni3099 by uni30D9;
+    sub uni30D8 uni309A by uni30DA;
+    sub uni30DB uni3099 by uni30DC;
+    sub uni30DB uni309A by uni30DD;
+    sub uni30EF uni3099 by uni30F7;
+    sub uni30F0 uni3099 by uni30F8;
+    sub uni30F1 uni3099 by uni30F9;
+    sub uni30F2 uni3099 by uni30FA;
+    sub uni30FD uni3099 by uni30FE;
+} LigatureSubstitution5;
+
+lookup LigatureSubstitution6 {
+    lookupflag 0;
+    ;
+    # Original source: 5 
+    sub uni304B uni309A by uni304B.309A;
+    sub uni304D uni309A by uni304D.309A;
+    sub uni304F uni309A by uni304F.309A;
+    sub uni3051 uni309A by uni3051.309A;
+    sub uni3053 uni309A by uni3053.309A;
+    sub uni30AB uni309A by uni30AB.309A;
+    sub uni30AD uni309A by uni30AD.309A;
+    sub uni30AF uni309A by uni30AF.309A;
+    sub uni30B1 uni309A by uni30B1.309A;
+    sub uni30B3 uni309A by uni30B3.309A;
+    sub uni30BB uni309A by uni30BB.309A;
+    sub uni30C4 uni309A by uni30C4.309A;
+    sub uni30C8 uni309A by uni30C8.309A;
+    sub uni31F7 uni309A by uni31F7.309A;
+} LigatureSubstitution6;
+
+lookup LigatureSubstitution7 {
+    lookupflag 0;
+    ;
+    # Original source: 6 
+    sub u1B017 uni3099 by u1B017.3099;
+    sub u1B018 uni3099 by u1B018.3099;
+    sub u1B019 uni3099 by u1B019.3099;
+    sub u1B01A uni3099 by u1B01A.3099;
+    sub u1B01B uni3099 by u1B01B.3099;
+    sub u1B01C uni3099 by u1B01C.3099;
+    sub u1B01D uni3099 by u1B01D.3099;
+    sub u1B01E uni3099 by u1B01E.3099;
+    sub u1B01F uni3099 by u1B01F.3099;
+    sub u1B020 uni3099 by u1B020.3099;
+    sub u1B021 uni3099 by u1B021.3099;
+    sub u1B022 uni3099 by u1B022.3099;
+    sub u1B023 uni3099 by u1B023.3099;
+    sub u1B024 uni3099 by u1B024.3099;
+    sub u1B025 uni3099 by u1B025.3099;
+    sub u1B026 uni3099 by u1B026.3099;
+    sub u1B027 uni3099 by u1B027.3099;
+    sub u1B028 uni3099 by u1B028.3099;
+    sub u1B029 uni3099 by u1B029.3099;
+    sub u1B02A uni3099 by u1B02A.3099;
+    sub u1B02B uni3099 by u1B02B.3099;
+    sub u1B02C uni3099 by u1B02C.3099;
+    sub u1B02D uni3099 by u1B02D.3099;
+    sub u1B02E uni3099 by u1B02E.3099;
+    sub u1B02F uni3099 by u1B02F.3099;
+    sub u1B030 uni3099 by u1B030.3099;
+    sub u1B031 uni3099 by u1B031.3099;
+    sub u1B032 uni3099 by u1B032.3099;
+    sub u1B033 uni3099 by u1B033.3099;
+    sub u1B034 uni3099 by u1B034.3099;
+    sub u1B035 uni3099 by u1B035.3099;
+    sub u1B036 uni3099 by u1B036.3099;
+    sub u1B037 uni3099 by u1B037.3099;
+    sub u1B038 uni3099 by u1B038.3099;
+    sub u1B039 uni3099 by u1B039.3099;
+    sub u1B03A uni3099 by u1B03A.3099;
+    sub u1B03B uni3099 by u1B03B.3099;
+    sub u1B03C uni3099 by u1B03C.3099;
+    sub u1B03D uni3099 by u1B03D.3099;
+    sub u1B03E uni3099 by u1B03E.3099;
+    sub u1B03F uni3099 by u1B03F.3099;
+    sub u1B040 uni3099 by u1B040.3099;
+    sub u1B041 uni3099 by u1B041.3099;
+    sub u1B042 uni3099 by u1B042.3099;
+    sub u1B043 uni3099 by u1B043.3099;
+    sub u1B044 uni3099 by u1B044.3099;
+    sub u1B045 uni3099 by u1B045.3099;
+    sub u1B046 uni3099 by u1B046.3099;
+    sub u1B047 uni3099 by u1B047.3099;
+    sub u1B048 uni3099 by u1B048.3099;
+    sub u1B049 uni3099 by u1B049.3099;
+    sub u1B04A uni3099 by u1B04A.3099;
+    sub u1B04B uni3099 by u1B04B.3099;
+    sub u1B04C uni3099 by u1B04C.3099;
+    sub u1B04D uni3099 by u1B04D.3099;
+    sub u1B04E uni3099 by u1B04E.3099;
+    sub u1B04F uni3099 by u1B04F.3099;
+    sub u1B050 uni3099 by u1B050.3099;
+    sub u1B051 uni3099 by u1B051.3099;
+    sub u1B052 uni3099 by u1B052.3099;
+    sub u1B053 uni3099 by u1B053.3099;
+    sub u1B054 uni3099 by u1B054.3099;
+    sub u1B055 uni3099 by u1B055.3099;
+    sub u1B056 uni3099 by u1B056.3099;
+    sub u1B057 uni3099 by u1B057.3099;
+    sub u1B058 uni3099 by u1B058.3099;
+    sub u1B059 uni3099 by u1B059.3099;
+    sub u1B05A uni3099 by u1B05A.3099;
+    sub u1B05B uni3099 by u1B05B.3099;
+    sub u1B05C uni3099 by u1B05C.3099;
+    sub u1B05D uni3099 by u1B05D.3099;
+    sub u1B05E uni3099 by u1B05E.3099;
+    sub u1B05F uni3099 by u1B05F.3099;
+    sub u1B060 uni3099 by u1B060.3099;
+    sub u1B061 uni3099 by u1B061.3099;
+    sub u1B062 uni3099 by u1B062.3099;
+    sub u1B063 uni3099 by u1B063.3099;
+    sub u1B064 uni3099 by u1B064.3099;
+    sub u1B065 uni3099 by u1B065.3099;
+    sub u1B066 uni3099 by u1B066.3099;
+    sub u1B067 uni3099 by u1B067.3099;
+    sub u1B068 uni3099 by u1B068.3099;
+    sub u1B069 uni3099 by u1B069.3099;
+    sub u1B06A uni3099 by u1B06A.3099;
+    sub u1B06B uni3099 by u1B06B.3099;
+    sub u1B06C uni3099 by u1B06C.3099;
+    sub u1B06D uni3099 by u1B06D.3099;
+    sub u1B06E uni3099 by u1B06E.3099;
+    sub u1B06F uni3099 by u1B06F.3099;
+    sub u1B070 uni3099 by u1B070.3099;
+    sub u1B071 uni3099 by u1B071.3099;
+    sub u1B072 uni3099 by u1B072.3099;
+    sub u1B073 uni3099 by u1B073.3099;
+    sub u1B074 uni3099 by u1B074.3099;
+    sub u1B075 uni3099 by u1B075.3099;
+    sub u1B076 uni3099 by u1B076.3099;
+    sub u1B077 uni3099 by u1B077.3099;
+    sub u1B078 uni3099 by u1B078.3099;
+    sub u1B079 uni3099 by u1B079.3099;
+    sub u1B07A uni3099 by u1B07A.3099;
+    sub u1B07B uni3099 by u1B07B.3099;
+    sub u1B07C uni3099 by u1B07C.3099;
+    sub u1B07D uni3099 by u1B07D.3099;
+    sub u1B09E uni3099 by u1B09E.3099;
+    sub u1B09E uni309A by u1B09E.309A;
+    sub u1B09F uni3099 by u1B09F.3099;
+    sub u1B09F uni309A by u1B09F.309A;
+    sub u1B0A0 uni3099 by u1B0A0.3099;
+    sub u1B0A0 uni309A by u1B0A0.309A;
+    sub u1B0A1 uni3099 by u1B0A1.3099;
+    sub u1B0A1 uni309A by u1B0A1.309A;
+    sub u1B0A2 uni3099 by u1B0A2.3099;
+    sub u1B0A2 uni309A by u1B0A2.309A;
+    sub u1B0A3 uni3099 by u1B0A3.3099;
+    sub u1B0A3 uni309A by u1B0A3.309A;
+    sub u1B0A4 uni3099 by u1B0A4.3099;
+    sub u1B0A4 uni309A by u1B0A4.309A;
+    sub u1B0A5 uni3099 by u1B0A5.3099;
+    sub u1B0A5 uni309A by u1B0A5.309A;
+    sub u1B0A6 uni3099 by u1B0A6.3099;
+    sub u1B0A6 uni309A by u1B0A6.309A;
+    sub u1B0A7 uni3099 by u1B0A7.3099;
+    sub u1B0A7 uni309A by u1B0A7.309A;
+    sub u1B0A8 uni3099 by u1B0A8.3099;
+    sub u1B0A8 uni309A by u1B0A8.309A;
+    sub u1B0A9 uni3099 by u1B0A9.3099;
+    sub u1B0A9 uni309A by u1B0A9.309A;
+    sub u1B0AA uni3099 by u1B0AA.3099;
+    sub u1B0AA uni309A by u1B0AA.309A;
+    sub u1B0AB uni3099 by u1B0AB.3099;
+    sub u1B0AB uni309A by u1B0AB.309A;
+    sub u1B0AC uni3099 by u1B0AC.3099;
+    sub u1B0AC uni309A by u1B0AC.309A;
+    sub u1B0AD uni3099 by u1B0AD.3099;
+    sub u1B0AD uni309A by u1B0AD.309A;
+    sub u1B0AE uni3099 by u1B0AE.3099;
+    sub u1B0AE uni309A by u1B0AE.309A;
+    sub u1B0AF uni3099 by u1B0AF.3099;
+    sub u1B0AF uni309A by u1B0AF.309A;
+    sub u1B0B0 uni3099 by u1B0B0.3099;
+    sub u1B0B0 uni309A by u1B0B0.309A;
+    sub u1B0B1 uni3099 by u1B0B1.3099;
+    sub u1B0B1 uni309A by u1B0B1.309A;
+    sub u1B0B2 uni3099 by u1B0B2.3099;
+    sub u1B0B2 uni309A by u1B0B2.309A;
+    sub u1B0B3 uni3099 by u1B0B3.3099;
+    sub u1B0B3 uni309A by u1B0B3.309A;
+    sub u1B0B4 uni3099 by u1B0B4.3099;
+    sub u1B0B4 uni309A by u1B0B4.309A;
+    sub u1B0B5 uni3099 by u1B0B5.3099;
+    sub u1B0B5 uni309A by u1B0B5.309A;
+    sub u1B0B6 uni3099 by u1B0B6.3099;
+    sub u1B0B6 uni309A by u1B0B6.309A;
+    sub u1B0B7 uni3099 by u1B0B7.3099;
+    sub u1B0B7 uni309A by u1B0B7.309A;
+    sub u1B0B8 uni3099 by u1B0B8.3099;
+    sub u1B0B8 uni309A by u1B0B8.309A;
+    sub u1B0B9 uni3099 by u1B0B9.3099;
+    sub u1B0B9 uni309A by u1B0B9.309A;
+    sub u1B0BA uni3099 by u1B0BA.3099;
+    sub u1B0BA uni309A by u1B0BA.309A;
+    sub u1B0BB uni3099 by u1B0BB.3099;
+    sub u1B0BB uni309A by u1B0BB.309A;
+    sub u1B0BC uni3099 by u1B0BC.3099;
+    sub u1B0BC uni309A by u1B0BC.309A;
+    sub u1B0BD uni3099 by u1B0BD.3099;
+    sub u1B0BD uni309A by u1B0BD.309A;
+    sub u1B0BE uni3099 by u1B0BE.3099;
+    sub u1B0BE uni309A by u1B0BE.309A;
+    sub u1B0BF uni3099 by u1B0BF.3099;
+    sub u1B0BF uni309A by u1B0BF.309A;
+    sub u1B0C0 uni3099 by u1B0C0.3099;
+    sub u1B0C0 uni309A by u1B0C0.309A;
+    sub u1B0C1 uni3099 by u1B0C1.3099;
+    sub u1B0C1 uni309A by u1B0C1.309A;
+    sub u1B122 uni3099 by u1B122.3099;
+} LigatureSubstitution7;
+
+lookup LigatureSubstitution8 {
+    lookupflag 0;
+    ;
+    # Original source: 7 
+    sub u1D377 u1D377 u1D377 u1D377 by u1D377.1D377.1D377.1D377;
+    sub u1D377 u1D377 u1D377 by u1D377.1D377.1D377;
+    sub u1D377 u1D377 by u1D377.1D377;
+} LigatureSubstitution8;
+
+lookup LigatureSubstitution9 {
+    lookupflag 0;
+    ;
+    # Original source: 8 
+    sub uni5916 u16FF1 by uni5916.16FF1;
+    sub uni5C3C u16FF1 by uni5C3C.16FF1;
+    sub uni5F8B u16FF1 by uni5F8B.16FF1;
+    sub uni610F u16FF1 by uni610F.16FF1;
+    sub uni66F0 u16FF1 by uni66F0.16FF1;
+    sub uni7ACB u16FF1 by uni7ACB.16FF1;
+} LigatureSubstitution9;
+
+lookup LigatureSubstitution10 {
+    lookupflag 0;
+    ;
+    # Original source: 9 
+    sub uni4E0D uni3099 by uni4E0D.3099;
+    sub uni4EBA uni3099 by uni4EBA.3099;
+    sub uni5171 uni3099 by uni5171.3099;
+    sub uni5DDD uni3099 by uni5DDD.3099;
+    sub uni5FD7 uni3099 by uni5FD7.3099;
+    sub uni69FB uni3099 by uni69FB.3099;
+    sub uni7AEF uni3099 by uni7AEF.3099;
+    sub uni8005 uni3099 by uni8005.3099;
+} LigatureSubstitution10;
+
+lookup LigatureSubstitution11 {
+    lookupflag 0;
+    ;
+    # Original source: 10 
+    sub uni4E8C uni200D uni5408 by uni4E8C.200D.5408;
+    sub uni5373 uni200D uni54E9 by uni5373.200D.54E9;
+    sub uni6555 uni200D uni4EE4 by uni6555.200D.4EE4;
+    sub uni87F2 uni200D uni9CE5 by uni87F2.200D.9CE5;
+} LigatureSubstitution11;
+
+lookup SingleSubstitution12 {
+    lookupflag 0;
+    ;
+    # Original source: 11 
+    sub endash by uniFE32;
+    sub emdash by uniFE31;
+    sub twodotenleader by uniFE30;
+    sub ellipsis by uniFE19;
+    sub uni3001 by uniFE11;
+    sub uni3002 by uniFE12;
+    sub uni3008 by uni3008.vert;
+    sub uni3009 by uni3009.vert;
+    sub uni300A by uni300A.vert;
+    sub uni300B by uni300B.vert;
+    sub uni300C by uni300C.vert;
+    sub uni300D by uni300D.vert;
+    sub uni300E by uni300E.vert;
+    sub uni300F by uni300F.vert;
+    sub uni3010 by uni3010.vert;
+    sub uni3011 by uni3011.vert;
+    sub uni3014 by uni3014.vert;
+    sub uni3015 by uni3015.vert;
+    sub uni3016 by uni3016.vert;
+    sub uni3017 by uni3017.vert;
+    sub uni3018 by uni3018.vert;
+    sub uni3019 by uni3019.vert;
+    sub uni301A by uni301A.vert;
+    sub uni301B by uni301B.vert;
+    sub uniFF01 by uniFE15;
+    sub uniFF08 by uniFF08.vert;
+    sub uniFF09 by uniFF09.vert;
+    sub uniFF0C by uniFE10;
+    sub uniFF1A by uniFE13;
+    sub uniFF1B by uniFE14;
+    sub uniFF1F by uniFE16;
+    sub uniFF3B by uniFF3B.vert;
+    sub uniFF3D by uniFF3D.vert;
+    sub uniFF5B by uniFF5B.vert;
+    sub uniFF5D by uniFF5D.vert;
+} SingleSubstitution12;
+
+lookup PairPositioning1 {
+    lookupflag 0;
+    ;
+    pos [uni2019 uni201D uni3001 uni3002 uni3009 uni300B uni300D uni300F uniFF01 uniFF01.FE00 uniFF09 uniFF0C uniFF0C.FE00 uniFF0E uniFF0E.FE00 uniFF1A uniFF1B uniFF1F uniFF1F.FE00 uniFF3D uniFF5D uniFF60] [uni2018 uni201A uni201B uni201C uni201E uni201F uni3008 uni300A uni300C uni300E uniFF08 uniFF3B uniFF5B uniFF5F] -512;
+    pos [uni2019 uni201D uni3001 uni3002 uni3009 uni300B uni300D uni300F uniFF01 uniFF01.FE00 uniFF09 uniFF0C uniFF0C.FE00 uniFF0E uniFF0E.FE00 uniFF1A uniFF1B uniFF1F uniFF1F.FE00 uniFF3D uniFF5D uniFF60] [uni2019 uni201D uni3001 uni3002 uni3009 uni300B uni300D uni300F uniFF01 uniFF01.FE00 uniFF09 uniFF0C uniFF0C.FE00 uniFF0E uniFF0E.FE00 uniFF1A uniFF1B uniFF1F uniFF1F.FE00 uniFF3D uniFF5D uniFF60] -512;
+    pos [uni2018 uni201A uni201B uni201C uni201E uni201F uni3008 uni300A uni300C uni300E uniFF08 uniFF3B uniFF5B uniFF5F] [uni2018 uni201A uni201B uni201C uni201E uni201F uni3008 uni300A uni300C uni300E uniFF08 uniFF3B uniFF5B uniFF5F] -512;
+} PairPositioning1;
+
+feature liga {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup LigatureSubstitution5;
+
+} liga;
+
+feature liga {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup LigatureSubstitution5;
+
+} liga;
+
+feature liga {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup LigatureSubstitution5;
+
+} liga;
+
+feature liga {
+    script latn;
+    language dflt;
+            script latn;
+        language dflt;
+        lookup LigatureSubstitution5;
+
+} liga;
+
+feature liga {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup LigatureSubstitution6;
+
+} liga;
+
+feature liga {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup LigatureSubstitution6;
+
+} liga;
+
+feature liga {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup LigatureSubstitution6;
+
+} liga;
+
+feature liga {
+    script latn;
+    language dflt;
+            script latn;
+        language dflt;
+        lookup LigatureSubstitution6;
+
+} liga;
+
+feature liga {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup LigatureSubstitution7;
+
+} liga;
+
+feature liga {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup LigatureSubstitution7;
+
+} liga;
+
+feature liga {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup LigatureSubstitution7;
+
+} liga;
+
+feature liga {
+    script latn;
+    language dflt;
+            script latn;
+        language dflt;
+        lookup LigatureSubstitution7;
+
+} liga;
+
+feature liga {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup LigatureSubstitution8;
+
+} liga;
+
+feature liga {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup LigatureSubstitution8;
+
+} liga;
+
+feature liga {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup LigatureSubstitution8;
+
+} liga;
+
+feature liga {
+    script latn;
+    language dflt;
+            script latn;
+        language dflt;
+        lookup LigatureSubstitution8;
+
+} liga;
+
+feature liga {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup LigatureSubstitution9;
+
+} liga;
+
+feature liga {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup LigatureSubstitution9;
+
+} liga;
+
+feature liga {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup LigatureSubstitution9;
+
+} liga;
+
+feature liga {
+    script latn;
+    language dflt;
+            script latn;
+        language dflt;
+        lookup LigatureSubstitution9;
+
+} liga;
+
+feature liga {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup LigatureSubstitution10;
+
+} liga;
+
+feature liga {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup LigatureSubstitution10;
+
+} liga;
+
+feature liga {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup LigatureSubstitution10;
+
+} liga;
+
+feature liga {
+    script latn;
+    language dflt;
+            script latn;
+        language dflt;
+        lookup LigatureSubstitution10;
+
+} liga;
+
+feature liga {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup LigatureSubstitution11;
+
+} liga;
+
+feature liga {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup LigatureSubstitution11;
+
+} liga;
+
+feature liga {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup LigatureSubstitution11;
+
+} liga;
+
+feature liga {
+    script latn;
+    language dflt;
+            script latn;
+        language dflt;
+        lookup LigatureSubstitution11;
+
+} liga;
+
+feature calt {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup ChainedContextualGSUB1;
+
+} calt;
+
+feature calt {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup ChainedContextualGSUB1;
+
+} calt;
+
+feature calt {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup ChainedContextualGSUB1;
+
+} calt;
+
+feature calt {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup ChainedContextualGSUB3;
+
+} calt;
+
+feature calt {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup ChainedContextualGSUB3;
+
+} calt;
+
+feature calt {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup ChainedContextualGSUB3;
+
+} calt;
+
+feature vert {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup SingleSubstitution12;
+
+} vert;
+
+feature kern {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup PairPositioning1;
+
+} kern;
+
+feature kern {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup PairPositioning1;
+
+} kern;
+
+feature chws {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup PairPositioning1;
+
+} chws;
+
+feature chws {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup PairPositioning1;
+
+} chws;

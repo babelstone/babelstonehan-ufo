@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="veryheavysolidus" format="2">
+  <advance width="1024"/>
+  <unicode hex="1F67C"/>
+  <outline>
+    <contour>
+      <point x="973" y="858" type="line"/>
+      <point x="977" y="857"/>
+      <point x="977" y="854" type="qcurve"/>
+      <point x="513" y="-76"/>
+      <point x="509" y="-78" type="qcurve"/>
+      <point x="506" y="-80"/>
+      <point x="501" y="-80" type="qcurve"/>
+      <point x="47" y="-80" type="line"/>
+      <point x="47" y="-78" type="line"/>
+      <point x="47" y="-68"/>
+      <point x="515" y="858" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1024l973+858o977+857q977+854o513-76q509-78o506-80q501-80l47-80l47-78o47-68q515+858|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

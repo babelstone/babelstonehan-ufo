@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ccaron" format="2">
+  <advance width="512"/>
+  <unicode hex="010D"/>
+  <outline>
+    <contour>
+      <point x="354" y="494"/>
+      <point x="396" y="463" type="qcurve"/>
+      <point x="425" y="441"/>
+      <point x="421" y="419" type="qcurve"/>
+      <point x="415" y="397"/>
+      <point x="393" y="397" type="qcurve"/>
+      <point x="373" y="397"/>
+      <point x="360" y="419" type="qcurve"/>
+      <point x="330" y="460"/>
+      <point x="257" y="459" type="qcurve"/>
+      <point x="201" y="458"/>
+      <point x="159" y="415" type="qcurve"/>
+      <point x="110" y="366"/>
+      <point x="111" y="276" type="qcurve"/>
+      <point x="111" y="194"/>
+      <point x="163" y="146" type="qcurve"/>
+      <point x="215" y="103"/>
+      <point x="285" y="103" type="qcurve"/>
+      <point x="366" y="102"/>
+      <point x="436" y="172" type="qcurve"/>
+      <point x="453" y="156" type="line"/>
+      <point x="376" y="67"/>
+      <point x="285" y="66" type="qcurve"/>
+      <point x="192" y="66"/>
+      <point x="128" y="117" type="qcurve"/>
+      <point x="59" y="176"/>
+      <point x="59" y="276" type="qcurve"/>
+      <point x="59" y="364"/>
+      <point x="108" y="422" type="qcurve"/>
+      <point x="171" y="494"/>
+      <point x="277" y="494" type="qcurve"/>
+    </contour>
+    <contour>
+      <point x="109" y="683" type="line"/>
+      <point x="256" y="549" type="line"/>
+      <point x="404" y="683" type="line"/>
+      <point x="439" y="683" type="line"/>
+      <point x="291" y="518" type="line"/>
+      <point x="221" y="518" type="line"/>
+      <point x="74" y="683" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>bf3c346a553e70729b1e0d0ce79d6415a6c051278aa5b798f90c3eb0adb33843489ec4c09e95feadbf9645fbb2fa31c34ab813e514f5065f66ca094c333c60e0</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

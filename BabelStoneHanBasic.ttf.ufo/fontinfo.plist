@@ -1,0 +1,520 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>ascender</key>
+    <integer>704</integer>
+    <key>capHeight</key>
+    <integer>694</integer>
+    <key>copyright</key>
+    <string>(c) Copyright 1994-1999, Arphic Technology Co., Ltd.; (c) Copyright 2009-2025, Andrew West.</string>
+    <key>descender</key>
+    <integer>-58</integer>
+    <key>familyName</key>
+    <string>BabelStone Han Basic</string>
+    <key>italicAngle</key>
+    <real>0.0</real>
+    <key>openTypeGaspRangeRecords</key>
+    <array>
+      <dict>
+        <key>rangeGaspBehavior</key>
+        <array>
+          <integer>1</integer>
+          <integer>3</integer>
+        </array>
+        <key>rangeMaxPPEM</key>
+        <integer>10</integer>
+      </dict>
+      <dict>
+        <key>rangeGaspBehavior</key>
+        <array>
+          <integer>0</integer>
+          <integer>2</integer>
+        </array>
+        <key>rangeMaxPPEM</key>
+        <integer>24</integer>
+      </dict>
+      <dict>
+        <key>rangeGaspBehavior</key>
+        <array>
+          <integer>0</integer>
+          <integer>1</integer>
+          <integer>2</integer>
+          <integer>3</integer>
+        </array>
+        <key>rangeMaxPPEM</key>
+        <integer>65535</integer>
+      </dict>
+    </array>
+    <key>openTypeHeadCreated</key>
+    <string>2009/05/25 14:57:53</string>
+    <key>openTypeHeadFlags</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+    </array>
+    <key>openTypeHeadLowestRecPPEM</key>
+    <integer>8</integer>
+    <key>openTypeHheaAscender</key>
+    <integer>1020</integer>
+    <key>openTypeHheaCaretOffset</key>
+    <integer>0</integer>
+    <key>openTypeHheaCaretSlopeRise</key>
+    <integer>13</integer>
+    <key>openTypeHheaCaretSlopeRun</key>
+    <integer>0</integer>
+    <key>openTypeHheaDescender</key>
+    <integer>-244</integer>
+    <key>openTypeHheaLineGap</key>
+    <integer>0</integer>
+    <key>openTypeNameDescription</key>
+    <string>"BabelStone Han" is a family of two Unicode CJK fonts in Song/Ming style (宋体/明體) with G-source glyphs used in the People's Republic of China (PRC). These fonts are derived from the "AR PL Mingti2L Big5" and "AR PL SungtiL GB" fonts (released under the Arphic Public License), converted to Unicode mappings, and expanded to cover all of the main CJK Unified Ideographs block (URO), and a large number of characters in the CJK Unified Ideographs Extensions A through J blocks, including both traditional and simplified character forms.&#13;
+&#13;
+"BabelStone Han Basic" covers all characters in the CJK Unified Ideographs, CJK Unified Ideographs Extension A, CJK Compatibility Ideographs, and CJK Compatibility Ideographs Supplement blocks, as well as a wide range of other characters in the Basic Multilingual Plane (BMP) and the Supplementary Multilingual Plane (SMP).&#13;
+&#13;
+"BabelStone Han Extra" only covers CJK Unified Ideographs Extensions B, C, D, E, F, G, H, I, and J, which are in the Supplementary Ideographic Plane (SIP) and Tertiary Ideographic Plane (TIP).&#13;
+&#13;
+This version of the BabelStone Han fonts supports Unicode version 17.0 (released September 2025).&#13;
+&#13;
+Glyph for U+1F6D3 'stupa' derived from https://commons.wikimedia.org/wiki/File:Buddhist_Stupa01-BW.svg CC BY-SA 4.0 by Christopher J. Fynn.</string>
+    <key>openTypeNameDesigner</key>
+    <string>Andrew West</string>
+    <key>openTypeNameDesignerURL</key>
+    <string>https://www.babelstone.co.uk/</string>
+    <key>openTypeNameLicense</key>
+    <string>ARPHIC PUBLIC LICENSE
+
+Copyright (C) 1999 Arphic Technology Co., Ltd.
+11Fl. No.168, Yung Chi Rd., Taipei, 110 Taiwan
+All rights reserved except as specified below.
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is forbidden.
+
+Preamble
+
+   The licenses for most software are designed to take away your freedom to share and change it. By contrast, the ARPHIC PUBLIC LICENSE specifically permits and encourages you to use this software, provided that you give the recipients all the rights that we gave you and make sure they can get the modifications of this software.
+
+Legal Terms
+
+0. Definitions:
+   Throughout this License, "Font" means the TrueType fonts "AR PL Mingti2L Big5", "AR PL KaitiM Big5" (BIG-5 character set) and "AR PL SungtiL GB", "AR PL KaitiM GB" (GB character set) which are originally distributed by Arphic, and the derivatives of those fonts created through any modification including modifying glyph, reordering glyph, converting format, changing font name, or adding/deleting some characters in/from glyph table.
+
+   "PL" means "Public License".
+
+   "Copyright Holder" means whoever is named in the copyright or copyrights for the Font.
+
+   "You" means the licensee, or person copying, redistributing or modifying the Font.
+
+   "Freely Available" means that you have the freedom to copy or modify the Font as well as redistribute copies of the Font under the same conditions you received, not price. If you wish, you can charge for this service.
+
+1. Copying &amp; Distribution
+   You may copy and distribute verbatim copies of this Font in any medium, without restriction, provided that you retain this license file (ARPHICPL.TXT) unaltered in all copies.
+
+2. Modification
+   You may otherwise modify your copy of this Font in any way, including modifying glyph, reordering glyph, converting format, changing font name, or adding/deleting some characters in/from glyph table, and copy and distribute such modifications under the terms of Section 1 above, provided that the following conditions are met:
+
+   a) You must insert a prominent notice in each modified file stating how and when you changed that file.
+
+   b) You must make such modifications Freely Available as a whole to all third parties under the terms of this License, such as by offering access to copy the modifications from a designated place, or distributing the modifications on a medium customarily used for software interchange.
+
+   c) If the modified fonts normally reads commands interactively when run, you must cause it, when started running for such interactive use in the most ordinary way, to print or display an announcement including an appropriate copyright notice and a notice that there is no warranty (or else, saying that you provide a warranty) and that users may redistribute the Font under these conditions, and telling the user how to view a copy of this License.
+
+   These requirements apply to the modified work as a whole. If identifiable sections of that work are not derived from the Font, and can be reasonably considered independent and separate works in themselves, then this License and its terms, do not apply to those sections when you distribute them as separate works. Therefore, mere aggregation of another work not based on the Font with the Font on a volume of a storage or distribution medium does not bring the other work under the scope of this License.
+
+3. Condition Subsequent
+   You may not copy, modify, sublicense, or distribute the Font except as expressly provided under this License. Any attempt otherwise to copy, modify, sublicense or distribute the Font will automatically retroactively void your rights under this License. However, parties who have received copies or rights from you under this License will keep their licenses valid so long as such parties remain in full compliance.
+
+4. Acceptance
+   You are not required to accept this License, since you have not signed it. However, nothing else grants you permission to copy, modify, sublicense or distribute the Font. These actions are prohibited by law if you do not accept this License. Therefore, by copying, modifying, sublicensing or distributing the Font, you indicate your acceptance of this License and all its terms and conditions.
+
+5. Automatic Receipt
+   Each time you redistribute the Font, the recipient automatically receives a license from the original licensor to copy, distribute or modify the Font subject to these terms and conditions. You may not impose any further restrictions on the recipients' exercise of the rights granted herein. You are not responsible for enforcing compliance by third parties to this License. 
+
+6. Contradiction
+   If, as a consequence of a court judgment or allegation of patent infringement or for any other reason (not limited to patent issues), conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot distribute so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not distribute the Font at all. For example, if a patent license would not permit royalty-free redistribution of the Font by all those who receive copies directly or indirectly through you, then the only way you could satisfy both it and this License would be to refrain entirely from distribution of the Font.
+
+   If any portion of this section is held invalid or unenforceable under any particular circumstance, the balance of the section is intended to apply and the section as a whole is intended to apply in other circumstances. 
+
+7. NO WARRANTY
+   BECAUSE THE FONT IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE FONT, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS OR OTHER PARTIES PROVIDE THE FONT "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE FONT IS WITH YOU. SHOULD THE FONT PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+8. DAMAGES WAIVER
+   UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, IN NO EVENT WILL ANY COPYRIGHTT HOLDERS, OR OTHER PARTIES WHO MAY COPY, MODIFY OR REDISTRIBUTE THE FONT AS PERMITTED ABOVE, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE FONT (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA OR PROFITS; OR BUSINESS INTERRUPTION), EVEN IF SUCH HOLDERS OR OTHER PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</string>
+    <key>openTypeNameLicenseURL</key>
+    <string>http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE</string>
+    <key>openTypeNameManufacturer</key>
+    <string>BabelStone</string>
+    <key>openTypeNameManufacturerURL</key>
+    <string>https://www.babelstone.co.uk/Fonts/</string>
+    <key>openTypeNameRecords</key>
+    <array>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>0</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>(c) Copyright 1994-1999, Arphic Technology Co., Ltd.; (c) Copyright 2009-2025, Andrew West.</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>1</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>BabelStone Han Basic</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>2</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Regular</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>3</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>BabelStone Han Basic:Version 17.0.0 BETA;May 4, 2025</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>4</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>BabelStone Han Basic</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>5</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Version 17.0.0</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>6</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>BabelStoneHanBasic</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>8</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>BabelStone</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>9</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>Andrew West</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>10</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>"BabelStone Han" is a family of two Unicode CJK fonts in Song/Ming style (宋体/明體) with G-source glyphs used in the People's Republic of China (PRC). These fonts are derived from the "AR PL Mingti2L Big5" and "AR PL SungtiL GB" fonts (released under the Arphic Public License), converted to Unicode mappings, and expanded to cover all of the main CJK Unified Ideographs block (URO), and a large number of characters in the CJK Unified Ideographs Extensions A through J blocks, including both traditional and simplified character forms.&#13;
+&#13;
+"BabelStone Han Basic" covers all characters in the CJK Unified Ideographs, CJK Unified Ideographs Extension A, CJK Compatibility Ideographs, and CJK Compatibility Ideographs Supplement blocks, as well as a wide range of other characters in the Basic Multilingual Plane (BMP) and the Supplementary Multilingual Plane (SMP).&#13;
+&#13;
+"BabelStone Han Extra" only covers CJK Unified Ideographs Extensions B, C, D, E, F, G, H, I, and J, which are in the Supplementary Ideographic Plane (SIP) and Tertiary Ideographic Plane (TIP).&#13;
+&#13;
+This version of the BabelStone Han fonts supports Unicode version 17.0 (released September 2025).&#13;
+&#13;
+Glyph for U+1F6D3 'stupa' derived from https://commons.wikimedia.org/wiki/File:Buddhist_Stupa01-BW.svg CC BY-SA 4.0 by Christopher J. Fynn.</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>11</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>https://www.babelstone.co.uk/Fonts/</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>12</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>https://www.babelstone.co.uk/</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>13</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>ARPHIC PUBLIC LICENSE
+
+Copyright (C) 1999 Arphic Technology Co., Ltd.
+11Fl. No.168, Yung Chi Rd., Taipei, 110 Taiwan
+All rights reserved except as specified below.
+
+Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is forbidden.
+
+Preamble
+
+   The licenses for most software are designed to take away your freedom to share and change it. By contrast, the ARPHIC PUBLIC LICENSE specifically permits and encourages you to use this software, provided that you give the recipients all the rights that we gave you and make sure they can get the modifications of this software.
+
+Legal Terms
+
+0. Definitions:
+   Throughout this License, "Font" means the TrueType fonts "AR PL Mingti2L Big5", "AR PL KaitiM Big5" (BIG-5 character set) and "AR PL SungtiL GB", "AR PL KaitiM GB" (GB character set) which are originally distributed by Arphic, and the derivatives of those fonts created through any modification including modifying glyph, reordering glyph, converting format, changing font name, or adding/deleting some characters in/from glyph table.
+
+   "PL" means "Public License".
+
+   "Copyright Holder" means whoever is named in the copyright or copyrights for the Font.
+
+   "You" means the licensee, or person copying, redistributing or modifying the Font.
+
+   "Freely Available" means that you have the freedom to copy or modify the Font as well as redistribute copies of the Font under the same conditions you received, not price. If you wish, you can charge for this service.
+
+1. Copying &amp; Distribution
+   You may copy and distribute verbatim copies of this Font in any medium, without restriction, provided that you retain this license file (ARPHICPL.TXT) unaltered in all copies.
+
+2. Modification
+   You may otherwise modify your copy of this Font in any way, including modifying glyph, reordering glyph, converting format, changing font name, or adding/deleting some characters in/from glyph table, and copy and distribute such modifications under the terms of Section 1 above, provided that the following conditions are met:
+
+   a) You must insert a prominent notice in each modified file stating how and when you changed that file.
+
+   b) You must make such modifications Freely Available as a whole to all third parties under the terms of this License, such as by offering access to copy the modifications from a designated place, or distributing the modifications on a medium customarily used for software interchange.
+
+   c) If the modified fonts normally reads commands interactively when run, you must cause it, when started running for such interactive use in the most ordinary way, to print or display an announcement including an appropriate copyright notice and a notice that there is no warranty (or else, saying that you provide a warranty) and that users may redistribute the Font under these conditions, and telling the user how to view a copy of this License.
+
+   These requirements apply to the modified work as a whole. If identifiable sections of that work are not derived from the Font, and can be reasonably considered independent and separate works in themselves, then this License and its terms, do not apply to those sections when you distribute them as separate works. Therefore, mere aggregation of another work not based on the Font with the Font on a volume of a storage or distribution medium does not bring the other work under the scope of this License.
+
+3. Condition Subsequent
+   You may not copy, modify, sublicense, or distribute the Font except as expressly provided under this License. Any attempt otherwise to copy, modify, sublicense or distribute the Font will automatically retroactively void your rights under this License. However, parties who have received copies or rights from you under this License will keep their licenses valid so long as such parties remain in full compliance.
+
+4. Acceptance
+   You are not required to accept this License, since you have not signed it. However, nothing else grants you permission to copy, modify, sublicense or distribute the Font. These actions are prohibited by law if you do not accept this License. Therefore, by copying, modifying, sublicensing or distributing the Font, you indicate your acceptance of this License and all its terms and conditions.
+
+5. Automatic Receipt
+   Each time you redistribute the Font, the recipient automatically receives a license from the original licensor to copy, distribute or modify the Font subject to these terms and conditions. You may not impose any further restrictions on the recipients' exercise of the rights granted herein. You are not responsible for enforcing compliance by third parties to this License. 
+
+6. Contradiction
+   If, as a consequence of a court judgment or allegation of patent infringement or for any other reason (not limited to patent issues), conditions are imposed on you (whether by court order, agreement or otherwise) that contradict the conditions of this License, they do not excuse you from the conditions of this License. If you cannot distribute so as to satisfy simultaneously your obligations under this License and any other pertinent obligations, then as a consequence you may not distribute the Font at all. For example, if a patent license would not permit royalty-free redistribution of the Font by all those who receive copies directly or indirectly through you, then the only way you could satisfy both it and this License would be to refrain entirely from distribution of the Font.
+
+   If any portion of this section is held invalid or unenforceable under any particular circumstance, the balance of the section is intended to apply and the section as a whole is intended to apply in other circumstances. 
+
+7. NO WARRANTY
+   BECAUSE THE FONT IS LICENSED FREE OF CHARGE, THERE IS NO WARRANTY FOR THE FONT, TO THE EXTENT PERMITTED BY APPLICABLE LAW. EXCEPT WHEN OTHERWISE STATED IN WRITING THE COPYRIGHT HOLDERS OR OTHER PARTIES PROVIDE THE FONT "AS IS" WITHOUT WARRANTY OF ANY KIND, EITHER EXPRESSED OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. THE ENTIRE RISK AS TO THE QUALITY AND PERFORMANCE OF THE FONT IS WITH YOU. SHOULD THE FONT PROVE DEFECTIVE, YOU ASSUME THE COST OF ALL NECESSARY SERVICING, REPAIR OR CORRECTION.
+
+8. DAMAGES WAIVER
+   UNLESS REQUIRED BY APPLICABLE LAW OR AGREED TO IN WRITING, IN NO EVENT WILL ANY COPYRIGHTT HOLDERS, OR OTHER PARTIES WHO MAY COPY, MODIFY OR REDISTRIBUTE THE FONT AS PERMITTED ABOVE, BE LIABLE TO YOU FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL OR EXEMPLARY DAMAGES ARISING OUT OF THE USE OR INABILITY TO USE THE FONT (INCLUDING BUT NOT LIMITED TO PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA OR PROFITS; OR BUSINESS INTERRUPTION), EVEN IF SUCH HOLDERS OR OTHER PARTIES HAVE BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>14</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>http://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE</string>
+      </dict>
+      <dict>
+        <key>encodingID</key>
+        <integer>1</integer>
+        <key>languageID</key>
+        <integer>1033</integer>
+        <key>nameID</key>
+        <integer>19</integer>
+        <key>platformID</key>
+        <integer>3</integer>
+        <key>string</key>
+        <string>天地玄黃，宇宙洪荒。日月盈昃，辰宿列張。</string>
+      </dict>
+    </array>
+    <key>openTypeNameUniqueID</key>
+    <string>BabelStone Han Basic:Version 17.0.0 BETA;May 4, 2025</string>
+    <key>openTypeNameVersion</key>
+    <string>Version 17.0.0</string>
+    <key>openTypeOS2CodePageRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>17</integer>
+      <integer>18</integer>
+      <integer>20</integer>
+      <integer>62</integer>
+    </array>
+    <key>openTypeOS2Panose</key>
+    <array>
+      <integer>2</integer>
+      <integer>2</integer>
+      <integer>5</integer>
+      <integer>4</integer>
+      <integer>1</integer>
+      <integer>1</integer>
+      <integer>1</integer>
+      <integer>1</integer>
+      <integer>1</integer>
+      <integer>1</integer>
+    </array>
+    <key>openTypeOS2Selection</key>
+    <array/>
+    <key>openTypeOS2StrikeoutPosition</key>
+    <integer>413</integer>
+    <key>openTypeOS2StrikeoutSize</key>
+    <integer>48</integer>
+    <key>openTypeOS2SubscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SubscriptXSize</key>
+    <integer>512</integer>
+    <key>openTypeOS2SubscriptYOffset</key>
+    <integer>368</integer>
+    <key>openTypeOS2SubscriptYSize</key>
+    <integer>512</integer>
+    <key>openTypeOS2SuperscriptXOffset</key>
+    <integer>0</integer>
+    <key>openTypeOS2SuperscriptXSize</key>
+    <integer>512</integer>
+    <key>openTypeOS2SuperscriptYOffset</key>
+    <integer>900</integer>
+    <key>openTypeOS2SuperscriptYSize</key>
+    <integer>512</integer>
+    <key>openTypeOS2Type</key>
+    <array/>
+    <key>openTypeOS2TypoAscender</key>
+    <integer>704</integer>
+    <key>openTypeOS2TypoDescender</key>
+    <integer>-58</integer>
+    <key>openTypeOS2TypoLineGap</key>
+    <integer>103</integer>
+    <key>openTypeOS2UnicodeRanges</key>
+    <array>
+      <integer>0</integer>
+      <integer>1</integer>
+      <integer>2</integer>
+      <integer>4</integer>
+      <integer>5</integer>
+      <integer>31</integer>
+      <integer>32</integer>
+      <integer>34</integer>
+      <integer>35</integer>
+      <integer>36</integer>
+      <integer>37</integer>
+      <integer>42</integer>
+      <integer>43</integer>
+      <integer>44</integer>
+      <integer>45</integer>
+      <integer>46</integer>
+      <integer>48</integer>
+      <integer>49</integer>
+      <integer>50</integer>
+      <integer>51</integer>
+      <integer>54</integer>
+      <integer>55</integer>
+      <integer>57</integer>
+      <integer>59</integer>
+      <integer>60</integer>
+      <integer>61</integer>
+      <integer>65</integer>
+      <integer>66</integer>
+      <integer>68</integer>
+      <integer>69</integer>
+      <integer>91</integer>
+      <integer>92</integer>
+    </array>
+    <key>openTypeOS2VendorID</key>
+    <string>ACW </string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
+    <key>openTypeOS2WinAscent</key>
+    <integer>1020</integer>
+    <key>openTypeOS2WinDescent</key>
+    <integer>244</integer>
+    <key>postscriptFontName</key>
+    <string>BabelStoneHanBasic</string>
+    <key>postscriptIsFixedPitch</key>
+    <false/>
+    <key>postscriptUnderlinePosition</key>
+    <integer>-148</integer>
+    <key>postscriptUnderlineThickness</key>
+    <integer>48</integer>
+    <key>styleMapFamilyName</key>
+    <string>BabelStone Han Basic</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
+    <key>styleName</key>
+    <string>Regular</string>
+    <key>unitsPerEm</key>
+    <integer>1024</integer>
+    <key>versionMajor</key>
+    <integer>17</integer>
+    <key>versionMinor</key>
+    <integer>0</integer>
+    <key>xHeight</key>
+    <integer>495</integer>
+  </dict>
+</plist>

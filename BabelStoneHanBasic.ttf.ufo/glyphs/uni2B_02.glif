@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2B02" format="2">
+  <advance width="1024"/>
+  <unicode hex="2B02"/>
+  <outline>
+    <contour>
+      <point x="260" y="40" type="line"/>
+      <point x="461" y="241" type="line"/>
+      <point x="164" y="538" type="line"/>
+      <point x="362" y="736" type="line"/>
+      <point x="659" y="439" type="line"/>
+      <point x="860" y="640" type="line"/>
+      <point x="859" y="40" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="663" type="line"/>
+      <point x="236" y="545" type="line"/>
+      <point x="533" y="248" type="line"/>
+      <point x="362" y="77" type="line"/>
+      <point x="822" y="77" type="line"/>
+      <point x="820" y="535" type="line"/>
+      <point x="651" y="366" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1024l260+40l461+241l164+538l362+736l659+439l860+640l859+40|l354+663l236+545l533+248l362+77l822+77l820+535l651+366|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

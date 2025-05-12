@@ -1,0 +1,60 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20AE" format="2">
+  <advance width="512"/>
+  <unicode hex="20AE"/>
+  <outline>
+    <contour>
+      <point x="273" y="323" type="line"/>
+      <point x="273" y="152" type="line"/>
+      <point x="273" y="93"/>
+      <point x="387" y="93" type="qcurve"/>
+      <point x="387" y="76" type="line"/>
+      <point x="110" y="76" type="line"/>
+      <point x="110" y="93" type="line"/>
+      <point x="226" y="94"/>
+      <point x="226" y="152" type="qcurve"/>
+      <point x="226" y="312" type="line"/>
+      <point x="54" y="269" type="line"/>
+      <point x="54" y="303" type="line"/>
+      <point x="226" y="346" type="line"/>
+      <point x="226" y="414" type="line"/>
+      <point x="54" y="371" type="line"/>
+      <point x="54" y="405" type="line"/>
+      <point x="226" y="448" type="line"/>
+      <point x="226" y="672" type="line"/>
+      <point x="166" y="672" type="line"/>
+      <point x="99" y="672"/>
+      <point x="38" y="563" type="qcurve"/>
+      <point x="27" y="567" type="line"/>
+      <point x="68" y="694" type="line"/>
+      <point x="444" y="694" type="line"/>
+      <point x="486" y="567" type="line"/>
+      <point x="474" y="563" type="line"/>
+      <point x="415" y="672"/>
+      <point x="348" y="672" type="qcurve"/>
+      <point x="273" y="672" type="line"/>
+      <point x="273" y="459" type="line"/>
+      <point x="458" y="505" type="line"/>
+      <point x="458" y="471" type="line"/>
+      <point x="273" y="425" type="line"/>
+      <point x="273" y="357" type="line"/>
+      <point x="458" y="403" type="line"/>
+      <point x="458" y="369" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>e1f7cf88744f86aa1f54ba0ad38546f9bd93f3b9249678fad0d32fc93a9ba18dafe05a0a9f787baf8f812ae01c8245c723db140f94701b2d034d9d072068126b</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

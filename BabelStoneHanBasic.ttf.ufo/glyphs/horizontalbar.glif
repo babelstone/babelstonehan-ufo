@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="horizontalbar" format="2">
+  <advance width="1024"/>
+  <unicode hex="2015"/>
+  <outline>
+    <contour>
+      <point x="952" y="416" type="line"/>
+      <point x="952" y="372" type="line"/>
+      <point x="72" y="372" type="line"/>
+      <point x="72" y="416" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1024l952+416l952+372l72+372l72+416|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

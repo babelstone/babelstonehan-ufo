@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="radical" format="2">
+  <advance width="1024"/>
+  <unicode hex="221A"/>
+  <outline>
+    <contour>
+      <point x="244" y="-3" type="line"/>
+      <point x="135" y="254" type="line"/>
+      <point x="64" y="199" type="line"/>
+      <point x="54" y="219" type="line"/>
+      <point x="186" y="317" type="line"/>
+      <point x="273" y="75" type="line"/>
+      <point x="1024" y="900" type="line"/>
+      <point x="1024" y="857" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1024l244-3l135+254l64+199l54+219l186+317l273+75l1024+900l1024+857|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="onedotenleader" format="2">
+  <advance width="1024"/>
+  <unicode hex="2024"/>
+  <outline>
+    <contour>
+      <point x="538" y="453"/>
+      <point x="557" y="434" type="qcurve"/>
+      <point x="577" y="413"/>
+      <point x="577" y="388" type="qcurve"/>
+      <point x="577" y="363"/>
+      <point x="557" y="344" type="qcurve"/>
+      <point x="538" y="325"/>
+      <point x="513" y="325" type="qcurve"/>
+      <point x="486" y="325"/>
+      <point x="467" y="344" type="qcurve"/>
+      <point x="449" y="363"/>
+      <point x="449" y="388" type="qcurve"/>
+      <point x="449" y="415"/>
+      <point x="467" y="434" type="qcurve"/>
+      <point x="488" y="453"/>
+      <point x="513" y="453" type="qcurve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>2c3c807f4519147828f23cb7ba0ae514c4bd5fb955d87eebf64308c92cbe44557a3bbd4ef4d8fb36aa396e91c71b8398afad85a3d5fc28c7b0c924cb6196c064</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

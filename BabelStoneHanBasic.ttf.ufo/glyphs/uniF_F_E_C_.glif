@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFFEC" format="2">
+  <advance width="512"/>
+  <unicode hex="FFEC"/>
+  <outline>
+    <contour>
+      <point x="273" y="304" type="line"/>
+      <point x="398" y="391" type="line"/>
+      <point x="256" y="166" type="line"/>
+      <point x="114" y="391" type="line"/>
+      <point x="239" y="304" type="line"/>
+      <point x="239" y="611" type="line"/>
+      <point x="273" y="611" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l273+304l398+391l256+166l114+391l239+304l239+611l273+611|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

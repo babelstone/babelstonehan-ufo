@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1FBCB" format="2">
+  <advance width="1025"/>
+  <unicode hex="1FBCB"/>
+  <outline>
+    <contour>
+      <point x="811" y="562" type="line"/>
+      <point x="686" y="686" type="line"/>
+      <point x="512" y="512" type="line"/>
+      <point x="338" y="686" type="line"/>
+      <point x="214" y="562" type="line"/>
+      <point x="388" y="388" type="line"/>
+      <point x="214" y="214" type="line"/>
+      <point x="338" y="90" type="line"/>
+      <point x="512" y="264" type="line"/>
+      <point x="686" y="90" type="line"/>
+      <point x="811" y="214" type="line"/>
+      <point x="637" y="388" type="line"/>
+    </contour>
+    <contour>
+      <point x="992" y="562" type="line"/>
+      <point x="818" y="388" type="line"/>
+      <point x="992" y="214" type="line"/>
+      <point x="686" y="-91" type="line"/>
+      <point x="512" y="83" type="line"/>
+      <point x="338" y="-91" type="line"/>
+      <point x="33" y="214" type="line"/>
+      <point x="207" y="388" type="line"/>
+      <point x="33" y="562" type="line"/>
+      <point x="338" y="867" type="line"/>
+      <point x="512" y="693" type="line"/>
+      <point x="686" y="867" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>aec30beac8b37ff7375f805d81ce93f990850e9649e677a55e23c00d3af73c00b03f653795105b74190646c97af2e54b5856090da9f6a4b4933b8968b5111ba3</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

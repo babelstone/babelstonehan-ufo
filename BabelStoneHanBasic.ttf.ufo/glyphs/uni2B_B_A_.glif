@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2BBA" format="2">
+  <advance width="1024"/>
+  <unicode hex="2BBA"/>
+  <outline>
+    <contour>
+      <point x="372" y="528" type="line"/>
+      <point x="372" y="828" type="line"/>
+      <point x="952" y="828" type="line"/>
+      <point x="952" y="248" type="line"/>
+      <point x="652" y="248" type="line"/>
+      <point x="652" y="-52" type="line"/>
+      <point x="72" y="-52" type="line"/>
+      <point x="72" y="528" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="528" type="line"/>
+      <point x="652" y="528" type="line"/>
+      <point x="652" y="288" type="line"/>
+      <point x="912" y="288" type="line"/>
+      <point x="912" y="788" type="line"/>
+      <point x="412" y="788" type="line"/>
+    </contour>
+    <contour>
+      <point x="412" y="488" type="line"/>
+      <point x="412" y="288" type="line"/>
+      <point x="612" y="288" type="line"/>
+      <point x="612" y="488" type="line"/>
+    </contour>
+    <contour>
+      <point x="372" y="488" type="line"/>
+      <point x="112" y="488" type="line"/>
+      <point x="112" y="-12" type="line"/>
+      <point x="612" y="-12" type="line"/>
+      <point x="612" y="248" type="line"/>
+      <point x="372" y="248" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>8b56036c667454950222994b5994683a6ca8cd24375981a992bae2c7c8aca595c03e135fce569e5baf7a07f4120feda0eae2d0b55d6964eec7029829be99c39e</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="greater" format="2">
+  <advance width="512"/>
+  <unicode hex="003E"/>
+  <outline>
+    <contour>
+      <point x="490" y="378" type="line"/>
+      <point x="23" y="181" type="line"/>
+      <point x="23" y="221" type="line"/>
+      <point x="438" y="396" type="line"/>
+      <point x="23" y="542" type="line"/>
+      <point x="23" y="582" type="line"/>
+      <point x="490" y="418" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l490+378l23+181l23+221l438+396l23+542l23+582l490+418|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

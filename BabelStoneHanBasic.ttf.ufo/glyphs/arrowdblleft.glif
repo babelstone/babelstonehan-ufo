@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowdblleft" format="2">
+  <advance width="1024"/>
+  <unicode hex="21D0"/>
+  <outline>
+    <contour>
+      <point x="249" y="305" type="line"/>
+      <point x="991" y="305" type="line"/>
+      <point x="991" y="271" type="line"/>
+      <point x="263" y="271" type="line"/>
+      <point x="334" y="99" type="line"/>
+      <point x="34" y="388" type="line"/>
+      <point x="334" y="677" type="line"/>
+      <point x="263" y="505" type="line"/>
+      <point x="991" y="505" type="line"/>
+      <point x="991" y="471" type="line"/>
+      <point x="249" y="471" type="line"/>
+      <point x="215" y="388" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w1024l249+305l991+305l991+271l263+271l334+99l34+388l334+677l263+505l991+505l991+471l249+471l215+388|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

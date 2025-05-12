@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="checkerboard" format="2">
+  <advance width="1024"/>
+  <unicode hex="1F67E"/>
+  <outline>
+    <contour>
+      <point x="517" y="858" type="qcurve"/>
+      <point x="975" y="858" type="line"/>
+      <point x="978" y="858"/>
+      <point x="981" y="852" type="qcurve"/>
+      <point x="981" y="396" type="line"/>
+      <point x="981" y="393"/>
+      <point x="975" y="390" type="qcurve"/>
+      <point x="517" y="390" type="line"/>
+      <point x="514" y="390"/>
+      <point x="511" y="396" type="qcurve"/>
+      <point x="511" y="852" type="line"/>
+      <point x="511" y="855"/>
+    </contour>
+    <contour>
+      <point x="49" y="390" type="qcurve"/>
+      <point x="505" y="390" type="line"/>
+      <point x="508" y="390"/>
+      <point x="511" y="384" type="qcurve"/>
+      <point x="511" y="-74" type="line"/>
+      <point x="511" y="-77"/>
+      <point x="505" y="-80" type="qcurve"/>
+      <point x="49" y="-80" type="line"/>
+      <point x="46" y="-80"/>
+      <point x="43" y="-74" type="qcurve"/>
+      <point x="43" y="384" type="line"/>
+      <point x="43" y="387"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>1d4e91568a6ad9289efed9b03675b485ff2ff73d907e6476f36c8ea38a876db508cd75cb2246455a8678188b2dc4db01442ea5917753d84eb633607854ac6778</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

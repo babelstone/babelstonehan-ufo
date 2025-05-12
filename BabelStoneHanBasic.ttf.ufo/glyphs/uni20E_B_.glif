@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20EB" format="2">
+  <unicode hex="20EB"/>
+  <outline>
+    <contour>
+      <point x="-429" y="867" type="line"/>
+      <point x="-395" y="867" type="line"/>
+      <point x="-795" y="-90" type="line"/>
+      <point x="-829" y="-90" type="line"/>
+    </contour>
+    <contour>
+      <point x="-229" y="867" type="line"/>
+      <point x="-195" y="867" type="line"/>
+      <point x="-595" y="-90" type="line"/>
+      <point x="-629" y="-90" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w0l-429+867l-395+867l-795-90l-829-90|l-229+867l-195+867l-595-90l-629-90|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

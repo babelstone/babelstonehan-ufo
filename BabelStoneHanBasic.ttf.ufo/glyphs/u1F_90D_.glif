@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u1F90D" format="2">
+  <advance width="1024"/>
+  <unicode hex="1F90D"/>
+  <outline>
+    <contour>
+      <point x="321" y="727" type="qcurve"/>
+      <point x="290" y="727"/>
+      <point x="254" y="716" type="qcurve"/>
+      <point x="109" y="651"/>
+      <point x="109" y="509" type="qcurve"/>
+      <point x="109" y="507" type="line"/>
+      <point x="109" y="405"/>
+      <point x="257" y="253" type="qcurve"/>
+      <point x="421" y="103"/>
+      <point x="514" y="51" type="qcurve"/>
+      <point x="519" y="54"/>
+      <point x="573" y="95" type="qcurve"/>
+      <point x="915" y="346"/>
+      <point x="915" y="511" type="qcurve"/>
+      <point x="915" y="551"/>
+      <point x="895" y="598" type="qcurve"/>
+      <point x="828" y="727"/>
+      <point x="705" y="727" type="qcurve"/>
+      <point x="611" y="727"/>
+      <point x="511" y="591" type="qcurve"/>
+      <point x="410" y="727"/>
+    </contour>
+    <contour>
+      <point x="321" y="747" type="qcurve"/>
+      <point x="420" y="747"/>
+      <point x="511" y="625" type="qcurve"/>
+      <point x="601" y="747"/>
+      <point x="705" y="747" type="qcurve"/>
+      <point x="840" y="747"/>
+      <point x="913" y="607" type="qcurve"/>
+      <point x="935" y="555"/>
+      <point x="935" y="511" type="qcurve"/>
+      <point x="935" y="336"/>
+      <point x="585" y="79" type="qcurve"/>
+      <point x="519" y="31"/>
+      <point x="509" y="31" type="qcurve"/>
+      <point x="409" y="87"/>
+      <point x="243" y="239" type="qcurve"/>
+      <point x="89" y="397"/>
+      <point x="89" y="507" type="qcurve"/>
+      <point x="89" y="509" type="line"/>
+      <point x="89" y="664"/>
+      <point x="247" y="735" type="qcurve"/>
+      <point x="287" y="747"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>22b463c83baa96dae314433f6c0f87d133ae23f1dd7288397e2adaa0638377d9604bb3385cef805dafb3c10fddb9d7b4bf2ddb0e4ac970d73b8e4e528cb73265</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

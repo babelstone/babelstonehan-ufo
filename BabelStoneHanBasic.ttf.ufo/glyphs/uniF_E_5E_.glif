@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uniFE5E" format="2">
+  <advance width="512"/>
+  <unicode hex="FE5E"/>
+  <outline>
+    <contour>
+      <point x="170" y="680" type="line"/>
+      <point x="191" y="718" type="line"/>
+      <point x="342" y="637" type="line"/>
+      <point x="342" y="139" type="line"/>
+      <point x="191" y="59" type="line"/>
+      <point x="170" y="98" type="line"/>
+      <point x="295" y="162" type="line"/>
+      <point x="295" y="614" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w512l170+680l191+718l342+637l342+139l191+59l170+98l295+162l295+614|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
