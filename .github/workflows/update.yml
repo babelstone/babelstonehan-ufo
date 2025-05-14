@@ -37,3 +37,12 @@ jobs:
           git add .
           git commit -m "Update"
           git push --force-with-lease origin
+      - name: Tag
+        if: steps.updated.outputs.updated == 'true'
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          export TAG_NAME=`date +'%Y%m%d'`-beta
+          git tag -m "$TAG_NAME" "$TAG_NAME"
+          git push origin "$TAG_NAME"
+

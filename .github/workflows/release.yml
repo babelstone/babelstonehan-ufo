@@ -1,0 +1,21 @@
+on: 
+  push:
+    tags: ["*"]
+  workflow_dispatch:
+  
+jobs:
+  release:
+    name: Release
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - run: sh download.sh
+      - uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            BabelStoneHanBasic.ttf
+            BabelStoneHanExtra.ttf
+            BabelStoneHanPUA.ttf
+            LICENSE
