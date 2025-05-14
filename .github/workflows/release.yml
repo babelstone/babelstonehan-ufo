@@ -2,7 +2,9 @@ on:
   push:
     tags: ["*"]
   workflow_dispatch:
-  
+
+name: Release
+
 jobs:
   release:
     name: Release
