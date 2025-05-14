@@ -285,11 +285,11 @@
       <point x="498" y="475"/>
       <point x="505" y="468" type="qcurve"/>
       <point x="534" y="449"/>
-      <point x="582" y="427" type="qcurve"/>
-      <point x="591" y="419"/>
-      <point x="590" y="415" type="qcurve"/>
-      <point x="588" y="410"/>
-      <point x="581" y="406" type="qcurve"/>
+      <point x="562" y="427" type="qcurve"/>
+      <point x="571" y="419"/>
+      <point x="570" y="415" type="qcurve"/>
+      <point x="568" y="410"/>
+      <point x="561" y="406" type="qcurve"/>
       <point x="535" y="394"/>
       <point x="534" y="387" type="qcurve"/>
       <point x="532" y="381"/>
@@ -427,7 +427,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>e928fbaf3aa6d2280eb674028b55236f8dc234f2bec78eabba1a0254536c63f662b5b78010445a65673b054fffa1740a6c6ae314b19609f1e84b6107293a040e</string>
+        <string>8f2c45d70a54f152d6e883e7d1750d64ab1cf011945a72f030ff59048c92c59ac79cebcedc8f6141b4b759c7f73679a57f34bb6aefb19c9daac4429efc9721d6</string>
       </dict>
     </dict>
   </lib>
