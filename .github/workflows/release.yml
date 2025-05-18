@@ -1,6 +1,10 @@
 on: 
+  # Automatically created tags
+  create:
+  # Manually created and pushed tags
   push:
     tags: ["*"]
+  # Run on specific tag from the workflow panel
   workflow_dispatch:
 
 name: Release
@@ -9,6 +13,7 @@ jobs:
   release:
     name: Release
     runs-on: ubuntu-latest
+    if: ${{ startsWith(github.ref, 'refs/tags/v') }}
     permissions:
       contents: write
     steps:
