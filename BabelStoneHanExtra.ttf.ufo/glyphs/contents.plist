@@ -36178,6 +36178,8 @@
     <string>u2A_6A_7.glif</string>
     <key>u2A6A8</key>
     <string>u2A_6A_8.glif</string>
+    <key>u2A6A8.var1</key>
+    <string>u2A_6A_8.var1.glif</string>
     <key>u2A6A9</key>
     <string>u2A_6A_9.glif</string>
     <key>u2A6A9.var1</key>
@@ -41138,6 +41140,8 @@
     <string>u2B_73D_.glif</string>
     <key>u2B73E</key>
     <string>u2B_73E_.glif</string>
+    <key>u2B73F</key>
+    <string>u2B_73F_.glif</string>
     <key>u2B740</key>
     <string>u2B_740.glif</string>
     <key>u2B741</key>
@@ -41586,10 +41590,6 @@
     <string>u2B_81C_.glif</string>
     <key>u2B81D</key>
     <string>u2B_81D_.glif</string>
-    <key>u2B81E</key>
-    <string>u2B_81E_.glif</string>
-    <key>u2B81F</key>
-    <string>u2B_81F_.glif</string>
     <key>u2B820</key>
     <string>u2B_820.glif</string>
     <key>u2B821</key>
@@ -69364,6 +69364,8 @@
     <string>u323B_1.glif</string>
     <key>u323B2</key>
     <string>u323B_2.glif</string>
+    <key>u323B2.var1</key>
+    <string>u323B_2.var1.glif</string>
     <key>u323B3</key>
     <string>u323B_3.glif</string>
     <key>u323B5</key>
@@ -69394,8 +69396,12 @@
     <string>u323C_6.glif</string>
     <key>u323CA</key>
     <string>u323C_A_.glif</string>
+    <key>u323CA.var1</key>
+    <string>u323C_A_.var1.glif</string>
     <key>u323CC</key>
     <string>u323C_C_.glif</string>
+    <key>u323CC.var1</key>
+    <string>u323C_C_.var1.glif</string>
     <key>u323D1</key>
     <string>u323D_1.glif</string>
     <key>u323D2</key>
@@ -69598,6 +69604,8 @@
     <string>u324E_6.glif</string>
     <key>u324E7</key>
     <string>u324E_7.glif</string>
+    <key>u324E7.var1</key>
+    <string>u324E_7.var1.glif</string>
     <key>u324F2</key>
     <string>u324F_2.glif</string>
     <key>u324F9</key>
@@ -69918,6 +69926,8 @@
     <string>u32615.glif</string>
     <key>u32617</key>
     <string>u32617.glif</string>
+    <key>u32617.var1</key>
+    <string>u32617.var1.glif</string>
     <key>u32618</key>
     <string>u32618.glif</string>
     <key>u32619</key>
@@ -70118,6 +70128,8 @@
     <string>u326A_C_.glif</string>
     <key>u326AF</key>
     <string>u326A_F_.glif</string>
+    <key>u326AF.var1</key>
+    <string>u326A_F_.var1.glif</string>
     <key>u326B4</key>
     <string>u326B_4.glif</string>
     <key>u326B5</key>
@@ -70342,6 +70354,8 @@
     <string>u3279B_.glif</string>
     <key>u3279D</key>
     <string>u3279D_.glif</string>
+    <key>u3279D.var1</key>
+    <string>u3279D_.var1.glif</string>
     <key>u3279E</key>
     <string>u3279E_.glif</string>
     <key>u3279F</key>
@@ -70784,6 +70798,8 @@
     <string>u32A_06.glif</string>
     <key>u32A09</key>
     <string>u32A_09.glif</string>
+    <key>u32A09.var1</key>
+    <string>u32A_09.var1.glif</string>
     <key>u32A0B</key>
     <string>u32A_0B_.glif</string>
     <key>u32A0C</key>
@@ -71366,6 +71382,8 @@
     <string>u32C_0D_.glif</string>
     <key>u32C0F</key>
     <string>u32C_0F_.glif</string>
+    <key>u32C0F.var1</key>
+    <string>u32C_0F_.var1.glif</string>
     <key>u32C10</key>
     <string>u32C_10.glif</string>
     <key>u32C11</key>
@@ -71540,6 +71558,10 @@
     <string>u32C_A_E_.glif</string>
     <key>u32CAF</key>
     <string>u32C_A_F_.glif</string>
+    <key>u32CAF.var1</key>
+    <string>u32C_A_F_.var1.glif</string>
+    <key>u32CAF.var2</key>
+    <string>u32C_A_F_.var2.glif</string>
     <key>u32CB1</key>
     <string>u32C_B_1.glif</string>
     <key>u32CB3</key>
@@ -72608,6 +72630,8 @@
     <string>u3310D_.glif</string>
     <key>u3310E</key>
     <string>u3310E_.glif</string>
+    <key>u3310E.var1</key>
+    <string>u3310E_.var1.glif</string>
     <key>u33110</key>
     <string>u33110.glif</string>
     <key>u33111</key>
@@ -72654,6 +72678,8 @@
     <string>u3314D_.glif</string>
     <key>u3314E</key>
     <string>u3314E_.glif</string>
+    <key>u3314E.var1</key>
+    <string>u3314E_.var1.glif</string>
     <key>u33152</key>
     <string>u33152.glif</string>
     <key>u33154</key>
@@ -72982,6 +73008,8 @@
     <string>u33270.glif</string>
     <key>u33271</key>
     <string>u33271.glif</string>
+    <key>u33271.var1</key>
+    <string>u33271.var1.glif</string>
     <key>u33272</key>
     <string>u33272.glif</string>
     <key>u33273</key>
