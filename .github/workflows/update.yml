@@ -38,6 +38,7 @@ jobs:
           git commit -m "Update"
           git push --force-with-lease origin
       - name: Tag
+        id: tag
         if: steps.updated.outputs.updated == 'true'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -45,4 +46,9 @@ jobs:
           export TAG_NAME=`date +'%Y%m%d'`-beta
           git tag -m "$TAG_NAME" "$TAG_NAME"
           git push origin "$TAG_NAME"
-
+          echo "TAG_NAME=$TAG_NAME" >> "$GITHUB_OUTPUT"
+      - name: Release
+        uses: ./.github/workflows/release.yml
+        if: steps.updated.outputs.updated == 'true'
+        with:
+          tag_name: ${{ steps.tag.outputs.TAG_NAME }}
