@@ -48,11 +48,11 @@ class UFOChangelogGenerator:
     def extract_glyph_name_from_path(self, file_path):
         """Extract glyph name from .glif file path."""
         if file_path.endswith('.glif'):
-            return Path(file_path).stem
+            return Path(file_path).stem.replace("_", "")
         return None
     
     def infer_unicode_from_glyph_name(self, glyph_name):
-        return glyph_name.replace("uni", "").replace("u", "").replace("_", "")
+        return glyph_name.replace("uni", "").replace("u", "")
 
     def get_unicode_from_glif(self, tag, file_path):
         """Extract Unicode value from a .glif file."""
@@ -178,10 +178,11 @@ class UFOChangelogGenerator:
                 break
                 
             if glyph['unicode']:
-                output.append(f"- U+{glyph['unicode']} {chr(int(glyph['unicode'], 16))}")
+                glyph_text = f"- U+{glyph['unicode']} {chr(int(glyph['unicode'], 16))}"
                 if glyph['unicode'] != self.infer_unicode_from_glyph_name(glyph['name']):
-                    # Output glyph name if the unicode value is not as same as the inferred unicode value
-                    output.append(f" (`{glyph['name']}`)")
+                    # Also show glyph name if the unicode value is not as same as the inferred unicode value
+                    glyph_text += f" (`{glyph['name']}`)"
+                output.append(glyph_text)
             else:
                 output.append(f"- `{glyph['name']}`")
                 
