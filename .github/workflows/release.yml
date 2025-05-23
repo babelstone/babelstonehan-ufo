@@ -22,8 +22,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: sh download.sh
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: Generate changelog
+        run: ./generate-changelog.py > ${{ github.workspace }}-CHANGELOG.md
       - uses: softprops/action-gh-release@v2
         with:
+          body_path: ${{ github.workspace }}-CHANGELOG.md
           tag_name: ${{ inputs.tag_name }}
           files: |
             BabelStoneHanBasic.ttf
