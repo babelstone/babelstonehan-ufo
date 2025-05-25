@@ -10,6 +10,9 @@ jobs:
   update:
     name: Update ufo
     runs-on: ubuntu-latest
+    outputs:
+      updated: ${{ steps.updated.outputs.updated }}
+      TAG_NAME: ${{ steps.tag.outputs.TAG_NAME }}
     permissions:
       contents: write
     steps:
@@ -47,8 +50,14 @@ jobs:
           git tag -m "$TAG_NAME" "$TAG_NAME"
           git push origin "$TAG_NAME"
           echo "TAG_NAME=$TAG_NAME" >> "$GITHUB_OUTPUT"
-      - name: Release
-        uses: ./.github/workflows/release.yml
-        if: steps.updated.outputs.updated == 'true'
-        with:
-          tag_name: ${{ steps.tag.outputs.TAG_NAME }}
+
+  release:
+    name: Release
+    needs: update
+    uses: ./.github/workflows/release.yml
+    if: needs.update.outputs.updated == 'true'
+    permissions:
+      contents: write
+    with:
+      tag_name: ${{ needs.update.outputs.TAG_NAME }}
+
