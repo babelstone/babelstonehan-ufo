@@ -200,7 +200,6 @@
       <string>uniE0E2</string>
       <string>uniE0E3</string>
       <string>uniE0E4</string>
-      <string>uniE0E5</string>
       <string>uniE0E6</string>
       <string>uniE0E7</string>
       <string>uniE0E8</string>
@@ -875,7 +874,6 @@
       <string>uniE38A</string>
       <string>uniE38B</string>
       <string>uniE38C</string>
-      <string>uniE38D</string>
       <string>uniE38E</string>
       <string>uniE38F</string>
       <string>uniE390</string>
@@ -3856,7 +3854,6 @@
       <string>uniEFB1</string>
       <string>uniEFB2</string>
       <string>uniEFB3</string>
-      <string>uniEFB4</string>
       <string>uniEFB5</string>
       <string>uniEFB6</string>
       <string>uniEFB7</string>
@@ -3981,7 +3978,6 @@
       <string>uniF031</string>
       <string>uniF032</string>
       <string>uniF033</string>
-      <string>uniF034</string>
       <string>uniF035</string>
       <string>uniF036</string>
       <string>uniF037</string>
@@ -4183,6 +4179,7 @@
       <string>uniF0FF</string>
       <string>uniF100</string>
       <string>uniF101</string>
+      <string>uniF102</string>
       <string>uniF103</string>
       <string>uniF104</string>
       <string>uniF105</string>
@@ -5866,7 +5863,6 @@
       <string>uniF7FF</string>
       <string>uniF800</string>
       <string>uniF801</string>
-      <string>uniF802</string>
       <string>uniF803</string>
       <string>uniF804</string>
       <string>uniF805</string>
@@ -6080,7 +6076,7 @@
       <string>uniF8DE</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/01/01 21:29:01</string>
+    <string>2025/05/29 17:56:32</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>

@@ -34193,6 +34193,9 @@
       <string>uni50E7.var1</string>
       <string>uni50EC.var1</string>
       <string>uni5140.var1</string>
+      <string>uni514F.var1</string>
+      <string>uni514F.var2</string>
+      <string>uni514F.var3</string>
       <string>uni5154.var1</string>
       <string>uni5168.var1</string>
       <string>uni5177.var1</string>
@@ -34685,7 +34688,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/05/14 21:23:18</string>
+    <string>2025/05/29 12:52:08</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35739,6 +35742,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni50EC.var1</string>
         <key>5140</key>
         <string>uni5140</string>
+        <key>514F</key>
+        <string>uni514F</string>
         <key>5168</key>
         <string>uni5168.var1</string>
         <key>517F</key>
@@ -36406,6 +36411,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni50E5.var1</string>
         <key>50E7</key>
         <string>uni50E7.var1</string>
+        <key>514F</key>
+        <string>uni514F.var1</string>
         <key>5177</key>
         <string>uni5177.var1</string>
         <key>5192</key>
@@ -36749,6 +36756,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4E9F</string>
         <key>5140</key>
         <string>uni5140.var1</string>
+        <key>514F</key>
+        <string>uni514F.var2</string>
         <key>5154</key>
         <string>uni5154</string>
         <key>5192</key>
@@ -36952,6 +36961,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4ED7</string>
         <key>50E7</key>
         <string>uni50E7</string>
+        <key>514F</key>
+        <string>uni514F.var3</string>
         <key>5177</key>
         <string>uni5177</string>
         <key>52E5</key>
