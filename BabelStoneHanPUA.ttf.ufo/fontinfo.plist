@@ -68,7 +68,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
-    <string>"BabelStone Han PUA" contains glyphs for 5,973 unencoded CJK ideographs in the range E080..F8DF of the PUA.</string>
+    <string>"BabelStone Han PUA" contains glyphs for 5,976 unencoded CJK ideographs in the range E080..F8DF of the PUA.</string>
     <key>openTypeNameDesigner</key>
     <string>Andrew West</string>
     <key>openTypeNameDesignerURL</key>
@@ -186,7 +186,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>BabelStone Han PUA:Version 1.466;May 29, 2025</string>
+        <string>BabelStone Han PUA:Version 1.467;June 1, 2025</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -210,7 +210,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 1.466</string>
+        <string>Version 1.467</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -258,7 +258,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>"BabelStone Han PUA" contains glyphs for 5,973 unencoded CJK ideographs in the range E080..F8DF of the PUA.</string>
+        <string>"BabelStone Han PUA" contains glyphs for 5,976 unencoded CJK ideographs in the range E080..F8DF of the PUA.</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -367,9 +367,9 @@ Legal Terms
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>BabelStone Han PUA:Version 1.466;May 29, 2025</string>
+    <string>BabelStone Han PUA:Version 1.467;June 1, 2025</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.466</string>
+    <string>Version 1.467</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -451,7 +451,7 @@ Legal Terms
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
-    <integer>466</integer>
+    <integer>467</integer>
     <key>xHeight</key>
     <integer>495</integer>
   </dict>

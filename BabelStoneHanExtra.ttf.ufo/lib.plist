@@ -1113,6 +1113,7 @@
       <string>u2074F</string>
       <string>u20750</string>
       <string>u20758</string>
+      <string>u2075D</string>
       <string>u20760</string>
       <string>u20761</string>
       <string>u20763</string>
@@ -1965,6 +1966,7 @@
       <string>u20DD4</string>
       <string>u20DD5</string>
       <string>u20DD8</string>
+      <string>u20DDA</string>
       <string>u20DDD</string>
       <string>u20DDE</string>
       <string>u20DDF</string>
@@ -6098,6 +6100,7 @@
       <string>u23386</string>
       <string>u23387</string>
       <string>u23388</string>
+      <string>u2338C</string>
       <string>u2338D</string>
       <string>u23391</string>
       <string>u23392</string>
@@ -7464,6 +7467,7 @@
       <string>u2406F</string>
       <string>u24073</string>
       <string>u24075</string>
+      <string>u24076</string>
       <string>u24077</string>
       <string>u24078</string>
       <string>u2407A</string>
@@ -8667,6 +8671,7 @@
       <string>u24B56</string>
       <string>u24B59</string>
       <string>u24B5B</string>
+      <string>u24B5F</string>
       <string>u24B60</string>
       <string>u24B62</string>
       <string>u24B64</string>
@@ -8675,6 +8680,7 @@
       <string>u24B6B</string>
       <string>u24B6D</string>
       <string>u24B6F</string>
+      <string>u24B74</string>
       <string>u24B75</string>
       <string>u24B79</string>
       <string>u24B7D</string>
@@ -9871,6 +9877,8 @@
       <string>u257CE</string>
       <string>u257CF</string>
       <string>u257D1</string>
+      <string>u257D9</string>
+      <string>u257DF</string>
       <string>u257E0</string>
       <string>u257E6</string>
       <string>u257E8</string>
@@ -10562,6 +10570,7 @@
       <string>u25FD7</string>
       <string>u25FDC</string>
       <string>u25FDD</string>
+      <string>u25FDE</string>
       <string>u25FE0</string>
       <string>u25FE1</string>
       <string>u25FE4</string>
@@ -10727,6 +10736,7 @@
       <string>u2619B</string>
       <string>u2619C</string>
       <string>u2619F</string>
+      <string>u261A4</string>
       <string>u261AD</string>
       <string>u261AF</string>
       <string>u261B2</string>
@@ -11574,6 +11584,8 @@
       <string>u26AB5</string>
       <string>u26AB7</string>
       <string>u26ABD</string>
+      <string>u26ABE</string>
+      <string>u26ABF</string>
       <string>u26AC0</string>
       <string>u26AC3</string>
       <string>u26AC5</string>
@@ -11595,7 +11607,14 @@
       <string>u26AE7</string>
       <string>u26AE8</string>
       <string>u26AEA</string>
+      <string>u26AEB</string>
+      <string>u26AEC</string>
+      <string>u26AED</string>
       <string>u26AEE</string>
+      <string>u26AEF</string>
+      <string>u26AF0</string>
+      <string>u26AF1</string>
+      <string>u26AF2</string>
       <string>u26AF3</string>
       <string>u26AF4</string>
       <string>u26AF5</string>
@@ -12035,6 +12054,7 @@
       <string>u27067</string>
       <string>u27068</string>
       <string>u2706D</string>
+      <string>u27070</string>
       <string>u27076</string>
       <string>u27078</string>
       <string>u2707E</string>
@@ -12485,6 +12505,7 @@
       <string>u274CD</string>
       <string>u274CF</string>
       <string>u274D1</string>
+      <string>u274D4</string>
       <string>u274D5</string>
       <string>u274D9</string>
       <string>u274DA</string>
@@ -14848,6 +14869,7 @@
       <string>u28BD2</string>
       <string>u28BD4</string>
       <string>u28BD5</string>
+      <string>u28BD6</string>
       <string>u28BD7</string>
       <string>u28BD9</string>
       <string>u28BDA</string>
@@ -14943,6 +14965,7 @@
       <string>u28CAD</string>
       <string>u28CB1</string>
       <string>u28CB3</string>
+      <string>u28CBC</string>
       <string>u28CC0</string>
       <string>u28CC1</string>
       <string>u28CC2</string>
@@ -15283,6 +15306,7 @@
       <string>u2903E</string>
       <string>u29046</string>
       <string>u2904A</string>
+      <string>u2904F</string>
       <string>u29050</string>
       <string>u29052</string>
       <string>u29053</string>
@@ -15548,6 +15572,7 @@
       <string>u29360</string>
       <string>u29367</string>
       <string>u2936C</string>
+      <string>u29372</string>
       <string>u29375</string>
       <string>u29378</string>
       <string>u2937A</string>
@@ -16524,6 +16549,7 @@
       <string>u29CE7</string>
       <string>u29CEB</string>
       <string>u29CF0</string>
+      <string>u29CF6</string>
       <string>u29CFB</string>
       <string>u29CFE</string>
       <string>u29D00</string>
@@ -17118,6 +17144,7 @@
       <string>u2A0EE</string>
       <string>u2A0F0</string>
       <string>u2A0F4</string>
+      <string>u2A0F8</string>
       <string>u2A0F9</string>
       <string>u2A0FB</string>
       <string>u2A0FD</string>
@@ -17207,6 +17234,8 @@
       <string>u2A1C8</string>
       <string>u2A1CA</string>
       <string>u2A1CD</string>
+      <string>u2A1D1</string>
+      <string>u2A1D2</string>
       <string>u2A1D3</string>
       <string>u2A1D4</string>
       <string>u2A1D5</string>
@@ -23522,6 +23551,7 @@
       <string>u2CBC5</string>
       <string>u2CBC6</string>
       <string>u2CBC7</string>
+      <string>u2CBC8</string>
       <string>u2CBC9</string>
       <string>u2CBCA</string>
       <string>u2CBCB</string>
@@ -26964,6 +26994,7 @@
       <string>u2E7CF</string>
       <string>u2E7D1</string>
       <string>u2E7DD</string>
+      <string>u2E7DE</string>
       <string>u2E7DF</string>
       <string>u2E7E3</string>
       <string>u2E7E7</string>
@@ -27059,6 +27090,7 @@
       <string>u2E91A</string>
       <string>u2E91D</string>
       <string>u2E91F</string>
+      <string>u2E925</string>
       <string>u2E92B</string>
       <string>u2E92C</string>
       <string>u2E92D</string>
@@ -30905,28 +30937,40 @@
       <string>u31001</string>
       <string>u31002</string>
       <string>u31003</string>
+      <string>u31004</string>
+      <string>u31005</string>
       <string>u31006</string>
       <string>u31007</string>
+      <string>u31008</string>
       <string>u31009</string>
       <string>u3100B</string>
       <string>u3100D</string>
+      <string>u3100E</string>
       <string>u3100F</string>
       <string>u31011</string>
+      <string>u31012</string>
       <string>u31013</string>
       <string>u31014</string>
       <string>u31016</string>
       <string>u31017</string>
       <string>u31018</string>
       <string>u3101A</string>
+      <string>u3101B</string>
+      <string>u3101C</string>
       <string>u3101D</string>
+      <string>u3101F</string>
       <string>u31020</string>
       <string>u31021</string>
       <string>u31022</string>
+      <string>u31023</string>
       <string>u31025</string>
+      <string>u31028</string>
       <string>u31029</string>
       <string>u3102C</string>
       <string>u3102D</string>
+      <string>u3102E</string>
       <string>u3102F</string>
+      <string>u31031</string>
       <string>u31033</string>
       <string>u31035</string>
       <string>u31036</string>
@@ -30937,6 +30981,7 @@
       <string>u3103B</string>
       <string>u3103C</string>
       <string>u3103D</string>
+      <string>u3103E</string>
       <string>u3103F</string>
       <string>u31043</string>
       <string>u31044</string>
@@ -31031,11 +31076,16 @@
       <string>u310BA</string>
       <string>u310BB</string>
       <string>u310BC</string>
+      <string>u310BD</string>
+      <string>u310BF</string>
       <string>u310C3</string>
       <string>u310C4</string>
       <string>u310C5</string>
+      <string>u310C6</string>
+      <string>u310C7</string>
       <string>u310C9</string>
       <string>u310CB</string>
+      <string>u310CF</string>
       <string>u310D4</string>
       <string>u310D5</string>
       <string>u310D6</string>
@@ -31094,7 +31144,10 @@
       <string>u3110C</string>
       <string>u3110F</string>
       <string>u31110</string>
+      <string>u31112</string>
       <string>u31114</string>
+      <string>u31115</string>
+      <string>u31116</string>
       <string>u31117</string>
       <string>u31118</string>
       <string>u31119</string>
@@ -35756,6 +35809,7 @@
       <string>u3321E</string>
       <string>u3321F</string>
       <string>u33220</string>
+      <string>u33223</string>
       <string>u33225</string>
       <string>u33228</string>
       <string>u33232</string>
@@ -36365,6 +36419,9 @@
       <string>u21E35.var1</string>
       <string>u21E8E.var1</string>
       <string>u21EBD.var1</string>
+      <string>u22004.var1</string>
+      <string>u22004.var2</string>
+      <string>u22004.var3</string>
       <string>u22037.var1</string>
       <string>u2205B.var1</string>
       <string>u220B0.var1</string>
@@ -36398,6 +36455,8 @@
       <string>u22DB3.var2</string>
       <string>u22DF9.var1</string>
       <string>u22E0C.var1</string>
+      <string>u22E34.var1</string>
+      <string>u22E34.var2</string>
       <string>u22EEB.var1</string>
       <string>u22EF7.var1</string>
       <string>u22F0A.var1</string>
@@ -36965,7 +37024,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/05/29 18:12:56</string>
+    <string>2025/06/01 20:53:08</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -37222,6 +37281,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u21E8E</string>
         <key>21EBD</key>
         <string>u21EBD</string>
+        <key>22004</key>
+        <string>u22004</string>
         <key>22037</key>
         <string>u22037.var1</string>
         <key>2205B</key>
@@ -37284,6 +37345,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u22DF9</string>
         <key>22E0C</key>
         <string>u22E0C</string>
+        <key>22E34</key>
+        <string>u22E34</string>
         <key>22EEB</key>
         <string>u22EEB</string>
         <key>22EF7</key>
@@ -38497,6 +38560,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u21E8E.var1</string>
         <key>21EBD</key>
         <string>u21EBD.var1</string>
+        <key>22004</key>
+        <string>u22004.var1</string>
         <key>22037</key>
         <string>u22037</string>
         <key>2205B</key>
@@ -38559,6 +38624,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u22DF9.var1</string>
         <key>22E0C</key>
         <string>u22E0C.var1</string>
+        <key>22E34</key>
+        <string>u22E34.var1</string>
         <key>22EEB</key>
         <string>u22EEB.var1</string>
         <key>22EF7</key>
@@ -39656,8 +39723,12 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u212A2.var2</string>
         <key>21DE4</key>
         <string>u21DE4</string>
+        <key>22004</key>
+        <string>u22004.var2</string>
         <key>22DB3</key>
         <string>u22DB3.var2</string>
+        <key>22E34</key>
+        <string>u22E34.var2</string>
         <key>23440</key>
         <string>u23440</string>
         <key>23638</key>
@@ -39755,6 +39826,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u20C9C.var1</string>
         <key>21DE4</key>
         <string>u21DE4.var1</string>
+        <key>22004</key>
+        <string>u22004.var3</string>
         <key>23440</key>
         <string>u23440.var1</string>
         <key>23A74</key>
