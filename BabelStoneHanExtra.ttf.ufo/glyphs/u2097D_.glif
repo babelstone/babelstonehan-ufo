@@ -5,35 +5,35 @@
   <outline>
     <contour>
       <point x="325" y="357"/>
-      <point x="295" y="309" type="qcurve"/>
-      <point x="257" y="230"/>
+      <point x="271" y="277" type="qcurve"/>
+      <point x="163" y="127"/>
       <point x="69" y="62" type="qcurve"/>
       <point x="59" y="57"/>
       <point x="55" y="64" type="qcurve"/>
       <point x="48" y="75"/>
       <point x="58" y="82" type="qcurve"/>
-      <point x="142" y="172"/>
-      <point x="200" y="243" type="qcurve"/>
-      <point x="261" y="334"/>
-      <point x="311" y="431" type="qcurve"/>
-      <point x="331" y="489"/>
-      <point x="343" y="548" type="qcurve"/>
-      <point x="345" y="559"/>
-      <point x="349" y="560" type="qcurve"/>
-      <point x="353" y="563"/>
-      <point x="365" y="557" type="qcurve"/>
-      <point x="409" y="537"/>
-      <point x="436" y="521" type="qcurve"/>
-      <point x="442" y="516"/>
-      <point x="441" y="512" type="qcurve"/>
-      <point x="439" y="506"/>
-      <point x="426" y="507" type="qcurve"/>
-      <point x="404" y="509"/>
-      <point x="398" y="503" type="qcurve"/>
-      <point x="392" y="497"/>
-      <point x="388" y="484" type="qcurve"/>
-      <point x="375" y="450"/>
-      <point x="357" y="409" type="qcurve"/>
+      <point x="107" y="117"/>
+      <point x="205" y="243" type="qcurve"/>
+      <point x="262" y="321"/>
+      <point x="295" y="413" type="qcurve"/>
+      <point x="315" y="471"/>
+      <point x="327" y="530" type="qcurve"/>
+      <point x="329" y="541"/>
+      <point x="333" y="542" type="qcurve"/>
+      <point x="337" y="545"/>
+      <point x="349" y="539" type="qcurve"/>
+      <point x="393" y="519"/>
+      <point x="420" y="503" type="qcurve"/>
+      <point x="426" y="498"/>
+      <point x="425" y="494" type="qcurve"/>
+      <point x="423" y="488"/>
+      <point x="410" y="489" type="qcurve"/>
+      <point x="388" y="491"/>
+      <point x="382" y="485" type="qcurve"/>
+      <point x="376" y="479"/>
+      <point x="372" y="466" type="qcurve"/>
+      <point x="359" y="432"/>
+      <point x="341" y="391" type="qcurve"/>
     </contour>
     <contour>
       <point x="651" y="192"/>
@@ -115,23 +115,23 @@
       <point x="635" y="191" type="line"/>
     </contour>
     <contour>
-      <point x="643" y="463" type="qcurve"/>
-      <point x="608" y="534"/>
-      <point x="594" y="535" type="qcurve"/>
-      <point x="583" y="537"/>
-      <point x="582" y="543" type="qcurve"/>
-      <point x="583" y="555"/>
-      <point x="594" y="555" type="qcurve"/>
-      <point x="634" y="556"/>
-      <point x="664" y="553" type="qcurve"/>
-      <point x="681" y="552"/>
-      <point x="683" y="543" type="qcurve"/>
-      <point x="684" y="536"/>
-      <point x="678" y="531" type="qcurve"/>
-      <point x="669" y="523"/>
-      <point x="669" y="512" type="qcurve"/>
-      <point x="668" y="501"/>
-      <point x="675" y="478" type="qcurve"/>
+      <point x="647" y="440" type="qcurve"/>
+      <point x="612" y="511"/>
+      <point x="598" y="512" type="qcurve"/>
+      <point x="587" y="514"/>
+      <point x="586" y="520" type="qcurve"/>
+      <point x="587" y="532"/>
+      <point x="598" y="532" type="qcurve"/>
+      <point x="638" y="533"/>
+      <point x="668" y="530" type="qcurve"/>
+      <point x="685" y="529"/>
+      <point x="687" y="520" type="qcurve"/>
+      <point x="688" y="513"/>
+      <point x="682" y="508" type="qcurve"/>
+      <point x="673" y="500"/>
+      <point x="673" y="489" type="qcurve"/>
+      <point x="672" y="478"/>
+      <point x="679" y="455" type="qcurve"/>
       <point x="711" y="395"/>
       <point x="775" y="297" type="qcurve"/>
       <point x="862" y="178"/>
@@ -147,8 +147,8 @@
       <point x="897" y="64"/>
       <point x="890" y="71" type="qcurve"/>
       <point x="750" y="227"/>
-      <point x="670" y="414" type="qcurve"/>
-      <point x="655" y="443"/>
+      <point x="674" y="391" type="qcurve"/>
+      <point x="659" y="420"/>
     </contour>
   </outline>
   <lib>
@@ -162,7 +162,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>819b197bafa3ede971a74f07ada0ef43a826f9e26a0b6e484622f5b9a1db5ed21d8bd18f963a0c234fd71561920b4bd40df54b19e69181907f93d35c7d6d9892</string>
+        <string>04ae692e4befa1a43ff88c804b79c6f38c115b4b50a704a75e76398a8b5062b27b20ae01cc71b0e6e0008a487fe4cd7f6ebe47d1080623c58ea067e0a28ba5e7</string>
       </dict>
     </dict>
   </lib>
