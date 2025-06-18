@@ -253,26 +253,6 @@
       <point x="807" y="550" type="qcurve"/>
     </contour>
     <contour>
-      <point x="458" y="319" type="qcurve"/>
-      <point x="464" y="327"/>
-      <point x="476" y="317" type="qcurve"/>
-      <point x="522" y="290"/>
-      <point x="535" y="275" type="qcurve"/>
-      <point x="553" y="252"/>
-      <point x="553" y="239" type="qcurve"/>
-      <point x="550" y="215"/>
-      <point x="535" y="203" type="qcurve"/>
-      <point x="519" y="191"/>
-      <point x="512" y="191" type="qcurve"/>
-      <point x="505" y="192"/>
-      <point x="501" y="213" type="qcurve"/>
-      <point x="505" y="230"/>
-      <point x="492" y="258" type="qcurve"/>
-      <point x="480" y="282"/>
-      <point x="459" y="304" type="qcurve"/>
-      <point x="452" y="312"/>
-    </contour>
-    <contour>
       <point x="186" y="659"/>
       <point x="190" y="665" type="qcurve"/>
       <point x="196" y="671"/>
@@ -346,6 +326,26 @@
       <point x="96" y="491"/>
       <point x="142" y="491" type="qcurve"/>
     </contour>
+    <contour>
+      <point x="451" y="315"/>
+      <point x="457" y="322" type="qcurve"/>
+      <point x="463" y="330"/>
+      <point x="475" y="320" type="qcurve"/>
+      <point x="520" y="289"/>
+      <point x="532" y="274" type="qcurve"/>
+      <point x="550" y="258"/>
+      <point x="551" y="238" type="qcurve"/>
+      <point x="548" y="214"/>
+      <point x="533" y="202" type="qcurve"/>
+      <point x="517" y="190"/>
+      <point x="510" y="190" type="qcurve"/>
+      <point x="503" y="191"/>
+      <point x="499" y="212" type="qcurve"/>
+      <point x="496" y="232"/>
+      <point x="487" y="257" type="qcurve"/>
+      <point x="477" y="283"/>
+      <point x="458" y="307" type="qcurve"/>
+    </contour>
   </outline>
   <lib>
     <dict>
@@ -358,7 +358,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>5158a260dbdf5da019a72ea33dbbb748e1e39df807bc576c58d1180da6f4b2acfc1244163987acde15fba0dd407cc0a4b61fd4cb3b63973491f110416aeda681</string>
+        <string>f6660deb2c8338013d766284b516743277bfe884961048fc2ac7a003c8cd3292130ae9d6f7999fc0d3a8627333b9d367d056e6eec6ed9d2665e525a34d0c5176</string>
       </dict>
     </dict>
   </lib>

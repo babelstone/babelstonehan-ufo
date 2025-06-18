@@ -216,29 +216,29 @@
       <point x="942" y="356" type="qcurve"/>
       <point x="816" y="356" type="line"/>
       <point x="816" y="167" type="line"/>
-      <point x="860" y="167" type="line"/>
-      <point x="866" y="167"/>
-      <point x="872" y="174" type="qcurve"/>
-      <point x="908" y="215" type="line"/>
-      <point x="915" y="222"/>
-      <point x="922" y="215" type="qcurve"/>
-      <point x="948" y="189"/>
-      <point x="966" y="167" type="qcurve"/>
-      <point x="977" y="153"/>
-      <point x="970" y="143" type="qcurve"/>
-      <point x="965" y="137"/>
-      <point x="952" y="136" type="qcurve"/>
-      <point x="718" y="136" type="line"/>
-      <point x="691" y="136"/>
-      <point x="657" y="129" type="qcurve"/>
-      <point x="652" y="128"/>
-      <point x="651" y="131" type="qcurve"/>
-      <point x="638" y="150"/>
-      <point x="628" y="166" type="qcurve"/>
-      <point x="622" y="176"/>
-      <point x="635" y="173" type="qcurve"/>
-      <point x="696" y="168"/>
-      <point x="703" y="167" type="qcurve"/>
+      <point x="870" y="167" type="line"/>
+      <point x="876" y="167"/>
+      <point x="882" y="174" type="qcurve"/>
+      <point x="918" y="215" type="line"/>
+      <point x="925" y="222"/>
+      <point x="932" y="215" type="qcurve"/>
+      <point x="958" y="189"/>
+      <point x="976" y="167" type="qcurve"/>
+      <point x="987" y="153"/>
+      <point x="980" y="143" type="qcurve"/>
+      <point x="975" y="137"/>
+      <point x="962" y="136" type="qcurve"/>
+      <point x="708" y="136" type="line"/>
+      <point x="681" y="136"/>
+      <point x="647" y="129" type="qcurve"/>
+      <point x="642" y="128"/>
+      <point x="641" y="131" type="qcurve"/>
+      <point x="628" y="150"/>
+      <point x="618" y="166" type="qcurve"/>
+      <point x="612" y="176"/>
+      <point x="625" y="173" type="qcurve"/>
+      <point x="686" y="168"/>
+      <point x="693" y="167" type="qcurve"/>
       <point x="768" y="167" type="line"/>
       <point x="768" y="356" type="line"/>
       <point x="676" y="356" type="line"/>
@@ -332,7 +332,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>812aee4ef8f00ee724460dda1dc3b8c449ec782f7fdc14d9a08e2d52be0d2964229b8aea824428da18ace1edebc391748f9e52ecd9087247af8923edd0705b33</string>
+        <string>2bfc63a610059cdd378dd2784d9eb102360c8d07d625b398e74f114bf1aa1f63145440263fba6f409010b179d3b2277a4c8cc11d9083262cb4537ecb8b26c339</string>
       </dict>
     </dict>
   </lib>

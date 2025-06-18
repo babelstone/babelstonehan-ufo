@@ -3,13 +3,13 @@
   <advance width="1024"/>
   <outline>
     <contour>
-      <point x="442" y="282"/>
-      <point x="448" y="289" type="qcurve"/>
-      <point x="454" y="297"/>
-      <point x="466" y="287" type="qcurve"/>
+      <point x="443" y="286"/>
+      <point x="449" y="293" type="qcurve"/>
+      <point x="455" y="301"/>
+      <point x="467" y="291" type="qcurve"/>
       <point x="512" y="260"/>
-      <point x="525" y="245" type="qcurve"/>
-      <point x="543" y="222"/>
+      <point x="524" y="245" type="qcurve"/>
+      <point x="542" y="229"/>
       <point x="543" y="209" type="qcurve"/>
       <point x="540" y="185"/>
       <point x="525" y="173" type="qcurve"/>
@@ -17,10 +17,10 @@
       <point x="502" y="161" type="qcurve"/>
       <point x="495" y="162"/>
       <point x="491" y="183" type="qcurve"/>
-      <point x="495" y="200"/>
-      <point x="482" y="228" type="qcurve"/>
-      <point x="470" y="252"/>
-      <point x="449" y="274" type="qcurve"/>
+      <point x="488" y="203"/>
+      <point x="479" y="228" type="qcurve"/>
+      <point x="469" y="254"/>
+      <point x="450" y="278" type="qcurve"/>
     </contour>
     <contour>
       <point x="818" y="145"/>
@@ -369,7 +369,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>54aa92f15662e7cf77f1d86106ef5872bdb5ff12e8f23426e86608fb4884a1ead36256d00a5d38be20241b637c51dac79629802f095fe739ae062ebfdffba576</string>
+        <string>f8f8c2d9859e705d87aad412e35da55de2077308fe44f14a3f3d00a9db11cab79f86fc7e395829499fe225a5a148ed92181f7c9522616b0923a2c13bc15838b3</string>
       </dict>
     </dict>
   </lib>
