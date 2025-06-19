@@ -35113,6 +35113,7 @@
       <string>u32AE3</string>
       <string>u32AE8</string>
       <string>u32AE9</string>
+      <string>u32AED</string>
       <string>u32AEF</string>
       <string>u32AF1</string>
       <string>u32AF3</string>
@@ -36816,6 +36817,7 @@
       <string>u25504.var2</string>
       <string>u2550B.var1</string>
       <string>u255D3.var1</string>
+      <string>u256A1.var1</string>
       <string>u25805.var1</string>
       <string>u25805.var2</string>
       <string>u2583A.var1</string>
@@ -37169,6 +37171,7 @@
       <string>u2DA97.var1</string>
       <string>u2DB80.var1</string>
       <string>u2DBAC.var1</string>
+      <string>u2DBCC.var1</string>
       <string>u2DBF5.var1</string>
       <string>u2DE1B.var1</string>
       <string>u2DE4A.var1</string>
@@ -37229,6 +37232,7 @@
       <string>u305A9.var1</string>
       <string>u305C7.var1</string>
       <string>u3060F.var1</string>
+      <string>u3068C.var1</string>
       <string>u30728.var1</string>
       <string>u307C0.var1</string>
       <string>u3080C.var1</string>
@@ -37305,7 +37309,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/06/17 20:40:04</string>
+    <string>2025/06/18 19:07:24</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -37818,6 +37822,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u2550B</string>
         <key>255D3</key>
         <string>u255D3</string>
+        <key>256A1</key>
+        <string>u256A1</string>
         <key>25805</key>
         <string>u25805</string>
         <key>2583A</key>
@@ -38470,6 +38476,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u2DB80</string>
         <key>2DBAC</key>
         <string>u2DBAC</string>
+        <key>2DBCC</key>
+        <string>u2DBCC</string>
         <key>2DBF5</key>
         <string>u2DBF5</string>
         <key>2DE1B</key>
@@ -38586,6 +38594,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u305C7</string>
         <key>3060F</key>
         <string>u3060F</string>
+        <key>3068C</key>
+        <string>u3068C</string>
         <key>30728</key>
         <string>u30728</string>
         <key>307C0</key>
@@ -39157,6 +39167,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u2550B.var1</string>
         <key>255D3</key>
         <string>u255D3.var1</string>
+        <key>256A1</key>
+        <string>u256A1.var1</string>
         <key>25805</key>
         <string>u25805.var1</string>
         <key>2583A</key>
@@ -39825,6 +39837,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u2DB80.var1</string>
         <key>2DBAC</key>
         <string>u2DBAC.var1</string>
+        <key>2DBCC</key>
+        <string>u2DBCC.var1</string>
         <key>2DBF5</key>
         <string>u2DBF5.var1</string>
         <key>2DE1B</key>
@@ -39943,6 +39957,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u305C7.var1</string>
         <key>3060F</key>
         <string>u3060F.var1</string>
+        <key>3068C</key>
+        <string>u3068C.var1</string>
         <key>30728</key>
         <string>u30728.var1</string>
         <key>307C0</key>
