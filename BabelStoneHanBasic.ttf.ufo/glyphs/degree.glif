@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="degree" format="2">
-  <advance width="1024"/>
+  <advance width="512"/>
   <unicode hex="00B0"/>
   <outline>
     <contour>
@@ -51,7 +51,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>e12b608446c79f5cfd1508998572982bf033a513aa2cef61e321566d21881ff64296169c4359b11f714b7d70b5128aff945f055ef039d6e3c6124658eed38ebc</string>
+        <string>5edcbc385a6fb4fc74a08197adf80739274cd331658d6068c762950fa18f9bf49c77e953587979c32724d9fcf8932e38debff31039c484c60ab67dac47a6b02e</string>
       </dict>
     </dict>
   </lib>

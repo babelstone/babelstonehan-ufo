@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2019" format="2">
-  <advance width="1024"/>
+  <advance width="512"/>
   <unicode hex="2019"/>
   <outline>
     <contour>
@@ -42,7 +42,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>59d4199baabed95b304a976e03e5ee62416c6c52d194eda74a70866fa60f547eda1243f0bb8568a4d74f809379aa59ff0050ffec3f2581ba144217f5be8df23a</string>
+        <string>f3300becf6a7a83b57a8e56879ab451f24003d6b948e33a305dca0b4f9596124b54e2aaf64f3153377934672dc41b9fec71a3a135b09e657a21c4898236f3cb2</string>
       </dict>
     </dict>
   </lib>

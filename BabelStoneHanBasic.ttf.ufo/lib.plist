@@ -194,6 +194,8 @@
       <string>Amacron</string>
       <string>amacron</string>
       <string>abreve</string>
+      <string>Ccircumflex</string>
+      <string>ccircumflex</string>
       <string>Ccaron</string>
       <string>ccaron</string>
       <string>Emacron</string>
@@ -217,6 +219,8 @@
       <string>omacron</string>
       <string>Sacute</string>
       <string>sacute</string>
+      <string>Scircumflex</string>
+      <string>scircumflex</string>
       <string>Scaron</string>
       <string>scaron</string>
       <string>utilde</string>
@@ -305,24 +309,25 @@
       <string>uni02FA</string>
       <string>uni02FB</string>
       <string>uni02FC</string>
-      <string>uni0300</string>
-      <string>uni0301</string>
-      <string>uni0302</string>
-      <string>uni0303</string>
-      <string>uni0304</string>
-      <string>uni0305</string>
-      <string>uni0307</string>
-      <string>uni0308</string>
-      <string>uni030A</string>
-      <string>uni030C</string>
+      <string>gravecomb</string>
+      <string>acutecomb</string>
+      <string>circumflexcomb</string>
+      <string>tildecomb</string>
+      <string>macroncomb</string>
+      <string>overlinecomb</string>
+      <string>brevecomb</string>
+      <string>dotaccentcomb</string>
+      <string>dieresiscomb</string>
+      <string>ringcomb</string>
+      <string>caroncomb</string>
       <string>dotbelowcomb</string>
-      <string>uni0324</string>
-      <string>uni0325</string>
-      <string>uni0331</string>
-      <string>uni0332</string>
-      <string>uni0333</string>
-      <string>uni0336</string>
-      <string>uni033F</string>
+      <string>dieresisbelowcomb</string>
+      <string>ringbelowcomb</string>
+      <string>macronbelowcomb</string>
+      <string>lowlinecomb</string>
+      <string>doublelowlinecomb</string>
+      <string>strokelongcomb</string>
+      <string>doubleoverlinecomb</string>
       <string>uni0F1A</string>
       <string>uni0F1B</string>
       <string>uni0F1C</string>
@@ -341,42 +346,44 @@
       <string>uni1802</string>
       <string>uni1803</string>
       <string>uni1805</string>
-      <string>uni1AB6</string>
+      <string>wigglylinebelowcomb</string>
       <string>u.smcp</string>
       <string>uni1D62</string>
       <string>uni1D63</string>
       <string>uni1D64</string>
       <string>uni1D65</string>
       <string>uni1D7E</string>
-      <string>uni1E0C</string>
+      <string>Ddotbelow</string>
       <string>ddotbelow</string>
       <string>Hdotbelow</string>
       <string>hdotbelow</string>
-      <string>uni1E3E</string>
-      <string>uni1E3F</string>
-      <string>uni1E40</string>
-      <string>uni1E41</string>
-      <string>uni1E42</string>
+      <string>Macute</string>
+      <string>macute</string>
+      <string>Mdotaccent</string>
+      <string>mdotaccent</string>
+      <string>Mdotbelow</string>
       <string>mdotbelow</string>
-      <string>uni1E46</string>
+      <string>Ndotbelow</string>
       <string>ndotbelow</string>
-      <string>uni1E5A</string>
+      <string>Rdotbelow</string>
       <string>rdotbelow</string>
-      <string>uni1E62</string>
+      <string>Sdotbelow</string>
       <string>sdotbelow</string>
-      <string>uni1E6C</string>
+      <string>Tdotbelow</string>
       <string>tdotbelow</string>
-      <string>uni1E8E</string>
-      <string>uni1E8F</string>
-      <string>uni1EA0</string>
-      <string>uni1EA1</string>
-      <string>uni1EBC</string>
-      <string>uni1EBD</string>
-      <string>uni1EBE</string>
-      <string>uni1EBF</string>
-      <string>uni1EC0</string>
-      <string>uni1EC1</string>
-      <string>uni1EF8</string>
+      <string>Ydotaccent</string>
+      <string>ydotaccent</string>
+      <string>Zcircumflex</string>
+      <string>zcircumflex</string>
+      <string>Adotbelow</string>
+      <string>adotbelow</string>
+      <string>Etilde</string>
+      <string>etilde</string>
+      <string>Ecircumflexacute</string>
+      <string>ecircumflexacute</string>
+      <string>Ecircumflexgrave</string>
+      <string>ecircumflexgrave</string>
+      <string>Ytilde</string>
       <string>ytilde</string>
       <string>uni2000</string>
       <string>uni2001</string>
@@ -390,10 +397,10 @@
       <string>uni2009</string>
       <string>uni200A</string>
       <string>uni200B</string>
-      <string>uni200C</string>
-      <string>uni200D</string>
-      <string>uni200E</string>
-      <string>uni200F</string>
+      <string>zwnj</string>
+      <string>zwj</string>
+      <string>lrm</string>
+      <string>rlm</string>
       <string>uni2010</string>
       <string>uni2011</string>
       <string>figuredash</string>
@@ -418,13 +425,13 @@
       <string>twodotenleader</string>
       <string>ellipsis</string>
       <string>uni2027</string>
-      <string>uni2028</string>
-      <string>uni2029</string>
-      <string>uni202A</string>
-      <string>uni202B</string>
-      <string>uni202C</string>
-      <string>uni202D</string>
-      <string>uni202E</string>
+      <string>ls</string>
+      <string>ps</string>
+      <string>lre</string>
+      <string>rle</string>
+      <string>pdf</string>
+      <string>lro</string>
+      <string>rlo</string>
       <string>uni202F</string>
       <string>perthousand</string>
       <string>uni2031</string>
@@ -474,21 +481,21 @@
       <string>uni205D</string>
       <string>uni205E</string>
       <string>uni205F</string>
-      <string>uni2060</string>
+      <string>wj</string>
       <string>uni2061</string>
       <string>uni2062</string>
       <string>uni2063</string>
       <string>uni2064</string>
-      <string>uni2066</string>
-      <string>uni2067</string>
-      <string>uni2068</string>
-      <string>uni2069</string>
-      <string>uni206A</string>
-      <string>uni206B</string>
-      <string>uni206C</string>
-      <string>uni206D</string>
-      <string>uni206E</string>
-      <string>uni206F</string>
+      <string>lri</string>
+      <string>rli</string>
+      <string>fsi</string>
+      <string>pdi</string>
+      <string>iss</string>
+      <string>ass</string>
+      <string>iafs</string>
+      <string>aafs</string>
+      <string>nads</string>
+      <string>nods</string>
       <string>zero.sups</string>
       <string>uni2071</string>
       <string>four.sups</string>
@@ -549,14 +556,14 @@
       <string>uni20DA</string>
       <string>uni20DB</string>
       <string>uni20DC</string>
-      <string>uni20DD</string>
-      <string>uni20DE</string>
+      <string>enclosingcircle</string>
+      <string>enclosingsquare</string>
       <string>uni20DF</string>
-      <string>uni20E0</string>
+      <string>enclosingcirclebackslash</string>
       <string>uni20E1</string>
-      <string>uni20E2</string>
-      <string>uni20E3</string>
-      <string>uni20E4</string>
+      <string>enclosingscreen</string>
+      <string>enclosingkeycap</string>
+      <string>enclosingupwardpointingtriangle</string>
       <string>uni20E5</string>
       <string>uni20E6</string>
       <string>uni20E7</string>
@@ -785,7 +792,7 @@
       <string>uni23F7</string>
       <string>uni23F8</string>
       <string>uni23F9</string>
-      <string>uni23FA</string>
+      <string>blackcircleforrecord</string>
       <string>uni23FB</string>
       <string>uni23FC</string>
       <string>uni23FD</string>
@@ -1294,8 +1301,8 @@
       <string>uni2690</string>
       <string>uni2691</string>
       <string>uni26A0</string>
-      <string>uni26AA</string>
-      <string>uni26AB</string>
+      <string>mediumwhitecircle</string>
+      <string>mediumblackcircle</string>
       <string>mediumsmallwhitecircle</string>
       <string>marriagesymbol</string>
       <string>divorcesymbol</string>
@@ -1651,7 +1658,7 @@
       <string>uni2B21</string>
       <string>uni2B22</string>
       <string>uni2B23</string>
-      <string>uni2B24</string>
+      <string>blacklargecircle</string>
       <string>uni2B25</string>
       <string>uni2B26</string>
       <string>uni2B27</string>
@@ -1668,11 +1675,11 @@
       <string>uni2B46</string>
       <string>uni2B53</string>
       <string>uni2B54</string>
-      <string>uni2B55</string>
+      <string>heavylargecircle</string>
       <string>uni2B56</string>
-      <string>uni2B57</string>
-      <string>uni2B58</string>
-      <string>uni2B59</string>
+      <string>heavycirclewithcircleinside</string>
+      <string>heavycircle</string>
+      <string>heavycircledsaltire</string>
       <string>uni2B95</string>
       <string>uni2B97</string>
       <string>uni2BBA</string>
@@ -1687,8 +1694,8 @@
       <string>uni2BC6</string>
       <string>uni2BC7</string>
       <string>uni2BC8</string>
-      <string>uni2BCA</string>
-      <string>uni2BCB</string>
+      <string>tophalfblackcircle</string>
+      <string>bottomhalfblackcircle</string>
       <string>uni2BCC</string>
       <string>uni2BCD</string>
       <string>uni2BCE</string>
@@ -33805,10 +33812,189 @@
       <string>uE01EE</string>
       <string>uE01EF</string>
       <string>uni0030.FE00</string>
-      <string>uni2018.FE00</string>
-      <string>uni2019.FE00</string>
-      <string>uni201C.FE00</string>
-      <string>uni201D.FE00</string>
+      <string>one.dotabove</string>
+      <string>two.dotabove</string>
+      <string>three.dotabove</string>
+      <string>four.dotabove</string>
+      <string>five.dotabove</string>
+      <string>six.dotabove</string>
+      <string>seven.dotabove</string>
+      <string>eight.dotabove</string>
+      <string>nine.dotabove</string>
+      <string>one.dotbelow</string>
+      <string>two.dotbelow</string>
+      <string>three.dotbelow</string>
+      <string>four.dotbelow</string>
+      <string>five.dotbelow</string>
+      <string>six.dotbelow</string>
+      <string>seven.dotbelow</string>
+      <string>eight.dotbelow</string>
+      <string>nine.dotbelow</string>
+      <string>one.doubledotabove</string>
+      <string>two.doubledotabove</string>
+      <string>three.doubledotabove</string>
+      <string>four.doubledotabove</string>
+      <string>five.doubledotabove</string>
+      <string>six.doubledotabove</string>
+      <string>seven.doubledotabove</string>
+      <string>eight.doubledotabove</string>
+      <string>nine.doubledotabove</string>
+      <string>one.doubledotbelow</string>
+      <string>two.doubledotbelow</string>
+      <string>three.doubledotbelow</string>
+      <string>four.doubledotbelow</string>
+      <string>five.doubledotbelow</string>
+      <string>six.doubledotbelow</string>
+      <string>seven.doubledotbelow</string>
+      <string>eight.doubledotbelow</string>
+      <string>nine.doubledotbelow</string>
+      <string>number00</string>
+      <string>number01</string>
+      <string>number02</string>
+      <string>number03</string>
+      <string>number04</string>
+      <string>number05</string>
+      <string>number06</string>
+      <string>number07</string>
+      <string>number08</string>
+      <string>number09</string>
+      <string>number10</string>
+      <string>number11</string>
+      <string>number12</string>
+      <string>number13</string>
+      <string>number14</string>
+      <string>number15</string>
+      <string>number16</string>
+      <string>number17</string>
+      <string>number18</string>
+      <string>number19</string>
+      <string>number20</string>
+      <string>number21</string>
+      <string>number22</string>
+      <string>number23</string>
+      <string>number24</string>
+      <string>number25</string>
+      <string>number26</string>
+      <string>number27</string>
+      <string>number28</string>
+      <string>number29</string>
+      <string>number30</string>
+      <string>number31</string>
+      <string>number32</string>
+      <string>number33</string>
+      <string>number34</string>
+      <string>number35</string>
+      <string>number36</string>
+      <string>number37</string>
+      <string>number38</string>
+      <string>number39</string>
+      <string>number40</string>
+      <string>number41</string>
+      <string>number42</string>
+      <string>number43</string>
+      <string>number44</string>
+      <string>number45</string>
+      <string>number46</string>
+      <string>number47</string>
+      <string>number48</string>
+      <string>number49</string>
+      <string>number50</string>
+      <string>number51</string>
+      <string>number52</string>
+      <string>number53</string>
+      <string>number54</string>
+      <string>number55</string>
+      <string>number56</string>
+      <string>number57</string>
+      <string>number58</string>
+      <string>number59</string>
+      <string>number60</string>
+      <string>number61</string>
+      <string>number62</string>
+      <string>number63</string>
+      <string>number64</string>
+      <string>number65</string>
+      <string>number66</string>
+      <string>number67</string>
+      <string>number68</string>
+      <string>number69</string>
+      <string>number70</string>
+      <string>number71</string>
+      <string>number72</string>
+      <string>number73</string>
+      <string>number74</string>
+      <string>number75</string>
+      <string>number76</string>
+      <string>number77</string>
+      <string>number78</string>
+      <string>number79</string>
+      <string>number80</string>
+      <string>number81</string>
+      <string>number82</string>
+      <string>number83</string>
+      <string>number84</string>
+      <string>number85</string>
+      <string>number86</string>
+      <string>number87</string>
+      <string>number88</string>
+      <string>number89</string>
+      <string>number90</string>
+      <string>number91</string>
+      <string>number92</string>
+      <string>number93</string>
+      <string>number94</string>
+      <string>number95</string>
+      <string>number96</string>
+      <string>number97</string>
+      <string>number98</string>
+      <string>number99</string>
+      <string>negativecircled21</string>
+      <string>negativecircled22</string>
+      <string>negativecircled23</string>
+      <string>negativecircled24</string>
+      <string>negativecircled25</string>
+      <string>negativecircled26</string>
+      <string>negativecircled27</string>
+      <string>negativecircled28</string>
+      <string>negativecircled29</string>
+      <string>negativecircled30</string>
+      <string>negativecircled31</string>
+      <string>negativecircled32</string>
+      <string>negativecircled33</string>
+      <string>negativecircled34</string>
+      <string>negativecircled35</string>
+      <string>negativecircled36</string>
+      <string>negativecircled37</string>
+      <string>negativecircled38</string>
+      <string>negativecircled39</string>
+      <string>negativecircled40</string>
+      <string>negativecircled41</string>
+      <string>negativecircled42</string>
+      <string>negativecircled43</string>
+      <string>negativecircled44</string>
+      <string>negativecircled45</string>
+      <string>negativecircled46</string>
+      <string>negativecircled47</string>
+      <string>negativecircled48</string>
+      <string>negativecircled49</string>
+      <string>negativecircled50</string>
+      <string>Jcaron</string>
+      <string>Ecircumflexmacron</string>
+      <string>ecircumflexmacron</string>
+      <string>Ecircumflexcaron</string>
+      <string>ecircumflexcaron</string>
+      <string>Mgrave</string>
+      <string>mgrave</string>
+      <string>Mmacron</string>
+      <string>mmacron</string>
+      <string>Mcaron</string>
+      <string>mcaron</string>
+      <string>Nmacron</string>
+      <string>nmacron</string>
+      <string>uni2018.FE01</string>
+      <string>uni2019.FE01</string>
+      <string>uni201C.FE01</string>
+      <string>uni201D.FE01</string>
       <string>uni3001.FE01</string>
       <string>uni3002.FE01</string>
       <string>uni3018.vert</string>
@@ -34724,7 +34910,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/06/18 19:06:37</string>
+    <string>2025/06/22 21:25:06</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -37520,13 +37706,13 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>20122</key>
         <string>u2F803</string>
         <key>2018</key>
-        <string>uni2018.FE00</string>
+        <string>uni2018</string>
         <key>2019</key>
-        <string>uni2019.FE00</string>
+        <string>uni2019</string>
         <key>201C</key>
-        <string>uni201C.FE00</string>
+        <string>uni201C</string>
         <key>201D</key>
-        <string>uni201D.FE00</string>
+        <string>uni201D</string>
         <key>2051C</key>
         <string>u2F812</string>
         <key>20525</key>
@@ -37751,6 +37937,66 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni3002</string>
         <key>3127</key>
         <string>uni3127.horz</string>
+        <key>3251</key>
+        <string>negativecircled21</string>
+        <key>3252</key>
+        <string>negativecircled22</string>
+        <key>3253</key>
+        <string>negativecircled23</string>
+        <key>3254</key>
+        <string>negativecircled24</string>
+        <key>3255</key>
+        <string>negativecircled25</string>
+        <key>3256</key>
+        <string>negativecircled26</string>
+        <key>3257</key>
+        <string>negativecircled27</string>
+        <key>3258</key>
+        <string>negativecircled28</string>
+        <key>3259</key>
+        <string>negativecircled29</string>
+        <key>325A</key>
+        <string>negativecircled30</string>
+        <key>325B</key>
+        <string>negativecircled31</string>
+        <key>325C</key>
+        <string>negativecircled32</string>
+        <key>325D</key>
+        <string>negativecircled33</string>
+        <key>325E</key>
+        <string>negativecircled34</string>
+        <key>325F</key>
+        <string>negativecircled35</string>
+        <key>32B1</key>
+        <string>negativecircled36</string>
+        <key>32B2</key>
+        <string>negativecircled37</string>
+        <key>32B3</key>
+        <string>negativecircled38</string>
+        <key>32B4</key>
+        <string>negativecircled39</string>
+        <key>32B5</key>
+        <string>negativecircled40</string>
+        <key>32B6</key>
+        <string>negativecircled41</string>
+        <key>32B7</key>
+        <string>negativecircled42</string>
+        <key>32B8</key>
+        <string>negativecircled43</string>
+        <key>32B9</key>
+        <string>negativecircled44</string>
+        <key>32BA</key>
+        <string>negativecircled45</string>
+        <key>32BB</key>
+        <string>negativecircled46</string>
+        <key>32BC</key>
+        <string>negativecircled47</string>
+        <key>32BD</key>
+        <string>negativecircled48</string>
+        <key>32BE</key>
+        <string>negativecircled49</string>
+        <key>32BF</key>
+        <string>negativecircled50</string>
         <key>349E</key>
         <string>u2F80C</string>
         <key>34B9</key>
@@ -39351,13 +39597,13 @@ ENDF[ ]	/* EndFunctionDefinition */
       <key>FE01</key>
       <dict>
         <key>2018</key>
-        <string>uni2018</string>
+        <string>uni2018.FE01</string>
         <key>2019</key>
-        <string>uni2019</string>
+        <string>uni2019.FE01</string>
         <key>201C</key>
-        <string>uni201C</string>
+        <string>uni201C.FE01</string>
         <key>201D</key>
-        <string>uni201D</string>
+        <string>uni201D.FE01</string>
         <key>22331</key>
         <string>u2F892</string>
         <key>25AA7</key>

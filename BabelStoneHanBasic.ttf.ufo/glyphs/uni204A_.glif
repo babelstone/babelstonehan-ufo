@@ -1,30 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni204A" format="2">
-  <advance width="1024"/>
+  <advance width="512"/>
   <unicode hex="204A"/>
   <outline>
     <contour>
-      <point x="710" y="655" type="line"/>
-      <point x="693" y="634" type="line"/>
-      <point x="579" y="421"/>
-      <point x="530" y="287" type="qcurve"/>
-      <point x="474" y="134"/>
-      <point x="447" y="34" type="qcurve"/>
-      <point x="433" y="-15"/>
-      <point x="426" y="-31" type="qcurve"/>
-      <point x="419" y="-45"/>
-      <point x="406" y="-45" type="qcurve"/>
-      <point x="382" y="-34"/>
-      <point x="372" y="-9" type="qcurve"/>
-      <point x="356" y="34"/>
-      <point x="447" y="238" type="qcurve"/>
-      <point x="496" y="356"/>
-      <point x="646" y="620" type="qcurve"/>
-      <point x="425" y="620" type="line"/>
-      <point x="377" y="619"/>
-      <point x="343" y="600" type="qcurve"/>
-      <point x="315" y="664" type="line"/>
-      <point x="683" y="664" type="line"/>
+      <point x="454" y="656" type="line"/>
+      <point x="436" y="634" type="line"/>
+      <point x="322" y="422"/>
+      <point x="274" y="288" type="qcurve"/>
+      <point x="218" y="134"/>
+      <point x="190" y="34" type="qcurve"/>
+      <point x="176" y="-14"/>
+      <point x="170" y="-30" type="qcurve"/>
+      <point x="162" y="-44"/>
+      <point x="150" y="-44" type="qcurve"/>
+      <point x="126" y="-34"/>
+      <point x="116" y="-8" type="qcurve"/>
+      <point x="100" y="34"/>
+      <point x="190" y="238" type="qcurve"/>
+      <point x="240" y="356"/>
+      <point x="390" y="620" type="qcurve"/>
+      <point x="168" y="620" type="line"/>
+      <point x="120" y="620"/>
+      <point x="86" y="600" type="qcurve"/>
+      <point x="58" y="664" type="line"/>
+      <point x="426" y="664" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -38,7 +38,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>0033a1154f295b8dc941aa8db108e9ce34ddb4f9007dd1678ffc2ae7eb4034885efaa575b0abb7a71bbd00dcc80130ef184623b3a211ad87b9704cd2d97334dc</string>
+        <string>f6236891b7b06ee817d056fdc39994223dce11b3eb337320ab296696a019f166517afafb4ba0b6b5fce5c685209bf3052ea56cf44be04290cbcaf1634fdfb073</string>
       </dict>
     </dict>
   </lib>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caroncomb" format="2">
+  <unicode hex="030C"/>
+  <outline>
+    <contour>
+      <point x="-659" y="1020" type="line"/>
+      <point x="-512" y="931" type="line"/>
+      <point x="-364" y="1020" type="line"/>
+      <point x="-329" y="1020" type="line"/>
+      <point x="-477" y="900" type="line"/>
+      <point x="-547" y="900" type="line"/>
+      <point x="-694" y="1020" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>w0l-659+1020l-512+931l-364+1020l-329+1020l-477+900l-547+900l-694+1020|</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

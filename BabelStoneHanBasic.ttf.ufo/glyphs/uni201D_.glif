@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni201D" format="2">
-  <advance width="1024"/>
+  <advance width="512"/>
   <unicode hex="201D"/>
   <outline>
     <contour>
@@ -69,7 +69,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>7c9e162db34064a7deb29d247ffbe7dd391fd40c2e19009a926eac59387eda9b45346629479a4f50f49e2f02be33fd2027b6f22d6e6f6b3ce736daf8bbefbf02</string>
+        <string>daefdc6baec75ed4dd3989aa1a467e52115e0c786e76dffb89136a0a4c507d9358bf4a054b3a86a0792e4fa3243690c4edcb14669e18d144f66639d8b0da5be6</string>
       </dict>
     </dict>
   </lib>

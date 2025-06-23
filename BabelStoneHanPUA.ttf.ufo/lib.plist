@@ -1161,6 +1161,7 @@
       <string>uniE4A6</string>
       <string>uniE4A7</string>
       <string>uniE4A8</string>
+      <string>uniE4A9</string>
       <string>uniE4AA</string>
       <string>uniE4AC</string>
       <string>uniE4AD</string>
@@ -1180,9 +1181,12 @@
       <string>uniE4BE</string>
       <string>uniE4BF</string>
       <string>uniE4C0</string>
+      <string>uniE4C1</string>
+      <string>uniE4C2</string>
       <string>uniE4C3</string>
       <string>uniE4C4</string>
       <string>uniE4C5</string>
+      <string>uniE4C6</string>
       <string>uniE4C7</string>
       <string>uniE4C8</string>
       <string>uniE4C9</string>
@@ -6093,7 +6097,7 @@
       <string>uniF8DE</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/05/29 17:56:32</string>
+    <string>2025/06/19 14:33:24</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>

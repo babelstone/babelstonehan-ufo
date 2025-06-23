@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Jcaron" format="2">
+  <advance width="512"/>
+  <outline>
+    <contour>
+      <point x="376" y="149"/>
+      <point x="324" y="106" type="qcurve"/>
+      <point x="277" y="66"/>
+      <point x="201" y="66" type="qcurve"/>
+      <point x="125" y="66"/>
+      <point x="71" y="111" type="qcurve"/>
+      <point x="27" y="149"/>
+      <point x="27" y="195" type="qcurve"/>
+      <point x="28" y="221"/>
+      <point x="38" y="231" type="qcurve"/>
+      <point x="49" y="241"/>
+      <point x="62" y="241" type="qcurve"/>
+      <point x="76" y="240"/>
+      <point x="88" y="230" type="qcurve"/>
+      <point x="100" y="220"/>
+      <point x="100" y="205" type="qcurve"/>
+      <point x="100" y="190"/>
+      <point x="90" y="166" type="qcurve"/>
+      <point x="79" y="140"/>
+      <point x="113" y="115" type="qcurve"/>
+      <point x="149" y="91"/>
+      <point x="201" y="91" type="qcurve"/>
+      <point x="252" y="91"/>
+      <point x="288" y="119" type="qcurve"/>
+      <point x="325" y="148"/>
+      <point x="325" y="227" type="qcurve"/>
+      <point x="325" y="591" type="line"/>
+      <point x="325" y="677"/>
+      <point x="216" y="677" type="qcurve"/>
+      <point x="216" y="694" type="line"/>
+      <point x="485" y="694" type="line"/>
+      <point x="485" y="677" type="line"/>
+      <point x="377" y="676"/>
+      <point x="377" y="591" type="qcurve"/>
+      <point x="377" y="227" type="line"/>
+    </contour>
+    <contour>
+      <point x="189" y="883" type="line"/>
+      <point x="336" y="749" type="line"/>
+      <point x="484" y="883" type="line"/>
+      <point x="519" y="883" type="line"/>
+      <point x="371" y="718" type="line"/>
+      <point x="301" y="718" type="line"/>
+      <point x="154" y="883" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.truetype.instructions</key>
+      <dict>
+        <key>assembly</key>
+        <string>
+
+</string>
+        <key>formatVersion</key>
+        <string>1</string>
+        <key>id</key>
+        <string>0125c14a6b12bb1243eb4e616ef8edb566d32f6bf52dac4780e81f42fa4b36345e3a63996a2ef2f51abd1dab66a44ef2e2e213f7745c764053be82be651de2dd</string>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -42,6 +42,313 @@ lookup LigatureSubstitution5 {
     lookupflag 0;
     ;
     # Original source: 4 
+    sub zero zwj zero by number00;
+    sub zero zwj one by number01;
+    sub zero zwj two by number02;
+    sub zero zwj three by number03;
+    sub zero zwj four by number04;
+    sub zero zwj five by number05;
+    sub zero zwj six by number06;
+    sub zero zwj seven by number07;
+    sub zero zwj eight by number08;
+    sub zero zwj nine by number09;
+    sub one zwj zero by number10;
+    sub one zwj one by number11;
+    sub one zwj two by number12;
+    sub one zwj three by number13;
+    sub one zwj four by number14;
+    sub one zwj five by number15;
+    sub one zwj six by number16;
+    sub one zwj seven by number17;
+    sub one zwj eight by number18;
+    sub one zwj nine by number19;
+    sub one dotaccentcomb by one.dotabove;
+    sub one dieresiscomb by one.doubledotabove;
+    sub one dotbelowcomb by one.dotbelow;
+    sub one dieresisbelowcomb by one.doubledotbelow;
+    sub two zwj zero by number20;
+    sub two zwj one by number21;
+    sub two zwj two by number22;
+    sub two zwj three by number23;
+    sub two zwj four by number24;
+    sub two zwj five by number25;
+    sub two zwj six by number26;
+    sub two zwj seven by number27;
+    sub two zwj eight by number28;
+    sub two zwj nine by number29;
+    sub two dotaccentcomb by two.dotabove;
+    sub two dieresiscomb by two.doubledotabove;
+    sub two dotbelowcomb by two.dotbelow;
+    sub two dieresisbelowcomb by two.doubledotbelow;
+    sub three zwj zero by number30;
+    sub three zwj one by number31;
+    sub three zwj two by number32;
+    sub three zwj three by number33;
+    sub three zwj four by number34;
+    sub three zwj five by number35;
+    sub three zwj six by number36;
+    sub three zwj seven by number37;
+    sub three zwj eight by number38;
+    sub three zwj nine by number39;
+    sub three dotaccentcomb by three.dotabove;
+    sub three dieresiscomb by three.doubledotabove;
+    sub three dotbelowcomb by three.dotbelow;
+    sub three dieresisbelowcomb by three.doubledotbelow;
+    sub four zwj zero by number40;
+    sub four zwj one by number41;
+    sub four zwj two by number42;
+    sub four zwj three by number43;
+    sub four zwj four by number44;
+    sub four zwj five by number45;
+    sub four zwj six by number46;
+    sub four zwj seven by number47;
+    sub four zwj eight by number48;
+    sub four zwj nine by number49;
+    sub four dotaccentcomb by four.dotabove;
+    sub four dieresiscomb by four.doubledotabove;
+    sub four dotbelowcomb by four.dotbelow;
+    sub four dieresisbelowcomb by four.doubledotbelow;
+    sub five zwj zero by number50;
+    sub five zwj one by number51;
+    sub five zwj two by number52;
+    sub five zwj three by number53;
+    sub five zwj four by number54;
+    sub five zwj five by number55;
+    sub five zwj six by number56;
+    sub five zwj seven by number57;
+    sub five zwj eight by number58;
+    sub five zwj nine by number59;
+    sub five dotaccentcomb by five.dotabove;
+    sub five dieresiscomb by five.doubledotabove;
+    sub five dotbelowcomb by five.dotbelow;
+    sub five dieresisbelowcomb by five.doubledotbelow;
+    sub six zwj zero by number60;
+    sub six zwj one by number61;
+    sub six zwj two by number62;
+    sub six zwj three by number63;
+    sub six zwj four by number64;
+    sub six zwj five by number65;
+    sub six zwj six by number66;
+    sub six zwj seven by number67;
+    sub six zwj eight by number68;
+    sub six zwj nine by number69;
+    sub six dotaccentcomb by six.dotabove;
+    sub six dieresiscomb by six.doubledotabove;
+    sub six dotbelowcomb by six.dotbelow;
+    sub six dieresisbelowcomb by six.doubledotbelow;
+    sub seven zwj zero by number70;
+    sub seven zwj one by number71;
+    sub seven zwj two by number72;
+    sub seven zwj three by number73;
+    sub seven zwj four by number74;
+    sub seven zwj five by number75;
+    sub seven zwj six by number76;
+    sub seven zwj seven by number77;
+    sub seven zwj eight by number78;
+    sub seven zwj nine by number79;
+    sub seven dotaccentcomb by seven.dotabove;
+    sub seven dieresiscomb by seven.doubledotabove;
+    sub seven dotbelowcomb by seven.dotbelow;
+    sub seven dieresisbelowcomb by seven.doubledotbelow;
+    sub eight zwj zero by number80;
+    sub eight zwj one by number81;
+    sub eight zwj two by number82;
+    sub eight zwj three by number83;
+    sub eight zwj four by number84;
+    sub eight zwj five by number85;
+    sub eight zwj six by number86;
+    sub eight zwj seven by number87;
+    sub eight zwj eight by number88;
+    sub eight zwj nine by number89;
+    sub eight dotaccentcomb by eight.dotabove;
+    sub eight dieresiscomb by eight.doubledotabove;
+    sub eight dotbelowcomb by eight.dotbelow;
+    sub eight dieresisbelowcomb by eight.doubledotbelow;
+    sub nine zwj zero by number90;
+    sub nine zwj one by number91;
+    sub nine zwj two by number92;
+    sub nine zwj three by number93;
+    sub nine zwj four by number94;
+    sub nine zwj five by number95;
+    sub nine zwj six by number96;
+    sub nine zwj seven by number97;
+    sub nine zwj eight by number98;
+    sub nine zwj nine by number99;
+    sub nine dotaccentcomb by nine.dotabove;
+    sub nine dieresiscomb by nine.doubledotabove;
+    sub nine dotbelowcomb by nine.dotbelow;
+    sub nine dieresisbelowcomb by nine.doubledotbelow;
+    sub A gravecomb by Agrave;
+    sub A acutecomb by Aacute;
+    sub A circumflexcomb by Acircumflex;
+    sub A tildecomb by Atilde;
+    sub A macroncomb by Amacron;
+    sub A dieresiscomb by Adieresis;
+    sub A ringcomb by Aring;
+    sub A caroncomb by Acaron;
+    sub A dotbelowcomb by Adotbelow;
+    sub C circumflexcomb by Ccircumflex;
+    sub C caroncomb by Ccaron;
+    sub D dotbelowcomb by Ddotbelow;
+    sub E circumflexcomb gravecomb by Ecircumflexgrave;
+    sub E circumflexcomb acutecomb by Ecircumflexacute;
+    sub E circumflexcomb macroncomb by Ecircumflexmacron;
+    sub E circumflexcomb caroncomb by Ecircumflexcaron;
+    sub E gravecomb by Egrave;
+    sub E acutecomb by Eacute;
+    sub E circumflexcomb by Ecircumflex;
+    sub E tildecomb by Etilde;
+    sub E macroncomb by Emacron;
+    sub E dotaccentcomb by Edotaccent;
+    sub E dieresiscomb by Edieresis;
+    sub E caroncomb by Ecaron;
+    sub H dotbelowcomb by Hdotbelow;
+    sub I gravecomb by Igrave;
+    sub I acutecomb by Iacute;
+    sub I circumflexcomb by Icircumflex;
+    sub I macroncomb by Imacron;
+    sub I dieresiscomb by Idieresis;
+    sub I caroncomb by Icaron;
+    sub J caroncomb by Jcaron;
+    sub M gravecomb by Mgrave;
+    sub M acutecomb by Macute;
+    sub M macroncomb by Mmacron;
+    sub M dotaccentcomb by Mdotaccent;
+    sub M caroncomb by Mcaron;
+    sub M dotbelowcomb by Mdotbelow;
+    sub N gravecomb by Ngrave;
+    sub N acutecomb by Nacute;
+    sub N tildecomb by Ntilde;
+    sub N macroncomb by Nmacron;
+    sub N caroncomb by Ncaron;
+    sub N dotbelowcomb by Ndotbelow;
+    sub O gravecomb by Ograve;
+    sub O acutecomb by Oacute;
+    sub O circumflexcomb by Ocircumflex;
+    sub O tildecomb by Otilde;
+    sub O macroncomb by Omacron;
+    sub O dieresiscomb by Odieresis;
+    sub O caroncomb by Ocaron;
+    sub R dotbelowcomb by Rdotbelow;
+    sub S acutecomb by Sacute;
+    sub S circumflexcomb by Scircumflex;
+    sub S caroncomb by Scaron;
+    sub S dotbelowcomb by Sdotbelow;
+    sub T dotbelowcomb by Tdotbelow;
+    sub U dieresiscomb gravecomb by Udieresisgrave;
+    sub U dieresiscomb acutecomb by Udieresisacute;
+    sub U dieresiscomb macroncomb by Udieresismacron;
+    sub U dieresiscomb caroncomb by Udieresiscaron;
+    sub U gravecomb by Ugrave;
+    sub U acutecomb by Uacute;
+    sub U circumflexcomb by Ucircumflex;
+    sub U macroncomb by Umacron;
+    sub U dieresiscomb by Udieresis;
+    sub U caroncomb by Ucaron;
+    sub Y acutecomb by Yacute;
+    sub Y tildecomb by Ytilde;
+    sub Y dotaccentcomb by Ydotaccent;
+    sub Z acutecomb by Zacute;
+    sub Z circumflexcomb by Zcircumflex;
+    sub Z caroncomb by Zcaron;
+    sub a gravecomb by agrave;
+    sub a acutecomb by aacute;
+    sub a circumflexcomb by acircumflex;
+    sub a tildecomb by atilde;
+    sub a macroncomb by amacron;
+    sub a brevecomb by abreve;
+    sub a dieresiscomb by adieresis;
+    sub a ringcomb by aring;
+    sub a caroncomb by acaron;
+    sub a dotbelowcomb by adotbelow;
+    sub c circumflexcomb by ccircumflex;
+    sub c caroncomb by ccaron;
+    sub d dotbelowcomb by ddotbelow;
+    sub e circumflexcomb gravecomb by ecircumflexgrave;
+    sub e circumflexcomb acutecomb by ecircumflexacute;
+    sub e circumflexcomb macroncomb by ecircumflexmacron;
+    sub e circumflexcomb caroncomb by ecircumflexcaron;
+    sub e gravecomb by egrave;
+    sub e acutecomb by eacute;
+    sub e circumflexcomb by ecircumflex;
+    sub e tildecomb by etilde;
+    sub e macroncomb by emacron;
+    sub e dotaccentcomb by edotaccent;
+    sub e dieresiscomb by edieresis;
+    sub e caroncomb by ecaron;
+    sub g brevecomb by gbreve;
+    sub g dotaccentcomb by gdotaccent;
+    sub h dotbelowcomb by hdotbelow;
+    sub i gravecomb by igrave;
+    sub i acutecomb by iacute;
+    sub i circumflexcomb by icircumflex;
+    sub i tildecomb by itilde;
+    sub i macroncomb by imacron;
+    sub i brevecomb by ibreve;
+    sub i dieresiscomb by idieresis;
+    sub i caroncomb by icaron;
+    sub j caroncomb by jcaron;
+    sub m gravecomb by mgrave;
+    sub m acutecomb by macute;
+    sub m macroncomb by mmacron;
+    sub m dotaccentcomb by mdotaccent;
+    sub m caroncomb by mcaron;
+    sub m dotbelowcomb by mdotbelow;
+    sub n gravecomb by ngrave;
+    sub n acutecomb by nacute;
+    sub n tildecomb by ntilde;
+    sub n macroncomb by nmacron;
+    sub n caroncomb by ncaron;
+    sub n dotbelowcomb by ndotbelow;
+    sub o gravecomb by ograve;
+    sub o acutecomb by oacute;
+    sub o circumflexcomb by ocircumflex;
+    sub o tildecomb by otilde;
+    sub o macroncomb by omacron;
+    sub o dieresiscomb by odieresis;
+    sub o caroncomb by ocaron;
+    sub r dotbelowcomb by rdotbelow;
+    sub s acutecomb by sacute;
+    sub s circumflexcomb by scircumflex;
+    sub s caroncomb by scaron;
+    sub s dotbelowcomb by sdotbelow;
+    sub t dotbelowcomb by tdotbelow;
+    sub u dieresiscomb gravecomb by udieresisgrave;
+    sub u dieresiscomb acutecomb by udieresisacute;
+    sub u dieresiscomb macroncomb by udieresismacron;
+    sub u dieresiscomb caroncomb by udieresiscaron;
+    sub u gravecomb by ugrave;
+    sub u acutecomb by uacute;
+    sub u circumflexcomb by ucircumflex;
+    sub u tildecomb by utilde;
+    sub u macroncomb by umacron;
+    sub u dieresiscomb by udieresis;
+    sub u caroncomb by ucaron;
+    sub y acutecomb by yacute;
+    sub y tildecomb by ytilde;
+    sub y dotaccentcomb by ydotaccent;
+    sub y dieresiscomb by ydieresis;
+    sub z acutecomb by zacute;
+    sub z circumflexcomb by zcircumflex;
+    sub z caroncomb by zcaron;
+    sub Ecircumflex macroncomb by Ecircumflexmacron;
+    sub Ecircumflex caroncomb by Ecircumflexcaron;
+    sub Udieresis gravecomb by Udieresisgrave;
+    sub Udieresis acutecomb by Udieresisacute;
+    sub Udieresis macroncomb by Udieresismacron;
+    sub Udieresis caroncomb by Udieresiscaron;
+    sub ecircumflex macroncomb by ecircumflexmacron;
+    sub ecircumflex caroncomb by ecircumflexcaron;
+    sub udieresis gravecomb by udieresisgrave;
+    sub udieresis acutecomb by udieresisacute;
+    sub udieresis macroncomb by udieresismacron;
+    sub udieresis caroncomb by udieresiscaron;
+} LigatureSubstitution5;
+
+lookup LigatureSubstitution6 {
+    lookupflag 0;
+    ;
+    # Original source: 5 
     sub uni3046 uni3099 by uni3094;
     sub uni304B uni3099 by uni304C;
     sub uni304D uni3099 by uni304E;
@@ -100,12 +407,12 @@ lookup LigatureSubstitution5 {
     sub uni30F1 uni3099 by uni30F9;
     sub uni30F2 uni3099 by uni30FA;
     sub uni30FD uni3099 by uni30FE;
-} LigatureSubstitution5;
+} LigatureSubstitution6;
 
-lookup LigatureSubstitution6 {
+lookup LigatureSubstitution7 {
     lookupflag 0;
     ;
-    # Original source: 5 
+    # Original source: 6 
     sub uni304B uni309A by uni304B.309A;
     sub uni304D uni309A by uni304D.309A;
     sub uni304F uni309A by uni304F.309A;
@@ -120,12 +427,12 @@ lookup LigatureSubstitution6 {
     sub uni30C4 uni309A by uni30C4.309A;
     sub uni30C8 uni309A by uni30C8.309A;
     sub uni31F7 uni309A by uni31F7.309A;
-} LigatureSubstitution6;
+} LigatureSubstitution7;
 
-lookup LigatureSubstitution7 {
+lookup LigatureSubstitution8 {
     lookupflag 0;
     ;
-    # Original source: 6 
+    # Original source: 7 
     sub u1B017 uni3099 by u1B017.3099;
     sub u1B018 uni3099 by u1B018.3099;
     sub u1B019 uni3099 by u1B019.3099;
@@ -302,33 +609,33 @@ lookup LigatureSubstitution7 {
     sub u1B0C1 uni3099 by u1B0C1.3099;
     sub u1B0C1 uni309A by u1B0C1.309A;
     sub u1B122 uni3099 by u1B122.3099;
-} LigatureSubstitution7;
-
-lookup LigatureSubstitution8 {
-    lookupflag 0;
-    ;
-    # Original source: 7 
-    sub u1D377 u1D377 u1D377 u1D377 by u1D377.1D377.1D377.1D377;
-    sub u1D377 u1D377 u1D377 by u1D377.1D377.1D377;
-    sub u1D377 u1D377 by u1D377.1D377;
 } LigatureSubstitution8;
 
 lookup LigatureSubstitution9 {
     lookupflag 0;
     ;
     # Original source: 8 
-    sub uni5916 u16FF1 by uni5916.16FF1;
-    sub uni5C3C u16FF1 by uni5C3C.16FF1;
-    sub uni5F8B u16FF1 by uni5F8B.16FF1;
-    sub uni610F u16FF1 by uni610F.16FF1;
-    sub uni66F0 u16FF1 by uni66F0.16FF1;
-    sub uni7ACB u16FF1 by uni7ACB.16FF1;
+    sub u1D377 u1D377 u1D377 u1D377 by u1D377.1D377.1D377.1D377;
+    sub u1D377 u1D377 u1D377 by u1D377.1D377.1D377;
+    sub u1D377 u1D377 by u1D377.1D377;
 } LigatureSubstitution9;
 
 lookup LigatureSubstitution10 {
     lookupflag 0;
     ;
     # Original source: 9 
+    sub uni5916 u16FF1 by uni5916.16FF1;
+    sub uni5C3C u16FF1 by uni5C3C.16FF1;
+    sub uni5F8B u16FF1 by uni5F8B.16FF1;
+    sub uni610F u16FF1 by uni610F.16FF1;
+    sub uni66F0 u16FF1 by uni66F0.16FF1;
+    sub uni7ACB u16FF1 by uni7ACB.16FF1;
+} LigatureSubstitution10;
+
+lookup LigatureSubstitution11 {
+    lookupflag 0;
+    ;
+    # Original source: 10 
     sub uni4E0D uni3099 by uni4E0D.3099;
     sub uni4EBA uni3099 by uni4EBA.3099;
     sub uni5171 uni3099 by uni5171.3099;
@@ -337,22 +644,22 @@ lookup LigatureSubstitution10 {
     sub uni69FB uni3099 by uni69FB.3099;
     sub uni7AEF uni3099 by uni7AEF.3099;
     sub uni8005 uni3099 by uni8005.3099;
-} LigatureSubstitution10;
-
-lookup LigatureSubstitution11 {
-    lookupflag 0;
-    ;
-    # Original source: 10 
-    sub uni4E8C uni200D uni5408 by uni4E8C.200D.5408;
-    sub uni5373 uni200D uni54E9 by uni5373.200D.54E9;
-    sub uni6555 uni200D uni4EE4 by uni6555.200D.4EE4;
-    sub uni87F2 uni200D uni9CE5 by uni87F2.200D.9CE5;
 } LigatureSubstitution11;
 
-lookup SingleSubstitution12 {
+lookup LigatureSubstitution12 {
     lookupflag 0;
     ;
     # Original source: 11 
+    sub uni4E8C zwj uni5408 by uni4E8C.200D.5408;
+    sub uni5373 zwj uni54E9 by uni5373.200D.54E9;
+    sub uni6555 zwj uni4EE4 by uni6555.200D.4EE4;
+    sub uni87F2 zwj uni9CE5 by uni87F2.200D.9CE5;
+} LigatureSubstitution12;
+
+lookup SingleSubstitution13 {
+    lookupflag 0;
+    ;
+    # Original source: 12 
     sub endash by uniFE32;
     sub emdash by uniFE31;
     sub twodotenleader by uniFE30;
@@ -388,7 +695,7 @@ lookup SingleSubstitution12 {
     sub uniFF3D by uniFF3D.vert;
     sub uniFF5B by uniFF5B.vert;
     sub uniFF5D by uniFF5D.vert;
-} SingleSubstitution12;
+} SingleSubstitution13;
 
 lookup PairPositioning1 {
     lookupflag 0;
@@ -650,6 +957,42 @@ feature liga {
 
 } liga;
 
+feature liga {
+    script DFLT;
+    language dflt;
+            script DFLT;
+        language dflt;
+        lookup LigatureSubstitution12;
+
+} liga;
+
+feature liga {
+    script hani;
+    language dflt;
+            script hani;
+        language dflt;
+        lookup LigatureSubstitution12;
+
+} liga;
+
+feature liga {
+    script kana;
+    language dflt;
+            script kana;
+        language dflt;
+        lookup LigatureSubstitution12;
+
+} liga;
+
+feature liga {
+    script latn;
+    language dflt;
+            script latn;
+        language dflt;
+        lookup LigatureSubstitution12;
+
+} liga;
+
 feature calt {
     script DFLT;
     language dflt;
@@ -709,7 +1052,7 @@ feature vert {
     language dflt;
             script hani;
         language dflt;
-        lookup SingleSubstitution12;
+        lookup SingleSubstitution13;
 
 } vert;
 

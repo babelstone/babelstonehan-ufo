@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cent" format="2">
-  <advance width="1024"/>
+  <advance width="512"/>
   <unicode hex="00A2"/>
   <outline>
     <contour>
@@ -64,7 +64,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>4cc17a5de48ab79e7f3fd5641f0360bce5b30dcd9af4554cd9385a77438a02e2c1c10c2adbfe6d67f8d1dac02f235fe398e8299aef8c87dc8a36ca1f2a97e488</string>
+        <string>024a4e6da5b0473928c00f2c40fbd9ae63162b51e05d17768e750d5d697514547a2f09653fab09deb7bf7efbc4e7798b31a307d7c317bf45365e6d0aa9378cda</string>
       </dict>
     </dict>
   </lib>

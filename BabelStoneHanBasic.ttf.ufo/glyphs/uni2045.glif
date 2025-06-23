@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2045" format="2">
-  <advance width="1024"/>
+  <advance width="512"/>
   <unicode hex="2045"/>
   <outline>
     <contour>
-      <point x="416" y="377" type="line"/>
-      <point x="416" y="-102" type="line"/>
-      <point x="651" y="-102" type="line"/>
-      <point x="651" y="-124" type="line"/>
-      <point x="373" y="-124" type="line"/>
-      <point x="373" y="900" type="line"/>
-      <point x="651" y="900" type="line"/>
-      <point x="651" y="878" type="line"/>
-      <point x="416" y="878" type="line"/>
-      <point x="416" y="399" type="line"/>
-      <point x="651" y="399" type="line"/>
-      <point x="651" y="377" type="line"/>
+      <point x="160" y="377" type="line"/>
+      <point x="160" y="-102" type="line"/>
+      <point x="395" y="-102" type="line"/>
+      <point x="395" y="-124" type="line"/>
+      <point x="117" y="-124" type="line"/>
+      <point x="117" y="900" type="line"/>
+      <point x="395" y="900" type="line"/>
+      <point x="395" y="878" type="line"/>
+      <point x="160" y="878" type="line"/>
+      <point x="160" y="399" type="line"/>
+      <point x="395" y="399" type="line"/>
+      <point x="395" y="377" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -29,7 +29,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>w1024l416+377l416-102l651-102l651-124l373-124l373+900l651+900l651+878l416+878l416+399l651+399l651+377|</string>
+        <string>w512l160+377l160-102l395-102l395-124l117-124l117+900l395+900l395+878l160+878l160+399l395+399l395+377|</string>
       </dict>
     </dict>
   </lib>
