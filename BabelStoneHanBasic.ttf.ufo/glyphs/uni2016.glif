@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2016" format="2">
-  <advance width="1024"/>
+  <advance width="512"/>
   <unicode hex="2016"/>
   <outline>
     <contour>
-      <point x="413" y="827" type="line"/>
-      <point x="413" y="-52" type="line"/>
-      <point x="370" y="-52" type="line"/>
-      <point x="370" y="827" type="line"/>
+      <point x="157" y="828" type="line"/>
+      <point x="157" y="-52" type="line"/>
+      <point x="114" y="-52" type="line"/>
+      <point x="114" y="828" type="line"/>
     </contour>
     <contour>
-      <point x="654" y="-52" type="line"/>
-      <point x="611" y="-52" type="line"/>
-      <point x="611" y="827" type="line"/>
-      <point x="654" y="827" type="line"/>
+      <point x="398" y="-52" type="line"/>
+      <point x="355" y="-52" type="line"/>
+      <point x="355" y="828" type="line"/>
+      <point x="398" y="828" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -27,7 +27,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>w1024l413+827l413-52l370-52l370+827|l654-52l611-52l611+827l654+827|</string>
+        <string>w512l157+828l157-52l114-52l114+828|l398-52l355-52l355+828l398+828|</string>
       </dict>
     </dict>
   </lib>

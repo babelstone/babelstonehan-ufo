@@ -1,61 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="uni2E42" format="2">
-  <advance width="1024"/>
+  <advance width="512"/>
   <unicode hex="2E42"/>
   <outline>
     <contour>
-      <point x="884" y="173" type="qcurve"/>
-      <point x="903" y="173"/>
-      <point x="916" y="161" type="qcurve"/>
-      <point x="926" y="148"/>
-      <point x="927" y="130" type="qcurve"/>
-      <point x="927" y="114"/>
-      <point x="916" y="100" type="qcurve"/>
-      <point x="906" y="87"/>
-      <point x="884" y="86" type="qcurve"/>
-      <point x="875" y="89"/>
-      <point x="865" y="91" type="qcurve"/>
-      <point x="861" y="91"/>
-      <point x="861" y="85" type="qcurve"/>
-      <point x="861" y="60"/>
-      <point x="880" y="20" type="qcurve"/>
-      <point x="904" y="-25"/>
-      <point x="942" y="-25" type="qcurve"/>
-      <point x="942" y="-45" type="line"/>
-      <point x="893" y="-45"/>
-      <point x="864" y="4" type="qcurve"/>
-      <point x="836" y="49"/>
-      <point x="836" y="102" type="qcurve"/>
-      <point x="836" y="138"/>
-      <point x="850" y="155" type="qcurve"/>
-      <point x="865" y="173"/>
+      <point x="356" y="173" type="qcurve"/>
+      <point x="375" y="173"/>
+      <point x="388" y="161" type="qcurve"/>
+      <point x="398" y="148"/>
+      <point x="399" y="130" type="qcurve"/>
+      <point x="399" y="114"/>
+      <point x="388" y="100" type="qcurve"/>
+      <point x="378" y="87"/>
+      <point x="356" y="86" type="qcurve"/>
+      <point x="347" y="89"/>
+      <point x="337" y="91" type="qcurve"/>
+      <point x="333" y="91"/>
+      <point x="333" y="85" type="qcurve"/>
+      <point x="333" y="60"/>
+      <point x="352" y="20" type="qcurve"/>
+      <point x="376" y="-25"/>
+      <point x="414" y="-25" type="qcurve"/>
+      <point x="414" y="-45" type="line"/>
+      <point x="365" y="-45"/>
+      <point x="336" y="4" type="qcurve"/>
+      <point x="308" y="49"/>
+      <point x="308" y="102" type="qcurve"/>
+      <point x="308" y="138"/>
+      <point x="322" y="155" type="qcurve"/>
+      <point x="337" y="173"/>
     </contour>
     <contour>
-      <point x="674" y="173" type="qcurve"/>
-      <point x="693" y="173"/>
-      <point x="706" y="161" type="qcurve"/>
-      <point x="716" y="148"/>
-      <point x="717" y="130" type="qcurve"/>
-      <point x="717" y="114"/>
-      <point x="706" y="100" type="qcurve"/>
-      <point x="696" y="87"/>
-      <point x="674" y="86" type="qcurve"/>
-      <point x="665" y="89"/>
-      <point x="655" y="91" type="qcurve"/>
-      <point x="651" y="91"/>
-      <point x="651" y="85" type="qcurve"/>
-      <point x="651" y="60"/>
-      <point x="671" y="20" type="qcurve"/>
-      <point x="695" y="-25"/>
-      <point x="733" y="-25" type="qcurve"/>
-      <point x="733" y="-45" type="line"/>
-      <point x="684" y="-45"/>
-      <point x="654" y="2" type="qcurve"/>
-      <point x="626" y="48"/>
-      <point x="626" y="102" type="qcurve"/>
-      <point x="626" y="138"/>
-      <point x="640" y="155" type="qcurve"/>
-      <point x="655" y="173"/>
+      <point x="146" y="173" type="qcurve"/>
+      <point x="165" y="173"/>
+      <point x="178" y="161" type="qcurve"/>
+      <point x="188" y="148"/>
+      <point x="189" y="130" type="qcurve"/>
+      <point x="189" y="114"/>
+      <point x="178" y="100" type="qcurve"/>
+      <point x="168" y="87"/>
+      <point x="146" y="86" type="qcurve"/>
+      <point x="137" y="89"/>
+      <point x="127" y="91" type="qcurve"/>
+      <point x="123" y="91"/>
+      <point x="123" y="85" type="qcurve"/>
+      <point x="123" y="60"/>
+      <point x="143" y="20" type="qcurve"/>
+      <point x="167" y="-25"/>
+      <point x="205" y="-25" type="qcurve"/>
+      <point x="205" y="-45" type="line"/>
+      <point x="156" y="-45"/>
+      <point x="126" y="2" type="qcurve"/>
+      <point x="98" y="48"/>
+      <point x="98" y="102" type="qcurve"/>
+      <point x="98" y="138"/>
+      <point x="112" y="155" type="qcurve"/>
+      <point x="127" y="173"/>
     </contour>
   </outline>
   <lib>
@@ -69,7 +69,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>cbc84d8e3c2448e6ea1e2c96147f758bf1286dcf7217625a9999991434c96423ec0e046a52b0318c8d3791680aba9c9bd8b7845b6eb3c773c05aa99a9f4ff047</string>
+        <string>c0c8d683e8df15e6bef21ea4254fa43edd162aabf1832d6bb94613fe8a5ecc9dce911f296edc7786338daa36fde23c69c330fb542bdf20b8bdb58e71f006526a</string>
       </dict>
     </dict>
   </lib>

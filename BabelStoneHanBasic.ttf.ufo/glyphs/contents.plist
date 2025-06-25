@@ -38,6 +38,8 @@
     <string>C_.glif</string>
     <key>C.nalt</key>
     <string>C_.nalt.glif</string>
+    <key>Cbar</key>
+    <string>C_bar.glif</string>
     <key>Ccaron</key>
     <string>C_caron.glif</string>
     <key>Ccircumflex</key>
@@ -628,6 +630,8 @@
     <string>dagger.glif</string>
     <key>daggerdbl</key>
     <string>daggerdbl.glif</string>
+    <key>dai.square</key>
+    <string>dai.square.glif</string>
     <key>ddotbelow</key>
     <string>ddotbelow.glif</string>
     <key>deciduoustree</key>
@@ -656,6 +660,8 @@
     <string>dnblock.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dong.square</key>
+    <string>dong.square.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
     <key>dotaccentcomb</key>
@@ -664,6 +670,8 @@
     <string>dotbelowcomb.glif</string>
     <key>doublelowlinecomb</key>
     <string>doublelowlinecomb.glif</string>
+    <key>doubleobliquehyphen</key>
+    <string>doubleobliquehyphen.glif</string>
     <key>doubleoverlinecomb</key>
     <string>doubleoverlinecomb.glif</string>
     <key>doveofpeace</key>
@@ -870,6 +878,8 @@
     <string>frowningfacewithopenmouth.glif</string>
     <key>fsi</key>
     <string>fsi.glif</string>
+    <key>fu.square</key>
+    <string>fu.square.glif</string>
     <key>fullmoon</key>
     <string>fullmoon.glif</string>
     <key>g</key>
@@ -1016,6 +1026,8 @@
     <string>j.nalt.glif</string>
     <key>jcaron</key>
     <string>jcaron.glif</string>
+    <key>jie.square</key>
+    <string>jie.square.glif</string>
     <key>k</key>
     <string>k.glif</string>
     <key>k.nalt</key>
@@ -1048,6 +1060,10 @@
     <string>lessequal.glif</string>
     <key>lfblock</key>
     <string>lfblock.glif</string>
+    <key>lian.square</key>
+    <string>lian.square.glif</string>
+    <key>liang.square</key>
+    <string>liang.square.glif</string>
     <key>libra</key>
     <string>libra.glif</string>
     <key>ligatureopenetornament</key>
@@ -1114,6 +1130,8 @@
     <string>menorahwithninebranches.glif</string>
     <key>mgrave</key>
     <string>mgrave.glif</string>
+    <key>ming.square</key>
+    <string>ming.square.glif</string>
     <key>minus.sinf</key>
     <string>minus.sinf.glif</string>
     <key>minus.sups</key>
@@ -1222,6 +1240,8 @@
     <string>nine.sinf.glif</string>
     <key>nine.sups</key>
     <string>nine.sups.glif</string>
+    <key>nisheng.square</key>
+    <string>nisheng.square.glif</string>
     <key>nmacron</key>
     <string>nmacron.glif</string>
     <key>nods</key>
@@ -1712,6 +1732,8 @@
     <string>shade.glif</string>
     <key>shamrock</key>
     <string>shamrock.glif</string>
+    <key>shu.square</key>
+    <string>shu.square.glif</string>
     <key>six</key>
     <string>six.glif</string>
     <key>six.dotabove</key>
@@ -1808,6 +1830,8 @@
     <string>t.glif</string>
     <key>t.nalt</key>
     <string>t.nalt.glif</string>
+    <key>tan.square</key>
+    <string>tan.square.glif</string>
     <key>taurus</key>
     <string>taurus.glif</string>
     <key>tdotbelow</key>
@@ -1844,6 +1868,8 @@
     <string>tildecomb.glif</string>
     <key>tiredface</key>
     <string>tiredface.glif</string>
+    <key>tishi</key>
+    <string>tishi.glif</string>
     <key>tophalfblackcircle</key>
     <string>tophalfblackcircle.glif</string>
     <key>trademark</key>
@@ -69772,6 +69798,8 @@
     <string>x.glif</string>
     <key>x.nalt</key>
     <string>x.nalt.glif</string>
+    <key>xing.square</key>
+    <string>xing.square.glif</string>
     <key>y</key>
     <string>y.glif</string>
     <key>y.nalt</key>
@@ -69806,6 +69834,10 @@
     <string>zero.sinf.glif</string>
     <key>zero.sups</key>
     <string>zero.sups.glif</string>
+    <key>zhu.square</key>
+    <string>zhu.square.glif</string>
+    <key>zhuyi</key>
+    <string>zhuyi.glif</string>
     <key>zwj</key>
     <string>zwj.glif</string>
     <key>zwnj</key>

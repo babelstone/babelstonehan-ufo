@@ -2066,6 +2066,7 @@
       <string>u20E5A</string>
       <string>u20E5B</string>
       <string>u20E5E</string>
+      <string>u20E61</string>
       <string>u20E64</string>
       <string>u20E65</string>
       <string>u20E6C</string>
@@ -7806,6 +7807,8 @@
       <string>u24336</string>
       <string>u24337</string>
       <string>u24339</string>
+      <string>u2433A</string>
+      <string>u2433C</string>
       <string>u2433E</string>
       <string>u2433F</string>
       <string>u24342</string>
@@ -9311,6 +9314,7 @@
       <string>u2519A</string>
       <string>u2519C</string>
       <string>u2519E</string>
+      <string>u2519F</string>
       <string>u251A0</string>
       <string>u251A1</string>
       <string>u251A2</string>
@@ -9383,6 +9387,7 @@
       <string>u25253</string>
       <string>u25254</string>
       <string>u25256</string>
+      <string>u2525A</string>
       <string>u2525B</string>
       <string>u2525D</string>
       <string>u2525E</string>
@@ -11111,6 +11116,7 @@
       <string>u264B7</string>
       <string>u264B9</string>
       <string>u264BF</string>
+      <string>u264C6</string>
       <string>u264C8</string>
       <string>u264CA</string>
       <string>u264CB</string>
@@ -11668,6 +11674,7 @@
       <string>u26A77</string>
       <string>u26A7B</string>
       <string>u26A7D</string>
+      <string>u26A84</string>
       <string>u26A87</string>
       <string>u26A88</string>
       <string>u26A89</string>
@@ -11985,6 +11992,7 @@
       <string>u26DE6</string>
       <string>u26DEE</string>
       <string>u26DF0</string>
+      <string>u26DF1</string>
       <string>u26E01</string>
       <string>u26E02</string>
       <string>u26E05</string>
@@ -13258,6 +13266,7 @@
       <string>u27AC7</string>
       <string>u27AC9</string>
       <string>u27ACB</string>
+      <string>u27ACD</string>
       <string>u27ACE</string>
       <string>u27ACF</string>
       <string>u27AD3</string>
@@ -14907,6 +14916,8 @@
       <string>u28AB7</string>
       <string>u28AB8</string>
       <string>u28ABA</string>
+      <string>u28ABC</string>
+      <string>u28ABD</string>
       <string>u28AC0</string>
       <string>u28AC3</string>
       <string>u28AC4</string>
@@ -15333,6 +15344,7 @@
       <string>u28EC8</string>
       <string>u28EC9</string>
       <string>u28ECB</string>
+      <string>u28ECC</string>
       <string>u28ED0</string>
       <string>u28ED1</string>
       <string>u28ED5</string>
@@ -16324,11 +16336,13 @@
       <string>u2994E</string>
       <string>u29951</string>
       <string>u29952</string>
+      <string>u29957</string>
       <string>u29959</string>
       <string>u2995D</string>
       <string>u2995F</string>
       <string>u29962</string>
       <string>u29966</string>
+      <string>u29967</string>
       <string>u2996B</string>
       <string>u2996C</string>
       <string>u2996E</string>
@@ -16555,6 +16569,7 @@
       <string>u29B93</string>
       <string>u29B9A</string>
       <string>u29B9C</string>
+      <string>u29BA3</string>
       <string>u29BA4</string>
       <string>u29BA5</string>
       <string>u29BA9</string>
@@ -19940,6 +19955,7 @@
       <string>u2B4AD</string>
       <string>u2B4B1</string>
       <string>u2B4B2</string>
+      <string>u2B4B5</string>
       <string>u2B4B6</string>
       <string>u2B4B7</string>
       <string>u2B4BC</string>
@@ -26357,6 +26373,7 @@
       <string>u2DFF7</string>
       <string>u2DFFB</string>
       <string>u2DFFD</string>
+      <string>u2E001</string>
       <string>u2E005</string>
       <string>u2E009</string>
       <string>u2E00A</string>
@@ -34901,6 +34918,7 @@
       <string>u3287C</string>
       <string>u3287D</string>
       <string>u32882</string>
+      <string>u32885</string>
       <string>u32886</string>
       <string>u32887</string>
       <string>u3288A</string>
@@ -37343,7 +37361,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/06/22 21:51:02</string>
+    <string>2025/06/24 21:02:55</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>

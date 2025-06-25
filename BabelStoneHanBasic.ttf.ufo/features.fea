@@ -624,12 +624,26 @@ lookup LigatureSubstitution10 {
     lookupflag 0;
     ;
     # Original source: 9 
+    sub uni4ECB enclosingsquare by jie.square;
+    sub uni4EE3 enclosingsquare by dai.square;
+    sub uni526F enclosingsquare by fu.square;
+    sub uni52A8 enclosingsquare by dong.square;
+    sub uni52A9 enclosingsquare by zhu.square;
+    sub uni53F9 enclosingsquare by tan.square;
+    sub uni540D enclosingsquare by ming.square;
     sub uni5916 u16FF1 by uni5916.16FF1;
     sub uni5C3C u16FF1 by uni5C3C.16FF1;
+    sub uni5F62 enclosingsquare by xing.square;
     sub uni5F8B u16FF1 by uni5F8B.16FF1;
     sub uni610F u16FF1 by uni610F.16FF1;
+    sub uni62DF zwj uni58F0 enclosingsquare by nisheng.square;
+    sub uni63D0 zwj uni793A by tishi;
+    sub uni6570 enclosingsquare by shu.square;
     sub uni66F0 u16FF1 by uni66F0.16FF1;
+    sub uni6CE8 zwj uni610F by zhuyi;
     sub uni7ACB u16FF1 by uni7ACB.16FF1;
+    sub uni8FDE enclosingsquare by lian.square;
+    sub uni91CF enclosingsquare by liang.square;
 } LigatureSubstitution10;
 
 lookup LigatureSubstitution11 {

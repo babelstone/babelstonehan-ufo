@@ -1706,6 +1706,7 @@
       <string>uni2BEA</string>
       <string>uni2BEB</string>
       <string>uni2C7C</string>
+      <string>doubleobliquehyphen</string>
       <string>uni2E2E</string>
       <string>uni2E30</string>
       <string>uni2E31</string>
@@ -30379,6 +30380,7 @@
       <string>chinesetoneyinrumod</string>
       <string>chinesetoneyangrumod</string>
       <string>uniA78F</string>
+      <string>Cbar</string>
       <string>uniA7F7</string>
       <string>uniE000</string>
       <string>uniE001</string>
@@ -34224,6 +34226,20 @@
       <string>uni610F.16FF1</string>
       <string>uni66F0.16FF1</string>
       <string>uni7ACB.16FF1</string>
+      <string>ming.square</string>
+      <string>dong.square</string>
+      <string>xing.square</string>
+      <string>shu.square</string>
+      <string>liang.square</string>
+      <string>dai.square</string>
+      <string>fu.square</string>
+      <string>jie.square</string>
+      <string>lian.square</string>
+      <string>zhu.square</string>
+      <string>tan.square</string>
+      <string>nisheng.square</string>
+      <string>tishi</string>
+      <string>zhuyi</string>
       <string>uni4E8C.200D.5408</string>
       <string>uni5373.200D.54E9</string>
       <string>uni6555.200D.4EE4</string>
@@ -34910,7 +34926,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/06/22 21:25:06</string>
+    <string>2025/06/25 01:39:07</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
