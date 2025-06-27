@@ -722,386 +722,300 @@ lookup PairPositioning1 {
 feature liga {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution5;
+            lookup LigatureSubstitution5;
 
 } liga;
 
 feature liga {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup LigatureSubstitution5;
+            lookup LigatureSubstitution5;
 
 } liga;
 
 feature liga {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup LigatureSubstitution5;
+            lookup LigatureSubstitution5;
 
 } liga;
 
 feature liga {
     script latn;
     language dflt;
-            script latn;
-        language dflt;
-        lookup LigatureSubstitution5;
+            lookup LigatureSubstitution5;
 
 } liga;
 
 feature liga {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution6;
+            lookup LigatureSubstitution6;
 
 } liga;
 
 feature liga {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup LigatureSubstitution6;
+            lookup LigatureSubstitution6;
 
 } liga;
 
 feature liga {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup LigatureSubstitution6;
+            lookup LigatureSubstitution6;
 
 } liga;
 
 feature liga {
     script latn;
     language dflt;
-            script latn;
-        language dflt;
-        lookup LigatureSubstitution6;
+            lookup LigatureSubstitution6;
 
 } liga;
 
 feature liga {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution7;
+            lookup LigatureSubstitution7;
 
 } liga;
 
 feature liga {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup LigatureSubstitution7;
+            lookup LigatureSubstitution7;
 
 } liga;
 
 feature liga {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup LigatureSubstitution7;
+            lookup LigatureSubstitution7;
 
 } liga;
 
 feature liga {
     script latn;
     language dflt;
-            script latn;
-        language dflt;
-        lookup LigatureSubstitution7;
+            lookup LigatureSubstitution7;
 
 } liga;
 
 feature liga {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution8;
+            lookup LigatureSubstitution8;
 
 } liga;
 
 feature liga {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup LigatureSubstitution8;
+            lookup LigatureSubstitution8;
 
 } liga;
 
 feature liga {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup LigatureSubstitution8;
+            lookup LigatureSubstitution8;
 
 } liga;
 
 feature liga {
     script latn;
     language dflt;
-            script latn;
-        language dflt;
-        lookup LigatureSubstitution8;
+            lookup LigatureSubstitution8;
 
 } liga;
 
 feature liga {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution9;
+            lookup LigatureSubstitution9;
 
 } liga;
 
 feature liga {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup LigatureSubstitution9;
+            lookup LigatureSubstitution9;
 
 } liga;
 
 feature liga {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup LigatureSubstitution9;
+            lookup LigatureSubstitution9;
 
 } liga;
 
 feature liga {
     script latn;
     language dflt;
-            script latn;
-        language dflt;
-        lookup LigatureSubstitution9;
+            lookup LigatureSubstitution9;
 
 } liga;
 
 feature liga {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution10;
+            lookup LigatureSubstitution10;
 
 } liga;
 
 feature liga {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup LigatureSubstitution10;
+            lookup LigatureSubstitution10;
 
 } liga;
 
 feature liga {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup LigatureSubstitution10;
+            lookup LigatureSubstitution10;
 
 } liga;
 
 feature liga {
     script latn;
     language dflt;
-            script latn;
-        language dflt;
-        lookup LigatureSubstitution10;
+            lookup LigatureSubstitution10;
 
 } liga;
 
 feature liga {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution11;
+            lookup LigatureSubstitution11;
 
 } liga;
 
 feature liga {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup LigatureSubstitution11;
+            lookup LigatureSubstitution11;
 
 } liga;
 
 feature liga {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup LigatureSubstitution11;
+            lookup LigatureSubstitution11;
 
 } liga;
 
 feature liga {
     script latn;
     language dflt;
-            script latn;
-        language dflt;
-        lookup LigatureSubstitution11;
+            lookup LigatureSubstitution11;
 
 } liga;
 
 feature liga {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup LigatureSubstitution12;
+            lookup LigatureSubstitution12;
 
 } liga;
 
 feature liga {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup LigatureSubstitution12;
+            lookup LigatureSubstitution12;
 
 } liga;
 
 feature liga {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup LigatureSubstitution12;
+            lookup LigatureSubstitution12;
 
 } liga;
 
 feature liga {
     script latn;
     language dflt;
-            script latn;
-        language dflt;
-        lookup LigatureSubstitution12;
+            lookup LigatureSubstitution12;
 
 } liga;
 
 feature calt {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup ChainedContextualGSUB1;
+            lookup ChainedContextualGSUB1;
 
 } calt;
 
 feature calt {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup ChainedContextualGSUB1;
+            lookup ChainedContextualGSUB1;
 
 } calt;
 
 feature calt {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup ChainedContextualGSUB1;
+            lookup ChainedContextualGSUB1;
 
 } calt;
 
 feature calt {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup ChainedContextualGSUB3;
+            lookup ChainedContextualGSUB3;
 
 } calt;
 
 feature calt {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup ChainedContextualGSUB3;
+            lookup ChainedContextualGSUB3;
 
 } calt;
 
 feature calt {
     script kana;
     language dflt;
-            script kana;
-        language dflt;
-        lookup ChainedContextualGSUB3;
+            lookup ChainedContextualGSUB3;
 
 } calt;
 
 feature vert {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup SingleSubstitution13;
+            lookup SingleSubstitution13;
 
 } vert;
 
 feature kern {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning1;
+            lookup PairPositioning1;
 
 } kern;
 
 feature kern {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup PairPositioning1;
+            lookup PairPositioning1;
 
 } kern;
 
 feature chws {
     script DFLT;
     language dflt;
-            script DFLT;
-        language dflt;
-        lookup PairPositioning1;
+            lookup PairPositioning1;
 
 } chws;
 
 feature chws {
     script hani;
     language dflt;
-            script hani;
-        language dflt;
-        lookup PairPositioning1;
+            lookup PairPositioning1;
 
 } chws;
