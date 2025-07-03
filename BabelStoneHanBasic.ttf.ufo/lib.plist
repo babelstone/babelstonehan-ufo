@@ -34334,6 +34334,7 @@
       <string>uni4544.var1</string>
       <string>uni45B9.var1</string>
       <string>uni45F4.var1</string>
+      <string>uni4620.var1</string>
       <string>uni465B.var1</string>
       <string>uni4674.var1</string>
       <string>uni4675.var1</string>
@@ -34449,8 +34450,6 @@
       <string>uni563C.var1</string>
       <string>uni5645.var1</string>
       <string>uni5668.var1</string>
-      <string>uni5668.var2</string>
-      <string>uni5668.var3</string>
       <string>uni5673.var1</string>
       <string>uni5692.var1</string>
       <string>uni569F.var1</string>
@@ -34931,7 +34930,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/06/30 17:35:00</string>
+    <string>2025/07/02 14:55:59</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35170,6 +35169,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni45B9</string>
         <key>45F4</key>
         <string>uni45F4</string>
+        <key>4620</key>
+        <string>uni4620</string>
         <key>465B</key>
         <string>uni465B</string>
         <key>4675</key>
@@ -35931,6 +35932,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni45B9.var1</string>
         <key>45F4</key>
         <string>uni45F4.var1</string>
+        <key>4620</key>
+        <string>uni4620.var1</string>
         <key>465B</key>
         <string>uni465B.var1</string>
         <key>4675</key>
@@ -37328,8 +37331,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni52C9</string>
         <key>52E5</key>
         <string>uni52E5.var1</string>
-        <key>5668</key>
-        <string>uni5668.var3</string>
         <key>5716</key>
         <string>uni5716</string>
         <key>5ACF</key>
@@ -37503,8 +37504,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4EB9.var1</string>
         <key>52C9</key>
         <string>uni52C9.var1</string>
-        <key>5668</key>
-        <string>uni5668.var2</string>
         <key>5716</key>
         <string>uni5716.var2</string>
         <key>5EAD</key>
