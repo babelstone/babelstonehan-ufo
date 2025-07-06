@@ -1046,6 +1046,7 @@
       <string>u206A2</string>
       <string>u206A3</string>
       <string>u206A4</string>
+      <string>u206A7</string>
       <string>u206AA</string>
       <string>u206AD</string>
       <string>u206AF</string>
@@ -7510,6 +7511,7 @@
       <string>u24004</string>
       <string>u2400A</string>
       <string>u2400B</string>
+      <string>u2400E</string>
       <string>u24011</string>
       <string>u24015</string>
       <string>u24016</string>
@@ -7924,6 +7926,7 @@
       <string>u243F1</string>
       <string>u243F2</string>
       <string>u243F3</string>
+      <string>u243F5</string>
       <string>u243F6</string>
       <string>u243F8</string>
       <string>u24401</string>
@@ -10649,6 +10652,7 @@
       <string>u25F3B</string>
       <string>u25F3D</string>
       <string>u25F42</string>
+      <string>u25F49</string>
       <string>u25F4B</string>
       <string>u25F4F</string>
       <string>u25F53</string>
@@ -10870,6 +10874,7 @@
       <string>u26186</string>
       <string>u26188</string>
       <string>u26189</string>
+      <string>u2618E</string>
       <string>u26195</string>
       <string>u26196</string>
       <string>u26199</string>
@@ -12474,6 +12479,7 @@
       <string>u272D5</string>
       <string>u272DB</string>
       <string>u272DC</string>
+      <string>u272DD</string>
       <string>u272DF</string>
       <string>u272E0</string>
       <string>u272E2</string>
@@ -13388,6 +13394,7 @@
       <string>u27B2E</string>
       <string>u27B2F</string>
       <string>u27B31</string>
+      <string>u27B33</string>
       <string>u27B36</string>
       <string>u27B37</string>
       <string>u27B3B</string>
@@ -16481,6 +16488,7 @@
       <string>u299A9</string>
       <string>u299AA</string>
       <string>u299AB</string>
+      <string>u299AF</string>
       <string>u299B0</string>
       <string>u299B1</string>
       <string>u299B2</string>
@@ -30516,6 +30524,7 @@
       <string>u30B6C</string>
       <string>u30B6F</string>
       <string>u30B71</string>
+      <string>u30B72</string>
       <string>u30B73</string>
       <string>u30B74</string>
       <string>u30B75</string>
@@ -30560,6 +30569,7 @@
       <string>u30BBD</string>
       <string>u30BBE</string>
       <string>u30BC0</string>
+      <string>u30BC1</string>
       <string>u30BC2</string>
       <string>u30BC5</string>
       <string>u30BC7</string>
@@ -30568,14 +30578,18 @@
       <string>u30BCB</string>
       <string>u30BCC</string>
       <string>u30BCE</string>
+      <string>u30BCF</string>
       <string>u30BD0</string>
+      <string>u30BD1</string>
       <string>u30BD4</string>
       <string>u30BD5</string>
       <string>u30BD6</string>
+      <string>u30BD7</string>
       <string>u30BD9</string>
       <string>u30BDA</string>
       <string>u30BDB</string>
       <string>u30BDC</string>
+      <string>u30BDE</string>
       <string>u30BDF</string>
       <string>u30BE1</string>
       <string>u30BE4</string>
@@ -30593,6 +30607,7 @@
       <string>u30BF4</string>
       <string>u30BF5</string>
       <string>u30BF6</string>
+      <string>u30BF7</string>
       <string>u30BFA</string>
       <string>u30BFB</string>
       <string>u30BFC</string>
@@ -30697,10 +30712,12 @@
       <string>u30C88</string>
       <string>u30C89</string>
       <string>u30C8A</string>
+      <string>u30C8B</string>
       <string>u30C8D</string>
       <string>u30C8E</string>
       <string>u30C8F</string>
       <string>u30C90</string>
+      <string>u30C91</string>
       <string>u30C92</string>
       <string>u30C96</string>
       <string>u30C98</string>
@@ -30787,6 +30804,7 @@
       <string>u30CF1</string>
       <string>u30CF2</string>
       <string>u30CF3</string>
+      <string>u30CF4</string>
       <string>u30CF5</string>
       <string>u30CF6</string>
       <string>u30CF7</string>
@@ -30796,13 +30814,16 @@
       <string>u30CFB</string>
       <string>u30CFC</string>
       <string>u30CFD</string>
+      <string>u30D00</string>
       <string>u30D01</string>
       <string>u30D02</string>
       <string>u30D03</string>
+      <string>u30D05</string>
       <string>u30D06</string>
       <string>u30D07</string>
       <string>u30D08</string>
       <string>u30D0A</string>
+      <string>u30D0C</string>
       <string>u30D0D</string>
       <string>u30D0F</string>
       <string>u30D10</string>
@@ -30834,6 +30855,7 @@
       <string>u30D2D</string>
       <string>u30D2E</string>
       <string>u30D2F</string>
+      <string>u30D31</string>
       <string>u30D32</string>
       <string>u30D34</string>
       <string>u30D35</string>
@@ -30923,14 +30945,17 @@
       <string>u30D8F</string>
       <string>u30D91</string>
       <string>u30D92</string>
+      <string>u30D93</string>
       <string>u30D94</string>
       <string>u30D96</string>
       <string>u30D97</string>
       <string>u30D9B</string>
       <string>u30D9C</string>
+      <string>u30D9E</string>
       <string>u30D9F</string>
       <string>u30DA0</string>
       <string>u30DA1</string>
+      <string>u30DA2</string>
       <string>u30DA4</string>
       <string>u30DA5</string>
       <string>u30DA6</string>
@@ -30953,17 +30978,24 @@
       <string>u30DBA</string>
       <string>u30DBC</string>
       <string>u30DBD</string>
+      <string>u30DBE</string>
       <string>u30DBF</string>
       <string>u30DC1</string>
       <string>u30DC5</string>
+      <string>u30DC7</string>
+      <string>u30DC8</string>
       <string>u30DC9</string>
+      <string>u30DCA</string>
       <string>u30DCD</string>
       <string>u30DCE</string>
       <string>u30DD0</string>
+      <string>u30DD1</string>
+      <string>u30DD2</string>
       <string>u30DD3</string>
       <string>u30DD4</string>
       <string>u30DD5</string>
       <string>u30DD6</string>
+      <string>u30DD7</string>
       <string>u30DD9</string>
       <string>u30DDA</string>
       <string>u30DDB</string>
@@ -31114,6 +31146,7 @@
       <string>u30EA9</string>
       <string>u30EAA</string>
       <string>u30EAB</string>
+      <string>u30EAC</string>
       <string>u30EAD</string>
       <string>u30EAF</string>
       <string>u30EB0</string>
@@ -34520,6 +34553,7 @@
       <string>u32407</string>
       <string>u32408</string>
       <string>u32409</string>
+      <string>u3240A</string>
       <string>u3240F</string>
       <string>u32410</string>
       <string>u32412</string>
@@ -36954,6 +36988,7 @@
       <string>u23191.var1</string>
       <string>u23261.var1</string>
       <string>u2327B.var1</string>
+      <string>u232B7.var1</string>
       <string>u232EF.var1</string>
       <string>u232F4.var1</string>
       <string>u23326.var1</string>
@@ -37452,6 +37487,7 @@
       <string>u3005C.var1</string>
       <string>u30130.var1</string>
       <string>u301A5.var1</string>
+      <string>u301C5.var1</string>
       <string>u301D2.var1</string>
       <string>u3021E.var1</string>
       <string>u30243.var1</string>
@@ -37551,7 +37587,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/07/02 19:12:04</string>
+    <string>2025/07/05 22:53:47</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -37936,6 +37972,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u23261</string>
         <key>2327B</key>
         <string>u2327B</string>
+        <key>232B7</key>
+        <string>u232B7</string>
         <key>232EF</key>
         <string>u232EF</string>
         <key>232F4</key>
@@ -38854,6 +38892,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u30130</string>
         <key>301A5</key>
         <string>u301A5</string>
+        <key>301C5</key>
+        <string>u301C5</string>
         <key>301D2</key>
         <string>u301D2</string>
         <key>3021E</key>
@@ -39333,6 +39373,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u23261.var1</string>
         <key>2327B</key>
         <string>u2327B.var1</string>
+        <key>232B7</key>
+        <string>u232B7.var1</string>
         <key>232EF</key>
         <string>u232EF.var1</string>
         <key>232F4</key>
@@ -40277,6 +40319,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u30130.var1</string>
         <key>301A5</key>
         <string>u301A5.var1</string>
+        <key>301C5</key>
+        <string>u301C5.var1</string>
         <key>301D2</key>
         <string>u301D2.var1</string>
         <key>3021E</key>

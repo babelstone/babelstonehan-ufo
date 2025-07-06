@@ -34240,10 +34240,12 @@
       <string>nisheng.square</string>
       <string>tishi</string>
       <string>zhuyi</string>
-      <string>uni4E8C.200D.5408</string>
-      <string>uni5373.200D.54E9</string>
-      <string>uni6555.200D.4EE4</string>
-      <string>uni87F2.200D.9CE5</string>
+      <string>uni4E8C.zwj.5408</string>
+      <string>uni5171.zwj.5DFE</string>
+      <string>uni5373.zwj.54E9</string>
+      <string>uni5DFF.zwj.98DF</string>
+      <string>uni6555.zwj.4EE4</string>
+      <string>uni87F2.zwj.9CE5</string>
       <string>uni3404.var1</string>
       <string>uni34A8.var1</string>
       <string>uni34B7.var1</string>
@@ -34930,7 +34932,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/07/02 14:55:59</string>
+    <string>2025/07/05 22:55:00</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>

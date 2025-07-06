@@ -664,10 +664,12 @@ lookup LigatureSubstitution12 {
     lookupflag 0;
     ;
     # Original source: 11 
-    sub uni4E8C zwj uni5408 by uni4E8C.200D.5408;
-    sub uni5373 zwj uni54E9 by uni5373.200D.54E9;
-    sub uni6555 zwj uni4EE4 by uni6555.200D.4EE4;
-    sub uni87F2 zwj uni9CE5 by uni87F2.200D.9CE5;
+    sub uni4E8C zwj uni5408 by uni4E8C.zwj.5408;
+    sub uni5171 zwj uni5DFE by uni5171.zwj.5DFE;
+    sub uni5373 zwj uni54E9 by uni5373.zwj.54E9;
+    sub uni5DFF zwj uni98DF by uni5DFF.zwj.98DF;
+    sub uni6555 zwj uni4EE4 by uni6555.zwj.4EE4;
+    sub uni87F2 zwj uni9CE5 by uni87F2.zwj.9CE5;
 } LigatureSubstitution12;
 
 lookup SingleSubstitution13 {
