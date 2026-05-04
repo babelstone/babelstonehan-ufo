@@ -194,7 +194,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>BabelStone Han Basic:Version 17.0.0 BETA;July 7, 2025</string>
+        <string>BabelStone Han Basic:Version 17.0.1;May 2, 2026</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -218,7 +218,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 17.0.0</string>
+        <string>Version 17.0.1</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -395,9 +395,9 @@ Legal Terms
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>BabelStone Han Basic:Version 17.0.0 BETA;July 7, 2025</string>
+    <string>BabelStone Han Basic:Version 17.0.1;May 2, 2026</string>
     <key>openTypeNameVersion</key>
-    <string>Version 17.0.0</string>
+    <string>Version 17.0.1</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -513,7 +513,7 @@ Legal Terms
     <key>versionMajor</key>
     <integer>17</integer>
     <key>versionMinor</key>
-    <integer>0</integer>
+    <integer>1</integer>
     <key>xHeight</key>
     <integer>495</integer>
   </dict>

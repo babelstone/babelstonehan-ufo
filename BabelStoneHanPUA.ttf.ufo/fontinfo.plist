@@ -186,7 +186,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>BabelStone Han PUA:Version 1.473 BETA;July 9, 2025</string>
+        <string>BabelStone Han PUA:Version 1.473;July 9, 2025</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -210,7 +210,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 1.473 BETA</string>
+        <string>Version 1.473</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -367,9 +367,9 @@ Legal Terms
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>BabelStone Han PUA:Version 1.473 BETA;July 9, 2025</string>
+    <string>BabelStone Han PUA:Version 1.473;July 9, 2025</string>
     <key>openTypeNameVersion</key>
-    <string>Version 1.473 BETA</string>
+    <string>Version 1.473</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>

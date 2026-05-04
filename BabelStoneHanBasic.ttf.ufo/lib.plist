@@ -34932,7 +34932,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2025/07/07 22:14:23</string>
+    <string>2026/05/03 01:00:39</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35309,8 +35309,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni55E2.var1</string>
         <key>5645</key>
         <string>uni5645</string>
-        <key>5668</key>
-        <string>uni5668.var1</string>
         <key>5673</key>
         <string>uni5673</string>
         <key>5692</key>
@@ -36014,8 +36012,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4E56.var1</string>
         <key>4E87</key>
         <string>uni4E87.var1</string>
-        <key>4E9B</key>
-        <string>uni4E9B.var1</string>
         <key>4EAC</key>
         <string>uni4EAC</string>
         <key>4ECC</key>
@@ -36100,8 +36096,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni569F</string>
         <key>56A6</key>
         <string>uni56A6.var1</string>
-        <key>5712</key>
-        <string>uni5712.var1</string>
         <key>5725</key>
         <string>uni5725.var1</string>
         <key>57C0</key>
@@ -36218,8 +36212,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni649D</string>
         <key>64A1</key>
         <string>uni64A1.var1</string>
-        <key>64AD</key>
-        <string>uni64AD.var1</string>
         <key>64EA</key>
         <string>uni64EA</string>
         <key>650B</key>
@@ -36332,8 +36324,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni70F6.var1</string>
         <key>7128</key>
         <string>uni7128.var1</string>
-        <key>7167</key>
-        <string>uni7167.var1</string>
         <key>71EC</key>
         <string>uni71EC</string>
         <key>7202</key>
@@ -36414,8 +36404,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni7E48</string>
         <key>7E66</key>
         <string>uni7E66</string>
-        <key>7F68</key>
-        <string>uni7F68.var1</string>
         <key>8005</key>
         <string>uniFA5B</string>
         <key>8012</key>
@@ -36728,7 +36716,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>4E87</key>
         <string>uni4E87.var2</string>
         <key>4E9B</key>
-        <string>uni4E9B.var2</string>
+        <string>uni4E9B.var1</string>
         <key>4EAC</key>
         <string>uni4EAC.var1</string>
         <key>4ED7</key>
@@ -36847,6 +36835,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni643A.var1</string>
         <key>649D</key>
         <string>uni649D.var1</string>
+        <key>64AD</key>
+        <string>uni64AD.var1</string>
         <key>64C4</key>
         <string>uni64C4</string>
         <key>64EA</key>
@@ -36873,8 +36863,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni6BEB.var1</string>
         <key>6BEC</key>
         <string>uni6BEC.var1</string>
-        <key>6C0A</key>
-        <string>uni6C0A.var1</string>
         <key>6C4A</key>
         <string>uni6C4A.var1</string>
         <key>6C62</key>
@@ -36937,6 +36925,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni7E48.var1</string>
         <key>7E66</key>
         <string>uni7E66.var1</string>
+        <key>7F68</key>
+        <string>uni7F68.var1</string>
         <key>7FBD</key>
         <string>uni7FBD</string>
         <key>7FF9</key>
@@ -37100,6 +37090,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4E3D</string>
         <key>4E87</key>
         <string>uni4E87.var3</string>
+        <key>4E9B</key>
+        <string>uni4E9B.var2</string>
         <key>4E9F</key>
         <string>uni4E9F</string>
         <key>4FB9</key>
@@ -37124,6 +37116,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni534B.var1</string>
         <key>5455</key>
         <string>uni5455.var1</string>
+        <key>5712</key>
+        <string>uni5712.var1</string>
         <key>5854</key>
         <string>uni5854.var1</string>
         <key>58D2</key>
@@ -37152,8 +37146,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni5F93.var1</string>
         <key>6222</key>
         <string>uni6222</string>
-        <key>640D</key>
-        <string>uni640D.var1</string>
         <key>6422</key>
         <string>uni6422.var2</string>
         <key>642D</key>
@@ -37169,7 +37161,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>6BD2</key>
         <string>uni6BD2</string>
         <key>6C0A</key>
-        <string>uni6C0A.var2</string>
+        <string>uni6C0A.var1</string>
         <key>6CFB</key>
         <string>uni6CFB</string>
         <key>6DDE</key>
@@ -37343,8 +37335,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni5C06.var2</string>
         <key>5C64</key>
         <string>uni5C64</string>
-        <key>5DE5</key>
-        <string>uni5DE5.var1</string>
         <key>618E</key>
         <string>uni618E</string>
         <key>6220</key>
@@ -37353,6 +37343,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni6222.var1</string>
         <key>633A</key>
         <string>uni633A</string>
+        <key>640D</key>
+        <string>uni640D.var1</string>
         <key>66F8</key>
         <string>uni66F8.var1</string>
         <key>6881</key>
@@ -37367,6 +37359,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni6BBA</string>
         <key>6BD2</key>
         <string>uni6BD2.var1</string>
+        <key>6C0A</key>
+        <string>uni6C0A.var2</string>
         <key>6CFB</key>
         <string>uni6CFB.var1</string>
         <key>6DDE</key>
@@ -37375,6 +37369,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni6F6F.var1</string>
         <key>7081</key>
         <string>uni7081.var1</string>
+        <key>7167</key>
+        <string>uni7167.var1</string>
         <key>73FD</key>
         <string>uni73FD.var1</string>
         <key>7424</key>
@@ -37395,8 +37391,6 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni7AB0.var1</string>
         <key>7AEB</key>
         <string>uni7AEB.var1</string>
-        <key>7BC9</key>
-        <string>uni7BC9.var1</string>
         <key>7C36</key>
         <string>uni7C36</string>
         <key>7D2B</key>
@@ -37506,8 +37500,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4EB9.var1</string>
         <key>52C9</key>
         <string>uni52C9.var1</string>
-        <key>5716</key>
-        <string>uni5716.var2</string>
+        <key>5668</key>
+        <string>uni5668.var1</string>
         <key>5EAD</key>
         <string>uni5EAD</string>
         <key>5EF7</key>
@@ -37532,6 +37526,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni7559.var1</string>
         <key>7669</key>
         <string>uni7669.var1</string>
+        <key>7BC9</key>
+        <string>uni7BC9.var1</string>
         <key>7C36</key>
         <string>uni7C36.var1</string>
         <key>7D4C</key>
@@ -37595,8 +37591,10 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni5154.var1</string>
         <key>555A</key>
         <string>uni555A</string>
-        <key>570D</key>
-        <string>uni570D.var1</string>
+        <key>5716</key>
+        <string>uni5716.var2</string>
+        <key>5DE5</key>
+        <string>uni5DE5.var1</string>
         <key>5EAD</key>
         <string>uni5EAD.var1</string>
         <key>5EF7</key>
@@ -37634,8 +37632,8 @@ ENDF[ ]	/* EndFunctionDefinition */
       <dict>
         <key>5544</key>
         <string>uni5544</string>
-        <key>555A</key>
-        <string>uni555A.var1</string>
+        <key>570D</key>
+        <string>uni570D.var1</string>
         <key>5BB3</key>
         <string>uni5BB3</string>
         <key>5FA1</key>
@@ -37670,7 +37668,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>5544</key>
         <string>uni5544.var1</string>
         <key>555A</key>
-        <string>uni555A.var2</string>
+        <string>uni555A.var1</string>
         <key>5BB3</key>
         <string>uni5BB3.var1</string>
         <key>6ECB</key>
@@ -37688,6 +37686,8 @@ ENDF[ ]	/* EndFunctionDefinition */
       </dict>
       <key>E0109</key>
       <dict>
+        <key>555A</key>
+        <string>uni555A.var2</string>
         <key>6ECB</key>
         <string>uniFA99</string>
         <key>8239</key>
@@ -37729,14 +37729,17 @@ ENDF[ ]	/* EndFunctionDefinition */
       </dict>
       <key>E010C</key>
       <dict>
-        <key>671B</key>
-        <string>uni671B.var1</string>
         <key>9077</key>
         <string>uni9077.var1</string>
         <key>9F9C</key>
         <string>uni9F9C.var2</string>
       </dict>
       <key>E010D</key>
+      <dict>
+        <key>671B</key>
+        <string>uni671B.var1</string>
+      </dict>
+      <key>E010E</key>
       <dict>
         <key>671B</key>
         <string>uni671B.var2</string>
