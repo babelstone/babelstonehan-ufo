@@ -1,8 +1,8 @@
 on:
   workflow_dispatch:
     inputs: {}
-  schedule:
-  - cron: "0 3 * * *"
+  # schedule:
+  # - cron: "0 3 * * *"
 
 name: Update ufo
 
