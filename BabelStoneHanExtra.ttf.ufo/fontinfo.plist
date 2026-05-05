@@ -52,6 +52,7 @@
     <array>
       <integer>0</integer>
       <integer>1</integer>
+      <integer>3</integer>
     </array>
     <key>openTypeHeadLowestRecPPEM</key>
     <integer>8</integer>
@@ -192,7 +193,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>BabelStone Han Extra:Version 17.0.1;May 2, 2026</string>
+        <string>BabelStone Han Extra:Version 17.0.2 BETA;May 5, 2026</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -216,7 +217,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 17.0.1</string>
+        <string>Version 17.0.2 BETA</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -391,9 +392,9 @@ Legal Terms
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>BabelStone Han Extra:Version 17.0.1;May 2, 2026</string>
+    <string>BabelStone Han Extra:Version 17.0.2 BETA;May 5, 2026</string>
     <key>openTypeNameVersion</key>
-    <string>Version 17.0.1</string>
+    <string>Version 17.0.2 BETA</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
