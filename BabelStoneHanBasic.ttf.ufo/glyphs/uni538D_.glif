@@ -137,26 +137,26 @@
       <point x="119" y="57" type="qcurve"/>
       <point x="190" y="189"/>
       <point x="190" y="558" type="qcurve"/>
-      <point x="190" y="707" type="line"/>
-      <point x="189" y="745"/>
-      <point x="180" y="785" type="qcurve"/>
-      <point x="179" y="793"/>
-      <point x="183" y="796" type="qcurve"/>
-      <point x="188" y="797"/>
-      <point x="195" y="790" type="qcurve"/>
-      <point x="210" y="775"/>
-      <point x="238" y="759" type="qcurve"/>
-      <point x="833" y="759" type="line"/>
-      <point x="847" y="761" type="line"/>
-      <point x="859" y="773" type="line"/>
-      <point x="889" y="815" type="line"/>
-      <point x="896" y="824"/>
-      <point x="905" y="815" type="qcurve"/>
-      <point x="976" y="752"/>
-      <point x="975" y="737" type="qcurve"/>
-      <point x="973" y="729"/>
-      <point x="960" y="728" type="qcurve"/>
-      <point x="238" y="728" type="line"/>
+      <point x="190" y="745" type="line"/>
+      <point x="189" y="783"/>
+      <point x="180" y="823" type="qcurve"/>
+      <point x="179" y="831"/>
+      <point x="183" y="834" type="qcurve"/>
+      <point x="188" y="835"/>
+      <point x="195" y="828" type="qcurve"/>
+      <point x="210" y="813"/>
+      <point x="238" y="797" type="qcurve"/>
+      <point x="833" y="797" type="line"/>
+      <point x="847" y="799" type="line"/>
+      <point x="859" y="811" type="line"/>
+      <point x="889" y="853" type="line"/>
+      <point x="896" y="862"/>
+      <point x="905" y="853" type="qcurve"/>
+      <point x="976" y="790"/>
+      <point x="975" y="775" type="qcurve"/>
+      <point x="973" y="767"/>
+      <point x="960" y="766" type="qcurve"/>
+      <point x="238" y="766" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -170,7 +170,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>9e20721ef7a1cd3c0dadf61f0fe378d3faf8f3b5fecb3ac56f8ad0aec7146ee93491d2f9b6b364b2a35facc35f757c697f03c32fe2a0cad75c1bf286edbd127f</string>
+        <string>cb3ec8ca3f8cfbbee7668e152e978e1a6b736bba13ec73586541397b5bcad94d6170643f38d90b08837d1ec3c9704a93b36b5f39a1ca7f1d9e62f6ad3f90eb25</string>
       </dict>
     </dict>
   </lib>
