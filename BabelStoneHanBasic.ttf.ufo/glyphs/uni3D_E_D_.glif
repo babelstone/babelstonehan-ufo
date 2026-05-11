@@ -104,8 +104,8 @@
       <point x="626" y="60" type="qcurve"/>
     </contour>
     <contour>
-      <point x="592" y="453"/>
-      <point x="593" y="447" type="qcurve"/>
+      <point x="592" y="432"/>
+      <point x="593" y="446" type="qcurve"/>
       <point x="593" y="464" type="line"/>
       <point x="492" y="464" type="line"/>
       <point x="450" y="463"/>
@@ -385,7 +385,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>3e65bd9ee898a33a6bce248d57c14b6bda15ae7814ffa1a1fe7f5d724a9dab11da6ea3e25430f3e7abf0c2438106a7f7928ff582b557593ae8e1e7f173e115f2</string>
+        <string>f23e2f8a51f095085325116d3ee07ff6ede18936d08940f803fe61e1bbdb7593996f9940ecf24b7801f07afd259db7404f2e7dd7528fb868ff02e27518642807</string>
       </dict>
     </dict>
   </lib>

@@ -311,16 +311,15 @@
       <point x="640" y="-72" type="qcurve"/>
       <point x="643" y="-47"/>
       <point x="644" y="-7" type="qcurve"/>
-      <point x="644" y="113" type="line"/>
-      <point x="649" y="125"/>
-      <point x="653" y="134" type="qcurve"/>
-      <point x="656" y="139"/>
-      <point x="652" y="140" type="qcurve"/>
-      <point x="646" y="143"/>
-      <point x="645" y="139" type="qcurve"/>
-      <point x="644" y="139"/>
-      <point x="644" y="138" type="qcurve"/>
-      <point x="644" y="146" type="line"/>
+      <point x="644" y="123" type="line"/>
+      <point x="649" y="135"/>
+      <point x="653" y="144" type="qcurve"/>
+      <point x="656" y="149"/>
+      <point x="652" y="150" type="qcurve"/>
+      <point x="646" y="153"/>
+      <point x="645" y="149" type="qcurve"/>
+      <point x="645" y="148"/>
+      <point x="644" y="146" type="qcurve"/>
       <point x="604" y="90"/>
       <point x="558" y="50" type="qcurve"/>
       <point x="507" y="4"/>
@@ -358,7 +357,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>06631d67238a456f3c893ca7bbb3f29a00f3894117a1c9f3b1e34d40caedbcbb40e3d33edc64e46874130596a529594b777733916f972f81c068cb651ae33b63</string>
+        <string>d96651aee7a03e517f529136c8b9e25c61d4e07c248e29dc66fccdbf8939dccd984c91ff0cf71b183c6842e6a8a4bc32db3bdd0ce0ab7769ca7c299ce5dfe32a</string>
       </dict>
     </dict>
   </lib>

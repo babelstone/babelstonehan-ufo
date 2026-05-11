@@ -3669,6 +3669,7 @@
       <string>u21AFD</string>
       <string>u21B00</string>
       <string>u21B02</string>
+      <string>u21B0C</string>
       <string>u21B04</string>
       <string>u21B06</string>
       <string>u21B0D</string>
@@ -4061,6 +4062,7 @@
       <string>u21E9B</string>
       <string>u21E9D</string>
       <string>u21EA0</string>
+      <string>u21EA1</string>
       <string>u21EA2</string>
       <string>u21EA5</string>
       <string>u21EA8</string>
@@ -4857,6 +4859,7 @@
       <string>u22652</string>
       <string>u22653</string>
       <string>u22654</string>
+      <string>u22656</string>
       <string>u2265A</string>
       <string>u2265D</string>
       <string>u22662</string>
@@ -6293,6 +6296,7 @@
       <string>u23431</string>
       <string>u23433</string>
       <string>u23435</string>
+      <string>u23438</string>
       <string>u2343A</string>
       <string>u2343B</string>
       <string>u2343C</string>
@@ -9444,6 +9448,7 @@
       <string>u2522C</string>
       <string>u2522D</string>
       <string>u2522E</string>
+      <string>u25231</string>
       <string>u25235</string>
       <string>u2523A</string>
       <string>u2523C</string>
@@ -21905,7 +21910,7 @@
       <string>u2BE83</string>
       <string>u2BE84</string>
       <string>u2BE86</string>
-      <string>$2BE89</string>
+      <string>u2BE89</string>
       <string>u2BE8A</string>
       <string>u2BE8B</string>
       <string>u2BE8C</string>
@@ -25868,6 +25873,7 @@
       <string>u2D9A3</string>
       <string>u2D9B6</string>
       <string>u2D9B7</string>
+      <string>u2D9BB</string>
       <string>u2D9BC</string>
       <string>u2D9BE</string>
       <string>u2D9C2</string>
@@ -35580,6 +35586,7 @@
       <string>u32BE2</string>
       <string>u32BE5</string>
       <string>u32BE8</string>
+      <string>u32BE9</string>
       <string>u32BEA</string>
       <string>u32BEF</string>
       <string>u32BF0</string>
@@ -37647,7 +37654,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/05/08 19:22:23</string>
+    <string>2026/05/11 00:37:22</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>

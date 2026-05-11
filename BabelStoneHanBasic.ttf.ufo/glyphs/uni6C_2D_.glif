@@ -207,9 +207,7 @@
       <point x="237" y="385"/>
       <point x="261" y="367" type="qcurve"/>
       <point x="418" y="367" type="line"/>
-      <point x="418" y="420" type="line"/>
-      <point x="417" y="412"/>
-      <point x="417" y="422" type="qcurve"/>
+      <point x="418" y="422" type="line"/>
       <point x="248" y="422" type="line"/>
       <point x="221" y="422"/>
       <point x="187" y="415" type="qcurve"/>
@@ -304,7 +302,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>39115b51c8639c6fee54b2d3bb1125aca0b4b85afa7aff8bdad3ba2c790d576be0607939427d4e14328d35915228154be6a5347e38d532b89d0e0e2ecdc44605</string>
+        <string>231254274237f3a14ca33dcca90653bbfca96af0ee77c57b6cfc49415619f9eaed8496ff100fb92a570d3b4aace7d0e4249def157e6dcb168116982a541c3f5c</string>
       </dict>
     </dict>
   </lib>

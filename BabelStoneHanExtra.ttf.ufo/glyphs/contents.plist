@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>$2BE89</key>
-    <string>$2B_E_89.glif</string>
     <key>.notdef</key>
     <string>_notdef.glif</string>
     <key>.null</key>
@@ -7506,6 +7504,8 @@
     <string>u21B_04.glif</string>
     <key>u21B06</key>
     <string>u21B_06.glif</string>
+    <key>u21B0C</key>
+    <string>u21B_0C_.glif</string>
     <key>u21B0D</key>
     <string>u21B_0D_.glif</string>
     <key>u21B0E</key>
@@ -8310,6 +8310,8 @@
     <string>u21E_9D_.glif</string>
     <key>u21EA0</key>
     <string>u21E_A_0.glif</string>
+    <key>u21EA1</key>
+    <string>u21E_A_1.glif</string>
     <key>u21EA2</key>
     <string>u21E_A_2.glif</string>
     <key>u21EA5</key>
@@ -9932,6 +9934,8 @@
     <string>u22653.glif</string>
     <key>u22654</key>
     <string>u22654.glif</string>
+    <key>u22656</key>
+    <string>u22656.glif</string>
     <key>u2265A</key>
     <string>u2265A_.glif</string>
     <key>u2265D</key>
@@ -12920,6 +12924,8 @@
     <string>u23433.glif</string>
     <key>u23435</key>
     <string>u23435.glif</string>
+    <key>u23438</key>
+    <string>u23438.glif</string>
     <key>u2343A</key>
     <string>u2343A_.glif</string>
     <key>u2343B</key>
@@ -19368,6 +19374,8 @@
     <string>u2522D_.glif</string>
     <key>u2522E</key>
     <string>u2522E_.glif</string>
+    <key>u25231</key>
+    <string>u25231.glif</string>
     <key>u25235</key>
     <string>u25235.glif</string>
     <key>u2523A</key>
@@ -44880,6 +44888,8 @@
     <string>u2B_E_84.glif</string>
     <key>u2BE86</key>
     <string>u2B_E_86.glif</string>
+    <key>u2BE89</key>
+    <string>u2B_E_89.glif</string>
     <key>u2BE8A</key>
     <string>u2B_E_8A_.glif</string>
     <key>u2BE8B</key>
@@ -52954,6 +52964,8 @@
     <string>u2D_9B_6.glif</string>
     <key>u2D9B7</key>
     <string>u2D_9B_7.glif</string>
+    <key>u2D9BB</key>
+    <string>u2D_9B_B_.glif</string>
     <key>u2D9BC</key>
     <string>u2D_9B_C_.glif</string>
     <key>u2D9BE</key>
@@ -72854,6 +72866,8 @@
     <string>u32B_E_5.glif</string>
     <key>u32BE8</key>
     <string>u32B_E_8.glif</string>
+    <key>u32BE9</key>
+    <string>u32B_E_9.glif</string>
     <key>u32BEA</key>
     <string>u32B_E_A_.glif</string>
     <key>u32BEF</key>

@@ -50,7 +50,7 @@
       <point x="425" y="559"/>
       <point x="425" y="546" type="qcurve"/>
       <point x="425" y="516" type="line"/>
-      <point x="425" y="534"/>
+      <point x="425" y="494"/>
       <point x="431" y="479" type="qcurve"/>
       <point x="433" y="467"/>
       <point x="424" y="463" type="qcurve"/>
@@ -418,7 +418,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>223c96b37b4033fce4af59ad4abcdd2621530efdfc8850519d2b1e891dadb1c3536c43cfa6cd887c1693183a1b113ec9826cc23bdc0d59c199c4c2dcabf77a2e</string>
+        <string>1e57426c1f8f0b75684d8f0ad4f669aa3b7816abcda59f440bda9196ef7172e824a83a7febeec9ed28f72ee6db1216b6fb1f430e2a389eef52ac726a7f2e60b8</string>
       </dict>
     </dict>
   </lib>
