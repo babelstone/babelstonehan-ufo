@@ -116,9 +116,7 @@
     </contour>
     <contour>
       <point x="726" y="313"/>
-      <point x="710" y="425" type="qcurve"/>
-      <point x="709" y="421"/>
-      <point x="709" y="417" type="qcurve"/>
+      <point x="709" y="425" type="qcurve"/>
       <point x="705" y="453"/>
       <point x="705" y="487" type="qcurve"/>
       <point x="704" y="492"/>
@@ -220,7 +218,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>90d40651f889342e79aca162fd72dba746b74fa291d770931575b94cd42237171991d33d270984a28f0c9c26075427ef1e2a5c85431c7c07e96c48040cf6106c</string>
+        <string>069877aec1117036a516c035bf4d35b43839e7e3450928d5bb3e910cd4a89e3ef1461747dc619fb86fc17c6f03261ac35f6f273481a9882b2f2e1ed3eb6f48bc</string>
       </dict>
     </dict>
   </lib>

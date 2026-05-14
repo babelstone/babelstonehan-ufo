@@ -34436,6 +34436,7 @@
       <string>uni537C.var1</string>
       <string>uni53BF.var1</string>
       <string>uni53C0.var1</string>
+      <string>uni53D4.var1</string>
       <string>uni5403.var1</string>
       <string>uni5433.var1</string>
       <string>uni5455.var1</string>
@@ -34932,7 +34933,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/05/11 00:37:32</string>
+    <string>2026/05/14 19:04:58</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35295,6 +35296,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni53BF</string>
         <key>53C0</key>
         <string>uni53C0</string>
+        <key>53D4</key>
+        <string>uni53D4</string>
         <key>5403</key>
         <string>uni5403</string>
         <key>5455</key>
@@ -36068,6 +36071,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni53BF.var1</string>
         <key>53C0</key>
         <string>uni53C0.var1</string>
+        <key>53D4</key>
+        <string>uni53D4.var1</string>
         <key>5403</key>
         <string>uni5403.var1</string>
         <key>5433</key>
