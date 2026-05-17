@@ -34261,6 +34261,7 @@
       <string>uni35AD.var1</string>
       <string>uni35BF.var1</string>
       <string>uni35F4.var1</string>
+      <string>uni361E.var1</string>
       <string>uni3659.var1</string>
       <string>uni3665.var1</string>
       <string>uni3778.var1</string>
@@ -34540,6 +34541,7 @@
       <string>uni633A.var1</string>
       <string>uni633F.var1</string>
       <string>uni634F.var1</string>
+      <string>uni63A3.var1</string>
       <string>uni63D1.var1</string>
       <string>uni640D.var1</string>
       <string>uni6422.var1</string>
@@ -34933,7 +34935,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/05/14 19:04:58</string>
+    <string>2026/05/17 14:45:53</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35046,6 +35048,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni35AD</string>
         <key>35BF</key>
         <string>uni35BF</string>
+        <key>361E</key>
+        <string>uni361E</string>
         <key>3659</key>
         <string>uni3659</string>
         <key>3665</key>
@@ -35402,6 +35406,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni633F</string>
         <key>634F</key>
         <string>uni634F</string>
+        <key>63A3</key>
+        <string>uni63A3</string>
         <key>6442</key>
         <string>uni6442.var1</string>
         <key>647E</key>
@@ -35811,6 +35817,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni35BF.var1</string>
         <key>35F4</key>
         <string>uni35F4</string>
+        <key>361E</key>
+        <string>uni361E.var1</string>
         <key>3659</key>
         <string>uni3659.var1</string>
         <key>3665</key>
@@ -36199,6 +36207,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni633F.var1</string>
         <key>634F</key>
         <string>uni634F.var1</string>
+        <key>63A3</key>
+        <string>uni63A3.var1</string>
         <key>63D1</key>
         <string>uni63D1</string>
         <key>640D</key>
