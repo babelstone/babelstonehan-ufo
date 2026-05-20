@@ -37171,6 +37171,8 @@
       <string>u2419B.var1</string>
       <string>u241C6.var1</string>
       <string>u241D2.var1</string>
+      <string>u24A70.var1</string>
+      <string>u24A70.var2</string>
       <string>u24247.var1</string>
       <string>u24261.var1</string>
       <string>u242BB.var1</string>
@@ -37713,6 +37715,8 @@
       <string>u32C3F.var1</string>
       <string>u32CAF.var1</string>
       <string>u32CAF.var2</string>
+      <string>u32DCA.var1</string>
+      <string>u32D4D.var1</string>
       <string>u32D77.var1</string>
       <string>u32E68.var1</string>
       <string>u3306B.var1</string>
@@ -37725,7 +37729,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/05/17 14:45:43</string>
+    <string>2026/05/20 01:57:11</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -38222,6 +38226,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u2481C</string>
         <key>24959</key>
         <string>u24959</string>
+        <key>24A70</key>
+        <string>u24A70</string>
         <key>24AD3</key>
         <string>u24AD3</string>
         <key>24B75</key>
@@ -39204,8 +39210,12 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u32C3F</string>
         <key>32CAF</key>
         <string>u32CAF</string>
+        <key>32D4D</key>
+        <string>u32D4D</string>
         <key>32D77</key>
         <string>u32D77</string>
+        <key>32DCA</key>
+        <string>u32DCA</string>
         <key>32E68</key>
         <string>u32E68</string>
         <key>3306B</key>
@@ -39633,6 +39643,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u2481C.var1</string>
         <key>24959</key>
         <string>u24959.var1</string>
+        <key>24A70</key>
+        <string>u24A70.var1</string>
         <key>24AD3</key>
         <string>u24AD3.var1</string>
         <key>24B75</key>
@@ -40639,8 +40651,12 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u32C3F.var1</string>
         <key>32CAF</key>
         <string>u32CAF.var1</string>
+        <key>32D4D</key>
+        <string>u32D4D.var1</string>
         <key>32D77</key>
         <string>u32D77.var1</string>
+        <key>32DCA</key>
+        <string>u32DCA.var1</string>
         <key>32E68</key>
         <string>u32E68.var1</string>
         <key>3306B</key>
@@ -40708,6 +40724,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u241C6.var1</string>
         <key>24772</key>
         <string>u24772</string>
+        <key>24A70</key>
+        <string>u24A70.var2</string>
         <key>24FA1</key>
         <string>u24FA1</string>
         <key>2548E</key>

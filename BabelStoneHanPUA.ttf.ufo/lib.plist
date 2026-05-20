@@ -1743,6 +1743,7 @@
       <string>uniE888</string>
       <string>uniE889</string>
       <string>uniE88A</string>
+      <string>uniE88B</string>
       <string>uniE88C</string>
       <string>uniE88D</string>
       <string>uniE88E</string>
@@ -1753,11 +1754,14 @@
       <string>uniE893</string>
       <string>uniE894</string>
       <string>uniE895</string>
+      <string>uniE896</string>
       <string>uniE897</string>
+      <string>uniE898</string>
       <string>uniE899</string>
       <string>uniE89A</string>
       <string>uniE89B</string>
       <string>uniE89C</string>
+      <string>uniE89D</string>
       <string>uniE89E</string>
       <string>uniE89F</string>
       <string>uniE8A0</string>
@@ -1795,23 +1799,32 @@
       <string>uniE8C0</string>
       <string>uniE8C1</string>
       <string>uniE8C2</string>
+      <string>uniE8C3</string>
+      <string>uniE8C4</string>
+      <string>uniE8C5</string>
+      <string>uniE8C6</string>
       <string>uniE8C7</string>
       <string>uniE8C8</string>
       <string>uniE8C9</string>
       <string>uniE8CA</string>
       <string>uniE8CB</string>
       <string>uniE8CC</string>
+      <string>uniE8CD</string>
       <string>uniE8CE</string>
       <string>uniE8CF</string>
       <string>uniE8D0</string>
       <string>uniE8D1</string>
       <string>uniE8D2</string>
       <string>uniE8D3</string>
+      <string>uniE8D4</string>
       <string>uniE8D5</string>
+      <string>uniE8D6</string>
       <string>uniE8D7</string>
       <string>uniE8D8</string>
       <string>uniE8D9</string>
+      <string>uniE8DA</string>
       <string>uniE8DB</string>
+      <string>uniE8DC</string>
       <string>uniE8DD</string>
       <string>uniE8DE</string>
       <string>uniE8DF</string>
@@ -1819,8 +1832,12 @@
       <string>uniE8E2</string>
       <string>uniE8E3</string>
       <string>uniE8E4</string>
+      <string>uniE8E5</string>
       <string>uniE8E6</string>
+      <string>uniE8E7</string>
       <string>uniE8E8</string>
+      <string>uniE8E9</string>
+      <string>uniE8EA</string>
       <string>uniE8EB</string>
       <string>uniE8EC</string>
       <string>uniE8ED</string>
@@ -1829,23 +1846,35 @@
       <string>uniE8F0</string>
       <string>uniE8F1</string>
       <string>uniE8F2</string>
+      <string>uniE8F3</string>
       <string>uniE8F4</string>
+      <string>uniE8F5</string>
       <string>uniE8F6</string>
+      <string>uniE8F7</string>
+      <string>uniE8F8</string>
+      <string>uniE8F9</string>
+      <string>uniE8FA</string>
       <string>uniE8FB</string>
       <string>uniE8FC</string>
       <string>uniE8FD</string>
       <string>uniE8FE</string>
+      <string>uniE8FF</string>
       <string>uniE900</string>
       <string>uniE901</string>
+      <string>uniE902</string>
       <string>uniE903</string>
+      <string>uniE904</string>
       <string>uniE905</string>
       <string>uniE906</string>
       <string>uniE907</string>
+      <string>uniE908</string>
+      <string>uniE909</string>
       <string>uniE90A</string>
       <string>uniE90B</string>
       <string>uniE90C</string>
       <string>uniE90D</string>
       <string>uniE90E</string>
+      <string>uniE90F</string>
       <string>uniE910</string>
       <string>uniE911</string>
       <string>uniE912</string>
@@ -1853,9 +1882,14 @@
       <string>uniE914</string>
       <string>uniE915</string>
       <string>uniE916</string>
+      <string>uniE917</string>
       <string>uniE918</string>
       <string>uniE919</string>
       <string>uniE91A</string>
+      <string>uniE91B</string>
+      <string>uniE91C</string>
+      <string>uniE91D</string>
+      <string>uniE91E</string>
       <string>uniE91F</string>
       <string>uniE920</string>
       <string>uniE921</string>
@@ -1872,6 +1906,8 @@
       <string>uniE92C</string>
       <string>uniE92D</string>
       <string>uniE92E</string>
+      <string>uniE92F</string>
+      <string>uniE930</string>
       <string>uniE932</string>
       <string>uniE933</string>
       <string>uniE935</string>
@@ -1882,7 +1918,9 @@
       <string>uniE93B</string>
       <string>uniE93C</string>
       <string>uniE93D</string>
+      <string>uniE940</string>
       <string>uniE941</string>
+      <string>uniE942</string>
       <string>uniE943</string>
       <string>uniE944</string>
       <string>uniE945</string>
@@ -3069,6 +3107,7 @@
       <string>uniEF22</string>
       <string>uniEF23</string>
       <string>uniEF24</string>
+      <string>uniEF25</string>
       <string>uniEF26</string>
       <string>uniEF27</string>
       <string>uniEF28</string>
@@ -3192,6 +3231,7 @@
       <string>uniEFCE</string>
       <string>uniEFCF</string>
       <string>uniEFD0</string>
+      <string>uniEFD1</string>
       <string>uniEFD2</string>
       <string>uniEFD3</string>
       <string>uniEFD4</string>
