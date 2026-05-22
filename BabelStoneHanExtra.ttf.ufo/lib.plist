@@ -5400,6 +5400,7 @@
       <string>u22BB8</string>
       <string>u22BBF</string>
       <string>u22BC4</string>
+      <string>u22BC5</string>
       <string>u22BC7</string>
       <string>u22BCA</string>
       <string>u22BCD</string>
@@ -7962,6 +7963,7 @@
       <string>u243D8</string>
       <string>u243D9</string>
       <string>u243DB</string>
+      <string>u243DD</string>
       <string>u243DF</string>
       <string>u243E1</string>
       <string>u243E9</string>
@@ -9735,6 +9737,7 @@
       <string>u254DE</string>
       <string>u254E0</string>
       <string>u254E9</string>
+      <string>u254EA</string>
       <string>u254EE</string>
       <string>u254EF</string>
       <string>u254F0</string>
@@ -37729,7 +37732,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/05/20 01:57:11</string>
+    <string>2026/05/22 01:17:58</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>

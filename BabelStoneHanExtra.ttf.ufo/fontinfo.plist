@@ -69,12 +69,12 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
-    <string>"BabelStone Han" is a family of two Unicode CJK fonts in Song/Ming style (宋体/明體) with G-source glyphs used in the People's Republic of China (PRC). These fonts are derived from the "AR PL Mingti2L Big5" and "AR PL SungtiL GB" fonts (released under the Arphic Public License), converted to Unicode mappings, and expanded to cover all of the main CJK Unified Ideographs block (URO), and a large number of characters in the CJK Unified Ideographs Extensions A through J blocks, including both traditional and simplified character forms.&#13;
-&#13;
-"BabelStone Han Basic" covers all characters in the CJK Unified Ideographs, CJK Unified Ideographs Extension A, CJK Compatibility Ideographs, and CJK Compatibility Ideographs Supplement blocks, as well as a wide range of other characters in the Basic Multilingual Plane (BMP) and the Supplementary Multilingual Plane (SMP).&#13;
-&#13;
-"BabelStone Han Extra" only covers CJK Unified Ideographs Extensions B, C, D, E, F, G, H, I, and J, which are in the Supplementary Ideographic Plane (SIP) and Tertiary Ideographic Plane (TIP).&#13;
-&#13;
+    <string>"BabelStone Han" is a family of two Unicode CJK fonts in Song/Ming style (宋体/明體) with G-source glyphs used in the People's Republic of China (PRC). These fonts are derived from the "AR PL Mingti2L Big5" and "AR PL SungtiL GB" fonts (released under the Arphic Public License), converted to Unicode mappings, and expanded to cover all of the main CJK Unified Ideographs block (URO), and a large number of characters in the CJK Unified Ideographs Extensions A through J blocks, including both traditional and simplified character forms.
+
+"BabelStone Han Basic" covers all characters in the CJK Unified Ideographs, CJK Unified Ideographs Extension A, CJK Compatibility Ideographs, and CJK Compatibility Ideographs Supplement blocks, as well as a wide range of other characters in the Basic Multilingual Plane (BMP) and the Supplementary Multilingual Plane (SMP).
+
+"BabelStone Han Extra" only covers CJK Unified Ideographs Extensions B, C, D, E, F, G, H, I, and J, which are in the Supplementary Ideographic Plane (SIP) and Tertiary Ideographic Plane (TIP).
+
 This version of the BabelStone Han fonts supports Unicode version 17.0 (released September 2025).</string>
     <key>openTypeNameDesigner</key>
     <string>Andrew West</string>
@@ -193,7 +193,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>BabelStone Han Extra:Version 17.0.2 BETA;May 19, 2026</string>
+        <string>BabelStone Han Extra:Version 17.0.2 BETA;May 21, 2026</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -265,12 +265,12 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>"BabelStone Han" is a family of two Unicode CJK fonts in Song/Ming style (宋体/明體) with G-source glyphs used in the People's Republic of China (PRC). These fonts are derived from the "AR PL Mingti2L Big5" and "AR PL SungtiL GB" fonts (released under the Arphic Public License), converted to Unicode mappings, and expanded to cover all of the main CJK Unified Ideographs block (URO), and a large number of characters in the CJK Unified Ideographs Extensions A through J blocks, including both traditional and simplified character forms.&#13;
-&#13;
-"BabelStone Han Basic" covers all characters in the CJK Unified Ideographs, CJK Unified Ideographs Extension A, CJK Compatibility Ideographs, and CJK Compatibility Ideographs Supplement blocks, as well as a wide range of other characters in the Basic Multilingual Plane (BMP) and the Supplementary Multilingual Plane (SMP).&#13;
-&#13;
-"BabelStone Han Extra" only covers CJK Unified Ideographs Extensions B, C, D, E, F, G, H, I, and J, which are in the Supplementary Ideographic Plane (SIP) and Tertiary Ideographic Plane (TIP).&#13;
-&#13;
+        <string>"BabelStone Han" is a family of two Unicode CJK fonts in Song/Ming style (宋体/明體) with G-source glyphs used in the People's Republic of China (PRC). These fonts are derived from the "AR PL Mingti2L Big5" and "AR PL SungtiL GB" fonts (released under the Arphic Public License), converted to Unicode mappings, and expanded to cover all of the main CJK Unified Ideographs block (URO), and a large number of characters in the CJK Unified Ideographs Extensions A through J blocks, including both traditional and simplified character forms.
+
+"BabelStone Han Basic" covers all characters in the CJK Unified Ideographs, CJK Unified Ideographs Extension A, CJK Compatibility Ideographs, and CJK Compatibility Ideographs Supplement blocks, as well as a wide range of other characters in the Basic Multilingual Plane (BMP) and the Supplementary Multilingual Plane (SMP).
+
+"BabelStone Han Extra" only covers CJK Unified Ideographs Extensions B, C, D, E, F, G, H, I, and J, which are in the Supplementary Ideographic Plane (SIP) and Tertiary Ideographic Plane (TIP).
+
 This version of the BabelStone Han fonts supports Unicode version 17.0 (released September 2025).</string>
       </dict>
       <dict>
@@ -392,7 +392,7 @@ Legal Terms
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>BabelStone Han Extra:Version 17.0.2 BETA;May 19, 2026</string>
+    <string>BabelStone Han Extra:Version 17.0.2 BETA;May 21, 2026</string>
     <key>openTypeNameVersion</key>
     <string>Version 17.0.2 BETA</string>
     <key>openTypeOS2CodePageRanges</key>
