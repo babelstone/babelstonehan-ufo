@@ -34503,6 +34503,7 @@
       <string>uni5C83.var1</string>
       <string>uni5C83.var2</string>
       <string>uni5CF1.var1</string>
+      <string>uni5CF1.var2</string>
       <string>uni5D79.var1</string>
       <string>uni5DE5.var1</string>
       <string>uni5DF3.var1</string>
@@ -34937,7 +34938,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/05/20 02:07:34</string>
+    <string>2026/05/24 19:47:22</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -36820,6 +36821,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni5C64.var1</string>
         <key>5C83</key>
         <string>uni5C83.var2</string>
+        <key>5CF1</key>
+        <string>uni5CF1.var2</string>
         <key>5D79</key>
         <string>uni5D79.var1</string>
         <key>5EC3</key>
