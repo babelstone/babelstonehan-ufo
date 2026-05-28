@@ -34261,6 +34261,7 @@
       <string>uni35AD.var1</string>
       <string>uni35BF.var1</string>
       <string>uni35F4.var1</string>
+      <string>uni3611.var1</string>
       <string>uni361E.var1</string>
       <string>uni3659.var1</string>
       <string>uni3665.var1</string>
@@ -34694,6 +34695,7 @@
       <string>uni7C38.var1</string>
       <string>uni7C59.var1</string>
       <string>uni7C5F.var1</string>
+      <string>uni7F69.var1</string>
       <string>uni7CA3.var1</string>
       <string>uni7CE8.var1</string>
       <string>uni7D22.var1</string>
@@ -34938,7 +34940,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/05/24 19:47:22</string>
+    <string>2026/05/28 01:58:44</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35051,6 +35053,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni35AD</string>
         <key>35BF</key>
         <string>uni35BF</string>
+        <key>3611</key>
+        <string>uni3611</string>
         <key>361E</key>
         <string>uni361E</string>
         <key>3659</key>
@@ -35575,6 +35579,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni7DA4</string>
         <key>7F68</key>
         <string>uni7F68</string>
+        <key>7F69</key>
+        <string>uni7F69</string>
         <key>7F83</key>
         <string>uni7F83</string>
         <key>8005</key>
@@ -35820,6 +35826,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni35BF.var1</string>
         <key>35F4</key>
         <string>uni35F4</string>
+        <key>3611</key>
+        <string>uni3611.var1</string>
         <key>361E</key>
         <string>uni361E.var1</string>
         <key>3659</key>
@@ -36422,6 +36430,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni7E48</string>
         <key>7E66</key>
         <string>uni7E66</string>
+        <key>7F69</key>
+        <string>uni7F69.var1</string>
         <key>8005</key>
         <string>uniFA5B</string>
         <key>8012</key>
