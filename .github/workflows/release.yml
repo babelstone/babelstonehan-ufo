@@ -7,7 +7,7 @@ on:
         required: true
   # Manually created and pushed tags
   push:
-    tags: ["*"]
+    tags: ["20*"]
   # Run on specific tag from the workflow panel
   workflow_dispatch:
 
