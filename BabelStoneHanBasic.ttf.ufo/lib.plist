@@ -34367,6 +34367,7 @@
       <string>uni4A9E.var1</string>
       <string>uni4AC0.var1</string>
       <string>uni4B3B.var1</string>
+      <string>uni4B9C.var1</string>
       <string>uni4BA7.var1</string>
       <string>uni4BD5.var1</string>
       <string>uni4C05.var1</string>
@@ -34778,6 +34779,7 @@
       <string>uni8708.var1</string>
       <string>uni8713.var1</string>
       <string>uni8750.var1</string>
+      <string>uni8776.var1</string>
       <string>uni8786.var1</string>
       <string>uni87E1.var1</string>
       <string>uni87F9.var1</string>
@@ -34940,7 +34942,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/06/03 17:48:15</string>
+    <string>2026/06/06 00:51:24</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35233,6 +35235,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4A9E</string>
         <key>4AC0</key>
         <string>uni4AC0</string>
+        <key>4B9C</key>
+        <string>uni4B9C</string>
         <key>4BA7</key>
         <string>uni4BA7</string>
         <key>4BD5</key>
@@ -36004,6 +36008,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4A9E.var1</string>
         <key>4AC0</key>
         <string>uni4AC0.var1</string>
+        <key>4B9C</key>
+        <string>uni4B9C.var1</string>
         <key>4BA7</key>
         <string>uni4BA7.var1</string>
         <key>4BD5</key>
@@ -36496,6 +36502,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni8713</string>
         <key>8750</key>
         <string>uni8750.var1</string>
+        <key>8776</key>
+        <string>uni8776</string>
         <key>8779</key>
         <string>uni8779</string>
         <key>8786</key>
@@ -36997,6 +37005,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni8669.var1</string>
         <key>8713</key>
         <string>uni8713.var1</string>
+        <key>8776</key>
+        <string>uni8776.var1</string>
         <key>8786</key>
         <string>uni8786.var1</string>
         <key>87F9</key>
