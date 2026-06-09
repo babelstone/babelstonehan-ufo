@@ -28,7 +28,7 @@ class UFOChangelogGenerator:
     
     def get_latest_tags(self):
         """Get the latest 2 tags."""
-        tags_output = self.run_git_command("git tag --sort=-version:refname")
+        tags_output = self.run_git_command("git tag --sort=-creatordate")
         if not tags_output:
             print("Error: No tags found in repository", file=sys.stderr)
             sys.exit(1)
