@@ -34,19 +34,19 @@
       <point x="606" y="579" type="qcurve"/>
       <point x="580" y="535"/>
       <point x="553" y="495" type="qcurve"/>
-      <point x="553" y="503" type="line"/>
-      <point x="558" y="501"/>
-      <point x="561" y="500" type="qcurve"/>
-      <point x="658" y="454"/>
-      <point x="662" y="415" type="qcurve"/>
-      <point x="663" y="391"/>
-      <point x="650" y="376" type="qcurve"/>
-      <point x="636" y="362"/>
-      <point x="630" y="361" type="qcurve"/>
-      <point x="622" y="362"/>
-      <point x="615" y="381" type="qcurve"/>
-      <point x="598" y="440"/>
-      <point x="553" y="479" type="qcurve"/>
+      <point x="553" y="493" type="line"/>
+      <point x="558" y="491"/>
+      <point x="561" y="490" type="qcurve"/>
+      <point x="658" y="444"/>
+      <point x="662" y="405" type="qcurve"/>
+      <point x="663" y="381"/>
+      <point x="650" y="366" type="qcurve"/>
+      <point x="636" y="352"/>
+      <point x="630" y="351" type="qcurve"/>
+      <point x="622" y="352"/>
+      <point x="615" y="371" type="qcurve"/>
+      <point x="598" y="430"/>
+      <point x="553" y="469" type="qcurve"/>
       <point x="553" y="231" type="line"/>
       <point x="553" y="133"/>
       <point x="557" y="54" type="qcurve"/>
@@ -312,7 +312,7 @@
       <point x="431" y="170" type="qcurve"/>
       <point x="466" y="128"/>
       <point x="479" y="97" type="qcurve"/>
-      <point x="499" y="74"/>
+      <point x="489" y="74"/>
       <point x="486" y="64" type="qcurve"/>
       <point x="478" y="46"/>
       <point x="465" y="40" type="qcurve"/>
@@ -398,7 +398,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>46f3fc28fc3e2927f7af4675b1f066089eef4c833237b3c1f59ce4cdbab122fb43d15456ab53c4a41126b2a2755eff37d84aff5666525858d41e1dac52aa4326</string>
+        <string>ddafac2f76b76146598ca34bcb2568630bb13c7c392e06102c3e28e487b5b419ab72e9e6946cfd49995c41ed063f3a0a6b8f034e0aedbf42f25307008cc306cd</string>
       </dict>
     </dict>
   </lib>

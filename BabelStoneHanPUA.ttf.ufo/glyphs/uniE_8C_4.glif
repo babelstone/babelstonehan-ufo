@@ -4,7 +4,6 @@
   <unicode hex="E8C4"/>
   <outline>
     <contour>
-      <point x="540" y="78"/>
       <point x="544" y="83" type="qcurve"/>
       <point x="550" y="87"/>
       <point x="560" y="81" type="qcurve"/>
@@ -18,9 +17,9 @@
       <point x="622" y="-73" type="qcurve"/>
       <point x="610" y="4"/>
       <point x="544" y="72" type="qcurve"/>
+      <point x="540" y="78"/>
     </contour>
     <contour>
-      <point x="770" y="74"/>
       <point x="774" y="80" type="qcurve"/>
       <point x="778" y="86"/>
       <point x="790" y="81" type="qcurve"/>
@@ -34,9 +33,9 @@
       <point x="908" y="-75" type="qcurve"/>
       <point x="876" y="-1"/>
       <point x="778" y="69" type="qcurve"/>
+      <point x="770" y="74"/>
     </contour>
     <contour>
-      <point x="170" y="82"/>
       <point x="178" y="81" type="qcurve"/>
       <point x="184" y="80"/>
       <point x="184" y="71" type="qcurve"/>
@@ -50,9 +49,9 @@
       <point x="78" y="-36" type="qcurve"/>
       <point x="138" y="-7"/>
       <point x="166" y="74" type="qcurve"/>
+      <point x="170" y="82"/>
     </contour>
     <contour>
-      <point x="326" y="79"/>
       <point x="332" y="82" type="qcurve"/>
       <point x="338" y="87"/>
       <point x="348" y="78" type="qcurve"/>
@@ -66,6 +65,7 @@
       <point x="382" y="-75" type="qcurve"/>
       <point x="382" y="-6"/>
       <point x="330" y="72" type="qcurve"/>
+      <point x="326" y="79"/>
     </contour>
     <contour>
       <point x="854" y="167" type="line"/>
@@ -118,7 +118,6 @@
       <point x="410" y="167" type="line"/>
     </contour>
     <contour>
-      <point x="242" y="875"/>
       <point x="258" y="865" type="qcurve"/>
       <point x="296" y="844"/>
       <point x="312" y="834" type="qcurve"/>
@@ -165,15 +164,16 @@
       <point x="194" y="705" type="qcurve"/>
       <point x="238" y="810"/>
       <point x="240" y="857" type="qcurve"/>
+      <point x="242" y="875"/>
     </contour>
     <contour>
-      <point x="642" y="333"/>
       <point x="707" y="318" type="qcurve"/>
       <point x="741" y="359"/>
       <point x="763" y="416" type="qcurve"/>
       <point x="631" y="416" type="line"/>
       <point x="601" y="379"/>
       <point x="568" y="343" type="qcurve"/>
+      <point x="642" y="333"/>
     </contour>
     <contour>
       <point x="667" y="524" type="line"/>
@@ -242,20 +242,6 @@
       <point x="600" y="447" type="line"/>
       <point x="622" y="480"/>
       <point x="644" y="524" type="qcurve"/>
-    </contour>
-    <contour>
-      <point x="563" y="555" type="line"/>
-      <point x="818" y="555" type="line"/>
-      <point x="818" y="614" type="line"/>
-      <point x="563" y="614" type="line"/>
-    </contour>
-    <contour>
-      <point x="563" y="645" type="line"/>
-      <point x="818" y="645" type="line"/>
-      <point x="818" y="704" type="line"/>
-      <point x="563" y="704" type="line"/>
-    </contour>
-    <contour>
       <point x="563" y="524" type="line"/>
       <point x="563" y="500" type="line"/>
       <point x="562" y="492"/>
@@ -294,8 +280,18 @@
       <point x="817" y="493"/>
       <point x="818" y="503" type="qcurve"/>
       <point x="818" y="524" type="line"/>
-      <point x="667" y="524" type="line"/>
-      <point x="644" y="524" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="555" type="line"/>
+      <point x="818" y="555" type="line"/>
+      <point x="818" y="614" type="line"/>
+      <point x="563" y="614" type="line"/>
+    </contour>
+    <contour>
+      <point x="563" y="645" type="line"/>
+      <point x="818" y="645" type="line"/>
+      <point x="818" y="704" type="line"/>
+      <point x="563" y="704" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -309,7 +305,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>b769c471c2e31fa09912be44e18d351c9a2f6addb0f430fb65ccdd1d5cef39ceceb6ac2f7398192c17ac2694eaee4bde51af544fa95d386a4443b60632844594</string>
+        <string>7c1399ec57ce34773d896f159d063d86ae174a4931e3589487422838a553f5d29a302a21e22bfe9c9359b30834792583d67cc6253b11e88ac20551322405f663</string>
       </dict>
     </dict>
   </lib>

@@ -2513,6 +2513,7 @@
       <string>u210DC</string>
       <string>u210DD</string>
       <string>u210DE</string>
+      <string>u210E1</string>
       <string>u210E2</string>
       <string>u210E3</string>
       <string>u210E4</string>
@@ -7411,6 +7412,7 @@
       <string>u23EA9</string>
       <string>u23EAB</string>
       <string>u23EAE</string>
+      <string>u23EAF</string>
       <string>u23EB0</string>
       <string>u23EB1</string>
       <string>u23EB6</string>
@@ -15395,6 +15397,7 @@
       <string>u28D63</string>
       <string>u28D64</string>
       <string>u28D66</string>
+      <string>u28D68</string>
       <string>u28D69</string>
       <string>u28D6B</string>
       <string>u28D6C</string>
@@ -15554,6 +15557,7 @@
       <string>u28ED5</string>
       <string>u28EDB</string>
       <string>u28EE4</string>
+      <string>u28EE5</string>
       <string>u28EE6</string>
       <string>u28EE7</string>
       <string>u28EE8</string>
@@ -37754,7 +37758,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/06/09 14:15:16</string>
+    <string>2026/06/10 23:44:31</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
