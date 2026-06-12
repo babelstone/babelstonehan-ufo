@@ -21,12 +21,12 @@
       <point x="183" y="553" type="line"/>
     </contour>
     <contour>
-      <point x="622" y="443" type="qcurve"/>
-      <point x="731" y="443" type="line"/>
-      <point x="731" y="333" type="line"/>
-      <point x="713" y="333"/>
-      <point x="694" y="339" type="qcurve"/>
+      <point x="622" y="443" type="line"/>
       <point x="622" y="370"/>
+      <point x="694" y="339" type="qcurve"/>
+      <point x="713" y="333"/>
+      <point x="731" y="333" type="qcurve"/>
+      <point x="731" y="443" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -40,7 +40,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>c9f3de43b13613e980b8945ffae1304f2332db6d50e8fd43bda5fa0e4853b877f3c3b32c30416605adad18ac4b71b482a11296e6171498ebd030bba6d38053c5</string>
+        <string>0828bccc8474ece0f9a57f7e06e0082b5ea8c84179afb521ee412f9b47336d073b91b1faf8912764c354031a43f7ed2b3baaf1844e43388010453ae4f6c94779</string>
       </dict>
     </dict>
   </lib>

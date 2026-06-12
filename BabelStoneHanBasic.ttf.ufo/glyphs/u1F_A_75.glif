@@ -31,17 +31,17 @@
     </contour>
     <contour>
       <point x="512" y="490" type="qcurve"/>
-      <point x="522" y="490"/>
-      <point x="537" y="505"/>
-      <point x="537" y="515" type="qcurve"/>
-      <point x="537" y="526"/>
-      <point x="522" y="540"/>
-      <point x="512" y="540" type="qcurve"/>
-      <point x="502" y="540"/>
-      <point x="487" y="526"/>
-      <point x="487" y="515" type="qcurve"/>
-      <point x="487" y="505"/>
       <point x="502" y="490"/>
+      <point x="487" y="505"/>
+      <point x="487" y="515" type="qcurve"/>
+      <point x="487" y="526"/>
+      <point x="502" y="540"/>
+      <point x="512" y="540" type="qcurve"/>
+      <point x="522" y="540"/>
+      <point x="537" y="526"/>
+      <point x="537" y="515" type="qcurve"/>
+      <point x="537" y="505"/>
+      <point x="522" y="490"/>
     </contour>
     <contour>
       <point x="512" y="290" type="qcurve"/>
@@ -267,7 +267,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>52042377a4a3ce39b17e9acbb42fa38bd9294aa7194579d910376a523011b8b8b2b2b70e1bd9501b56e7422250dc2392ddd03bb6f4694d7eb922563b23d3bbfa</string>
+        <string>8c4819135003d8bbd830e4a608cceff229358b261d030ea6685dfcd0f62e2cdc99fe92e32eb224a6a300759ea4f197d172c4484e9d993159279152ba076f064b</string>
       </dict>
     </dict>
   </lib>
