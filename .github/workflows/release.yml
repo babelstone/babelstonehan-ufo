@@ -7,7 +7,7 @@ on:
         required: true
   # Manually created and pushed tags
   push:
-    tags: ["20*"]
+    tags: ["*"]
   # Run on specific tag from the workflow panel
   workflow_dispatch:
 
@@ -20,17 +20,17 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
         with:
           fetch-depth: 0
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: '3.13'
       - name: Generate changelog
-        run: ./generate-changelog.py > ${{ github.workspace }}-CHANGELOG.md
+        run: ./generate-changelog.py --to ${{ inputs.tag_name || github.ref_name }} > ${{ github.workspace }}-CHANGELOG.md
       - uses: softprops/action-gh-release@v2
         with:
           body_path: ${{ github.workspace }}-CHANGELOG.md
-          tag_name: ${{ inputs.tag_name }}
+          tag_name: ${{ inputs.tag_name || github.ref_name }}
           files: |
             LICENSE

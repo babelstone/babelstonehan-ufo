@@ -200,6 +200,12 @@ class UFOChangelogGenerator:
         total_stats = {'added': 0, 'modified': 0, 'removed': 0}
         
         for ufo_dir in self.ufo_dirs:
+            if to_tag.startswith('v') and ufo_dir == 'BabelStoneHanPUA.ttf.ufo':
+                # Skip PUA UFO for BSH version tags
+                continue
+            if to_tag.startswith('PUAv') and ufo_dir != 'BabelStoneHanPUA.ttf.ufo':
+                # Skip non-PUA UFOs for BSH PUA version tags
+                continue
             changes = self.get_glyph_changes_for_ufo(ufo_dir, from_tag, to_tag)
             structure_changes = self.get_ufo_structure_changes(ufo_dir, from_tag, to_tag)
             
@@ -270,7 +276,6 @@ Changes from `{from_tag}` to `{to_tag}` across all BabelStone Han UFO files.
 ### Links
 
 - **Full diff:** [{from_tag}...{to_tag}]({self.github_repo}/compare/{from_tag}...{to_tag})
-- **PUA List:** https://www.babelstone.co.uk/Fonts/PUA.html
 
 """
         
@@ -311,15 +316,15 @@ Examples:
         if not tags_before:
             print(f"Error: No tags found before {args.to_tag}", file=sys.stderr)
             sys.exit(1)
-        tags_list = [t for t in tags_before.split('\n') if t != args.to_tag]
+        tags_list = [t for t in tags_before.split('\n') if t != args.to_tag and t[0] == args.to_tag[0]]  # Filter tags that start with the same character as to_tag
         if not tags_list:
             print(f"Error: No previous tag found before {args.to_tag}", file=sys.stderr)
             sys.exit(1)
         from_tag, to_tag = tags_list[0], args.to_tag
     elif args.from_tag:
         # Get next tag after from_tag
-        all_tags = generator.run_git_command("git tag --sort=version:refname")
-        tags_list = all_tags.split('\n')
+        all_tags = generator.run_git_command("git tag --sort=-version:refname")
+        tags_list = [t for t in all_tags.split('\n') if t[0] == args.from_tag[0]]  # Filter tags that start with the same character as from_tag
         try:
             from_idx = tags_list.index(args.from_tag)
             if from_idx + 1 >= len(tags_list):
