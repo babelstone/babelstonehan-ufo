@@ -301,23 +301,23 @@
     <contour>
       <point x="477" y="259" type="line"/>
       <point x="622" y="258" type="line"/>
-      <point x="622" y="336" type="line"/>
+      <point x="622" y="337" type="line"/>
       <point x="477" y="337" type="line"/>
     </contour>
     <contour>
       <point x="670" y="258" type="line"/>
       <point x="824" y="258" type="line"/>
       <point x="824" y="337" type="line"/>
-      <point x="670" y="336" type="line"/>
+      <point x="670" y="337" type="line"/>
     </contour>
     <contour>
       <point x="622" y="442" type="line"/>
       <point x="477" y="443" type="line"/>
       <point x="477" y="368" type="line"/>
-      <point x="622" y="367" type="line"/>
+      <point x="622" y="368" type="line"/>
     </contour>
     <contour>
-      <point x="670" y="367" type="line"/>
+      <point x="670" y="368" type="line"/>
       <point x="824" y="368" type="line"/>
       <point x="824" y="443" type="line"/>
       <point x="670" y="442" type="line"/>
@@ -334,7 +334,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>e5aeeab949d67795a4e1bec7a424c76d0932577d6809491b4b0fe28c4e3997e37d64d56e7637a5bf77cf704811b63f51cfe2469af0ebc43f650271462199453d</string>
+        <string>fee1d80f57bc0c569afd0b2d20864425f1949ea6eecaaf4b46baa974dc8e807eda88a9329e14428f32e669190f7870cedfb3b67164aa0fe84c9251a84d874801</string>
       </dict>
     </dict>
   </lib>
