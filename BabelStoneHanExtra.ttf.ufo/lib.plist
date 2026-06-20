@@ -2845,6 +2845,7 @@
       <string>u21328</string>
       <string>u2132A</string>
       <string>u2132C</string>
+      <string>u21331</string>
       <string>u21333</string>
       <string>u21334</string>
       <string>u21335</string>
@@ -4155,6 +4156,7 @@
       <string>u21F32</string>
       <string>u21F33</string>
       <string>u21F34</string>
+      <string>u21F35</string>
       <string>u21F36</string>
       <string>u21F37</string>
       <string>u21F3B</string>
@@ -6359,6 +6361,7 @@
       <string>u23485</string>
       <string>u23486</string>
       <string>u23488</string>
+      <string>u23489</string>
       <string>u2348A</string>
       <string>u2348B</string>
       <string>u2348C</string>
@@ -10535,6 +10538,7 @@
       <string>u25CD5</string>
       <string>u25CD6</string>
       <string>u25CDD</string>
+      <string>u25CDE</string>
       <string>u25CE0</string>
       <string>u25CE3</string>
       <string>u25CED</string>
@@ -12215,6 +12219,7 @@
       <string>u26EB4</string>
       <string>u26EB5</string>
       <string>u26EB6</string>
+      <string>u26EB8</string>
       <string>u26EBB</string>
       <string>u26EBD</string>
       <string>u26ECE</string>
@@ -37770,7 +37775,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/06/16 00:19:52</string>
+    <string>2026/06/20 02:05:25</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
