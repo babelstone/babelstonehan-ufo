@@ -37691,6 +37691,7 @@
       <string>u3024B.var1</string>
       <string>u3025B.var1</string>
       <string>u30286.var1</string>
+      <string>u302AE.var1</string>
       <string>u3032C.var1</string>
       <string>u30360.var1</string>
       <string>u30361.var1</string>
@@ -37787,7 +37788,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/06/20 22:18:53</string>
+    <string>2026/06/23 18:08:50</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -39112,6 +39113,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u3025B</string>
         <key>30286</key>
         <string>u30286</string>
+        <key>302AE</key>
+        <string>u302AE</string>
         <key>3032C</key>
         <string>u3032C</string>
         <key>30360</key>
@@ -40551,6 +40554,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u3025B.var1</string>
         <key>30286</key>
         <string>u30286.var1</string>
+        <key>302AE</key>
+        <string>u302AE.var1</string>
         <key>3032C</key>
         <string>u3032C.var1</string>
         <key>30360</key>

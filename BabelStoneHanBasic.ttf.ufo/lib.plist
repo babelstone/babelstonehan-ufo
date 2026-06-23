@@ -34412,6 +34412,7 @@
       <string>uni50E5.var1</string>
       <string>uni50E7.var1</string>
       <string>uni50EC.var1</string>
+      <string>uni50ED.var1</string>
       <string>uni5140.var1</string>
       <string>uni514F.var1</string>
       <string>uni514F.var2</string>
@@ -34888,6 +34889,7 @@
       <string>uni9B2E.var1</string>
       <string>uni9B3C.var1</string>
       <string>uni9B41.var1</string>
+      <string>uni9B46.var1</string>
       <string>uni9B81.var1</string>
       <string>uni9BAE.var1</string>
       <string>uni9C26.var1</string>
@@ -34945,7 +34947,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/06/22 13:55:32</string>
+    <string>2026/06/23 18:08:34</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35740,6 +35742,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni9A42</string>
         <key>9B07</key>
         <string>uni9B07</string>
+        <key>9B46</key>
+        <string>uni9B46</string>
         <key>9B81</key>
         <string>uni9B81</string>
         <key>9C9E</key>
@@ -36645,6 +36649,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni9B07.var1</string>
         <key>9B41</key>
         <string>uni9B41</string>
+        <key>9B46</key>
+        <string>uni9B46.var1</string>
         <key>9B81</key>
         <string>uni9B81.var1</string>
         <key>9C9E</key>
@@ -37374,6 +37380,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4FB9.var1</string>
         <key>50E7</key>
         <string>uni50E7</string>
+        <key>50ED</key>
+        <string>uni50ED</string>
         <key>514F</key>
         <string>uni514F.var3</string>
         <key>5177</key>
@@ -37555,6 +37563,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni4E0E</string>
         <key>4EB9</key>
         <string>uni4EB9.var1</string>
+        <key>50ED</key>
+        <string>uni50ED.var1</string>
         <key>52C9</key>
         <string>uni52C9.var1</string>
         <key>5668</key>
