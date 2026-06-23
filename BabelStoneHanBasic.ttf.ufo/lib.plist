@@ -34790,6 +34790,7 @@
       <string>uni8846.var2</string>
       <string>uni8846.var3</string>
       <string>uni8869.var1</string>
+      <string>uni889B.var1</string>
       <string>uni88AE.var1</string>
       <string>uni88E8.var1</string>
       <string>uni891D.var1</string>
@@ -34944,7 +34945,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/06/19 15:44:31</string>
+    <string>2026/06/22 13:55:32</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -36520,6 +36521,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni87F9</string>
         <key>8869</key>
         <string>uni8869</string>
+        <key>889B</key>
+        <string>uni889B</string>
         <key>88AE</key>
         <string>uni88AE</string>
         <key>88E8</key>
@@ -37021,6 +37024,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni87F9.var1</string>
         <key>8869</key>
         <string>uni8869.var1</string>
+        <key>889B</key>
+        <string>uni889B.var1</string>
         <key>88AE</key>
         <string>uni88AE.var1</string>
         <key>88E8</key>
