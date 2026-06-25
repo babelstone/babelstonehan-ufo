@@ -24053,6 +24053,7 @@
       <string>u2CBCE</string>
       <string>u2CBD0</string>
       <string>u2CBD2</string>
+      <string>u2CBD4</string>
       <string>u2CBD5</string>
       <string>u2CBD6</string>
       <string>u2CBD7</string>
@@ -37595,6 +37596,7 @@
       <string>u2CA70.var1</string>
       <string>u2CAB6.var1</string>
       <string>u2CB12.var1</string>
+      <string>u2CBD4.var1</string>
       <string>u2CC55.var1</string>
       <string>u2CD18.var1</string>
       <string>u2CD23.var1</string>
@@ -37788,7 +37790,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/06/23 18:08:50</string>
+    <string>2026/06/25 20:30:27</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -38927,6 +38929,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u2CAB6</string>
         <key>2CB12</key>
         <string>u2CB12</string>
+        <key>2CBD4</key>
+        <string>u2CBD4</string>
         <key>2CC55</key>
         <string>u2CC55</string>
         <key>2CD18</key>
@@ -40366,6 +40370,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u2CAB6.var1</string>
         <key>2CB12</key>
         <string>u2CB12.var1</string>
+        <key>2CBD4</key>
+        <string>u2CBD4.var1</string>
         <key>2CC55</key>
         <string>u2CC55.var1</string>
         <key>2CD18</key>
