@@ -69,7 +69,7 @@
     <key>openTypeHheaLineGap</key>
     <integer>0</integer>
     <key>openTypeNameDescription</key>
-    <string>"BabelStone Han PUA" contains glyphs for 4,870 unencoded CJK ideographs in the range E080..F8DF of the PUA.</string>
+    <string>"BabelStone Han PUA" contains glyphs for 4,873 unencoded CJK ideographs in the range E080..F8DF of the PUA.</string>
     <key>openTypeNameDesigner</key>
     <string>Andrew West</string>
     <key>openTypeNameDesignerURL</key>
@@ -187,7 +187,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>BabelStone Han PUA:Version 1.478 BETA;June 24, 2026</string>
+        <string>BabelStone Han PUA:Version 1.478 BETA;June 25, 2026</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -259,7 +259,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>"BabelStone Han PUA" contains glyphs for 4,870 unencoded CJK ideographs in the range E080..F8DF of the PUA.</string>
+        <string>"BabelStone Han PUA" contains glyphs for 4,873 unencoded CJK ideographs in the range E080..F8DF of the PUA.</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -368,7 +368,7 @@ Legal Terms
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>BabelStone Han PUA:Version 1.478 BETA;June 24, 2026</string>
+    <string>BabelStone Han PUA:Version 1.478 BETA;June 25, 2026</string>
     <key>openTypeNameVersion</key>
     <string>Version 1.478 BETA</string>
     <key>openTypeOS2CodePageRanges</key>
