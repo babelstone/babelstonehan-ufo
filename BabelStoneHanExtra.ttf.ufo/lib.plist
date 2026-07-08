@@ -4723,6 +4723,7 @@
       <string>u22506</string>
       <string>u2250B</string>
       <string>u2250C</string>
+      <string>u2250D</string>
       <string>u2250E</string>
       <string>u22512</string>
       <string>u22513</string>
@@ -11201,6 +11202,7 @@
       <string>u263F1</string>
       <string>u263F2</string>
       <string>u263F4</string>
+      <string>u263F6</string>
       <string>u263F9</string>
       <string>u263FA</string>
       <string>u263FE</string>
@@ -37793,7 +37795,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/07/01 19:56:39</string>
+    <string>2026/07/08 00:30:08</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>

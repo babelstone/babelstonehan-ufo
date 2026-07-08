@@ -85,9 +85,9 @@
       <point x="835" y="598" type="qcurve"/>
       <point x="856" y="580"/>
       <point x="875" y="559" type="qcurve"/>
-      <point x="891" y="551"/>
-      <point x="891" y="550" type="qcurve"/>
-      <point x="891" y="549"/>
+      <point x="881" y="551"/>
+      <point x="881" y="550" type="qcurve"/>
+      <point x="881" y="549"/>
       <point x="877" y="546" type="qcurve"/>
       <point x="857" y="535"/>
       <point x="856" y="531" type="qcurve"/>
@@ -411,7 +411,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>aa6deb76c3d3d5e567fea66b5da53476101be61ab62c1588177584186c15e143d80c9afd81d0d187cef8104b633cc9cfbdee4e918b0767c31f9d791557f18818</string>
+        <string>669f9cc7b8adbf659eb06493fe0186fe36956f40b19e9f9d9febf446ea69f60957cc31d14ee7e3c6cd8e99a3e2f192ed5fd092a7a9fcab85d977ca03f00db759</string>
       </dict>
     </dict>
   </lib>
