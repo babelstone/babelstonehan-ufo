@@ -4201,6 +4201,7 @@
       <string>u21F86</string>
       <string>u21F87</string>
       <string>u21F88</string>
+      <string>u21F89</string>
       <string>u21F8A</string>
       <string>u21F8B</string>
       <string>u21F8F</string>
@@ -4323,6 +4324,7 @@
       <string>u22079</string>
       <string>u2207A</string>
       <string>u2207C</string>
+      <string>u22080</string>
       <string>u22081</string>
       <string>u22084</string>
       <string>u22087</string>
@@ -5146,6 +5148,7 @@
       <string>u228F9</string>
       <string>u228FA</string>
       <string>u228FB</string>
+      <string>u228FE</string>
       <string>u228FF</string>
       <string>u22900</string>
       <string>u22908</string>
@@ -9915,6 +9918,7 @@
       <string>u25627</string>
       <string>u25628</string>
       <string>u2562A</string>
+      <string>u2562C</string>
       <string>u2562E</string>
       <string>u2562F</string>
       <string>u25630</string>
@@ -10989,6 +10993,7 @@
       <string>u261C6</string>
       <string>u261CE</string>
       <string>u261CF</string>
+      <string>u261D1</string>
       <string>u261D2</string>
       <string>u261D5</string>
       <string>u261D6</string>
@@ -13629,6 +13634,7 @@
       <string>u27C37</string>
       <string>u27C3C</string>
       <string>u27C3D</string>
+      <string>u27C3F</string>
       <string>u27C42</string>
       <string>u27C43</string>
       <string>u27C44</string>
@@ -14335,6 +14341,7 @@
       <string>u282E1</string>
       <string>u282E2</string>
       <string>u282E3</string>
+      <string>u282E5</string>
       <string>u282E6</string>
       <string>u282E9</string>
       <string>u282EA</string>
@@ -16001,6 +16008,7 @@
       <string>u29395</string>
       <string>u29396</string>
       <string>u29398</string>
+      <string>u2939B</string>
       <string>u2939F</string>
       <string>u293A0</string>
       <string>u293A2</string>
@@ -16046,6 +16054,7 @@
       <string>u2940C</string>
       <string>u2940D</string>
       <string>u2940E</string>
+      <string>u2941A</string>
       <string>u29420</string>
       <string>u29427</string>
       <string>u29428</string>
@@ -19490,6 +19499,7 @@
       <string>u2AED4</string>
       <string>u2AED5</string>
       <string>u2AED8</string>
+      <string>u2AEDA</string>
       <string>u2AEDB</string>
       <string>u2AEDE</string>
       <string>u2AEE0</string>
@@ -20912,6 +20922,7 @@
       <string>u2B81B</string>
       <string>u2B81C</string>
       <string>u2B81D</string>
+      <string>u2B81E</string>
       <string>u2B820</string>
       <string>u2B821</string>
       <string>u2B822</string>
@@ -37797,7 +37808,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/07/10 15:05:27</string>
+    <string>2026/07/13 01:01:38</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -38189,7 +38200,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>232F4</key>
         <string>u232F4</string>
         <key>23326</key>
-        <string>u23326</string>
+        <string>u23326.var1</string>
         <key>23365</key>
         <string>u23365</string>
         <key>2338D</key>
@@ -38223,7 +38234,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>2372A</key>
         <string>u2372A</string>
         <key>237E5</key>
-        <string>u237E5</string>
+        <string>u237E5.var1</string>
         <key>23839</key>
         <string>u23839</string>
         <key>23895</key>
@@ -38287,7 +38298,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>246C1</key>
         <string>u246C1</string>
         <key>246C9</key>
-        <string>u246C9</string>
+        <string>u246C9.var1</string>
         <key>247DD</key>
         <string>u247DD</string>
         <key>2481C</key>
@@ -38729,7 +38740,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>2A814</key>
         <string>u2A814</string>
         <key>2A8D8</key>
-        <string>u2A8D8</string>
+        <string>u2A8D8.var1</string>
         <key>2A909</key>
         <string>u2A909</string>
         <key>2A926</key>
@@ -39203,7 +39214,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>3125D</key>
         <string>u3125D</string>
         <key>312E7</key>
-        <string>u312E7</string>
+        <string>u312E7.var1</string>
         <key>31327</key>
         <string>u31327</string>
         <key>313DC</key>
@@ -39606,7 +39617,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>232F4</key>
         <string>u232F4.var1</string>
         <key>23326</key>
-        <string>u23326.var1</string>
+        <string>u23326</string>
         <key>23365</key>
         <string>u23365.var1</string>
         <key>2338D</key>
@@ -39642,7 +39653,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>2372A</key>
         <string>u2372A.var1</string>
         <key>237E5</key>
-        <string>u237E5.var1</string>
+        <string>u237E5</string>
         <key>23839</key>
         <string>u23839.var1</string>
         <key>23895</key>
@@ -39708,7 +39719,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>246C1</key>
         <string>u246C1.var1</string>
         <key>246C9</key>
-        <string>u246C9.var1</string>
+        <string>u246C9</string>
         <key>247DD</key>
         <string>u247DD.var1</string>
         <key>2481C</key>
@@ -40168,7 +40179,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>2A814</key>
         <string>u2A814.var1</string>
         <key>2A8D8</key>
-        <string>u2A8D8.var1</string>
+        <string>u2A8D8</string>
         <key>2A909</key>
         <string>u2A909.var1</string>
         <key>2A926</key>
@@ -40646,7 +40657,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>3125D</key>
         <string>u3125D.var1</string>
         <key>312E7</key>
-        <string>u312E7.var1</string>
+        <string>u312E7</string>
         <key>31327</key>
         <string>u31327.var1</string>
         <key>31350</key>
@@ -40777,7 +40788,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>22004</key>
         <string>u22004.var2</string>
         <key>22843</key>
-        <string>u22843</string>
+        <string>u22843.var1</string>
         <key>22DB3</key>
         <string>u22DB3.var2</string>
         <key>22E34</key>
@@ -40888,7 +40899,7 @@ ENDF[ ]	/* EndFunctionDefinition */
         <key>22004</key>
         <string>u22004.var3</string>
         <key>22843</key>
-        <string>u22843.var1</string>
+        <string>u22843</string>
         <key>22F44</key>
         <string>u22F44.var3</string>
         <key>23440</key>

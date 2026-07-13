@@ -75,7 +75,7 @@
 
 "BabelStone Han Extra" only covers CJK Unified Ideographs Extensions B, C, D, E, F, G, H, I, and J, which are in the Supplementary Ideographic Plane (SIP) and Tertiary Ideographic Plane (TIP).
 
-This version of the BabelStone Han fonts supports Unicode version 17.0 (released September 2025).</string>
+This version of the BabelStone Han fonts supports Unicode version 18.0 (released September 2026).</string>
     <key>openTypeNameDesigner</key>
     <string>Andrew West</string>
     <key>openTypeNameDesignerURL</key>
@@ -193,7 +193,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>BabelStone Han Extra:Version 17.0.2;July 10, 2026</string>
+        <string>BabelStone Han Extra:Version 18.0.0 BETA;July 12, 2026</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -217,7 +217,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 17.0.2</string>
+        <string>Version 18.0.0 BETA</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -271,7 +271,7 @@ Legal Terms
 
 "BabelStone Han Extra" only covers CJK Unified Ideographs Extensions B, C, D, E, F, G, H, I, and J, which are in the Supplementary Ideographic Plane (SIP) and Tertiary Ideographic Plane (TIP).
 
-This version of the BabelStone Han fonts supports Unicode version 17.0 (released September 2025).</string>
+This version of the BabelStone Han fonts supports Unicode version 18.0 (released September 2026).</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -392,9 +392,9 @@ Legal Terms
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>BabelStone Han Extra:Version 17.0.2;July 10, 2026</string>
+    <string>BabelStone Han Extra:Version 18.0.0 BETA;July 12, 2026</string>
     <key>openTypeNameVersion</key>
-    <string>Version 17.0.2</string>
+    <string>Version 18.0.0 BETA</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
@@ -508,9 +508,9 @@ Legal Terms
     <key>unitsPerEm</key>
     <integer>1024</integer>
     <key>versionMajor</key>
-    <integer>17</integer>
+    <integer>18</integer>
     <key>versionMinor</key>
-    <integer>2</integer>
+    <integer>0</integer>
     <key>xHeight</key>
     <integer>495</integer>
   </dict>
