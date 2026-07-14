@@ -37050,6 +37050,7 @@
       <string>u2039D.var1</string>
       <string>u203A6.var1</string>
       <string>u203D8.var1</string>
+      <string>u20457.var1</string>
       <string>u20503.var1</string>
       <string>u20509.var1</string>
       <string>u2054B.var1</string>
@@ -37808,7 +37809,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/07/13 01:01:38</string>
+    <string>2026/07/14 19:28:53</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -37927,6 +37928,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u203A6</string>
         <key>203D8</key>
         <string>u203D8</string>
+        <key>20457</key>
+        <string>u20457.var1</string>
         <key>20503</key>
         <string>u20503</string>
         <key>2054B</key>
@@ -40767,6 +40770,8 @@ ENDF[ ]	/* EndFunctionDefinition */
       <dict>
         <key>2017F</key>
         <string>u2017F.var2</string>
+        <key>20457</key>
+        <string>u20457</string>
         <key>20509</key>
         <string>u20509</string>
         <key>20AD3</key>
