@@ -4,16 +4,16 @@
   <unicode hex="3171E"/>
   <outline>
     <contour>
-      <point x="186" y="786" type="line"/>
-      <point x="100" y="786" type="line"/>
-      <point x="100" y="453" type="line"/>
-      <point x="186" y="453" type="line"/>
+      <point x="176" y="786" type="line"/>
+      <point x="90" y="786" type="line"/>
+      <point x="90" y="453" type="line"/>
+      <point x="176" y="453" type="line"/>
     </contour>
     <contour>
-      <point x="234" y="453" type="line"/>
-      <point x="314" y="453" type="line"/>
-      <point x="314" y="786" type="line"/>
-      <point x="234" y="786" type="line"/>
+      <point x="224" y="453" type="line"/>
+      <point x="304" y="453" type="line"/>
+      <point x="304" y="786" type="line"/>
+      <point x="224" y="786" type="line"/>
     </contour>
     <contour>
       <point x="43" y="811"/>
@@ -305,7 +305,7 @@
         <key>formatVersion</key>
         <string>1</string>
         <key>id</key>
-        <string>ec9b52c722d97b8b04524fa1504c64ac2495f57cb3562aeeec5fdbb3918d76c5c9de42434346528eeea1184f6589c4d6a549534847ed6e49fcbf1d301035b4c9</string>
+        <string>b95c0baac291e6e244293539817eacb9ef423b892ab0674f208b08ff502731febc0206ad5120f2aa2ec47b196b9d7ea166efd8835b39f52eababfe164f764a50</string>
       </dict>
     </dict>
   </lib>
