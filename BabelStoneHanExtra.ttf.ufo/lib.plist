@@ -4397,6 +4397,7 @@
       <string>u2214E</string>
       <string>u22150</string>
       <string>u22151</string>
+      <string>u22155</string>
       <string>u2215A</string>
       <string>u2215B</string>
       <string>u2215C</string>
@@ -11203,6 +11204,7 @@
       <string>u263D1</string>
       <string>u263DB</string>
       <string>u263DE</string>
+      <string>u263E0</string>
       <string>u263E3</string>
       <string>u263E8</string>
       <string>u263EA</string>
@@ -13903,6 +13905,7 @@
       <string>u27E15</string>
       <string>u27E16</string>
       <string>u27E18</string>
+      <string>u27E19</string>
       <string>u27E1B</string>
       <string>u27E1C</string>
       <string>u27E1D</string>
@@ -14209,6 +14212,7 @@
       <string>u2818B</string>
       <string>u2818C</string>
       <string>u2818D</string>
+      <string>u2818F</string>
       <string>u28199</string>
       <string>u2819D</string>
       <string>u2819E</string>
@@ -14954,6 +14958,7 @@
       <string>u288D8</string>
       <string>u288DE</string>
       <string>u288E1</string>
+      <string>u288E2</string>
       <string>u288E6</string>
       <string>u288E7</string>
       <string>u288E8</string>
@@ -15992,6 +15997,7 @@
       <string>u29353</string>
       <string>u29357</string>
       <string>u29358</string>
+      <string>u2935A</string>
       <string>u2935B</string>
       <string>u2935C</string>
       <string>u29360</string>
@@ -37335,6 +37341,7 @@
       <string>u262A8.var1</string>
       <string>u2633B.var1</string>
       <string>u263C1.var1</string>
+      <string>u263E0.var1</string>
       <string>u263EA.var1</string>
       <string>u2643F.var1</string>
       <string>u264FA.var1</string>
@@ -37819,7 +37826,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/07/16 00:38:31</string>
+    <string>2026/07/18 02:28:12</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -38418,6 +38425,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u262A8</string>
         <key>2633B</key>
         <string>u2633B</string>
+        <key>263E0</key>
+        <string>u263E0</string>
         <key>263EA</key>
         <string>u263EA</string>
         <key>2643F</key>
@@ -39847,6 +39856,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u262A8.var1</string>
         <key>2633B</key>
         <string>u2633B.var1</string>
+        <key>263E0</key>
+        <string>u263E0.var1</string>
         <key>263EA</key>
         <string>u263EA.var1</string>
         <key>2643F</key>
