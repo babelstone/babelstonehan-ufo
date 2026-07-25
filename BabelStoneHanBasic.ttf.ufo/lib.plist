@@ -34354,6 +34354,7 @@
       <string>uni4856.var1</string>
       <string>uni485E.var1</string>
       <string>uni4878.var1</string>
+      <string>uni4879.var1</string>
       <string>uni48AD.var1</string>
       <string>uni48B4.var1</string>
       <string>uni48CB.var1</string>
@@ -34947,7 +34948,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/07/16 00:38:16</string>
+    <string>2026/07/25 01:09:34</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35214,6 +35215,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni485E</string>
         <key>4878</key>
         <string>uni4878</string>
+        <key>4879</key>
+        <string>uni4879</string>
         <key>48AD</key>
         <string>uni48AD</string>
         <key>48B4</key>
@@ -35991,6 +35994,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni485E.var1</string>
         <key>4878</key>
         <string>uni4878.var1</string>
+        <key>4879</key>
+        <string>uni4879.var1</string>
         <key>48AD</key>
         <string>uni48AD.var1</string>
         <key>48B4</key>
