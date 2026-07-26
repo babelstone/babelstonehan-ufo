@@ -11311,6 +11311,7 @@
       <string>u264F6</string>
       <string>u264FA</string>
       <string>u264FE</string>
+      <string>u26504</string>
       <string>u26507</string>
       <string>u2650C</string>
       <string>u26510</string>
@@ -15362,6 +15363,7 @@
       <string>u28C8C</string>
       <string>u28C8D</string>
       <string>u28C92</string>
+      <string>u28C93</string>
       <string>u28C95</string>
       <string>u28C9B</string>
       <string>u28C9E</string>
@@ -16765,6 +16767,7 @@
       <string>u29A5C</string>
       <string>u29A5D</string>
       <string>u29A64</string>
+      <string>u29A6D</string>
       <string>u29A72</string>
       <string>u29A75</string>
       <string>u29A77</string>
@@ -37827,7 +37830,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/07/25 00:38:18</string>
+    <string>2026/07/26 00:49:25</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
