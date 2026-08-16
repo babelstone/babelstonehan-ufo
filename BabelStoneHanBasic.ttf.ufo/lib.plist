@@ -34284,6 +34284,7 @@
       <string>uni3A88.var1</string>
       <string>uni3A8E.var1</string>
       <string>uni3A96.var1</string>
+      <string>uni3A97.var1</string>
       <string>uni3A9C.var1</string>
       <string>uni3A9E.var1</string>
       <string>uni3AA0.var1</string>
@@ -34948,7 +34949,7 @@
       <string>uni9FFF.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/08/06 01:34:25</string>
+    <string>2026/08/13 01:53:17</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -35097,6 +35098,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni3A8E</string>
         <key>3A96</key>
         <string>uni3A96</string>
+        <key>3A97</key>
+        <string>uni3A97</string>
         <key>3A9C</key>
         <string>uni3A9C</string>
         <key>3A9E</key>
@@ -35874,6 +35877,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>uni3A8E.var1</string>
         <key>3A96</key>
         <string>uni3A96.var1</string>
+        <key>3A97</key>
+        <string>uni3A97.var1</string>
         <key>3A9C</key>
         <string>uni3A9C.var1</string>
         <key>3A9E</key>
