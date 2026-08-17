@@ -37415,6 +37415,7 @@
       <string>u275E8.var1</string>
       <string>u276D5.var1</string>
       <string>u27708.var1</string>
+      <string>u27774.var1</string>
       <string>u277E8.var1</string>
       <string>u277EA.var1</string>
       <string>u2787F.var1</string>
@@ -37844,7 +37845,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/08/12 01:22:20</string>
+    <string>2026/08/17 01:49:27</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
@@ -38541,6 +38542,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u276D5</string>
         <key>27708</key>
         <string>u27708</string>
+        <key>27774</key>
+        <string>u27774</string>
         <key>277E8</key>
         <string>u277E8.var1</string>
         <key>277EA</key>
@@ -39978,6 +39981,8 @@ ENDF[ ]	/* EndFunctionDefinition */
         <string>u276D5.var1</string>
         <key>27708</key>
         <string>u27708.var1</string>
+        <key>27774</key>
+        <string>u27774.var1</string>
         <key>277E8</key>
         <string>u277E8</string>
         <key>277EA</key>
