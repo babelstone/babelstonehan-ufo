@@ -1302,6 +1302,7 @@
       <string>u20940</string>
       <string>u20946</string>
       <string>u2094A</string>
+      <string>u2094D</string>
       <string>u20952</string>
       <string>u20953</string>
       <string>u20954</string>
@@ -5290,6 +5291,7 @@
       <string>u22A9A</string>
       <string>u22A9B</string>
       <string>u22A9D</string>
+      <string>u22AA0</string>
       <string>u22AA2</string>
       <string>u22AA8</string>
       <string>u22AAA</string>
@@ -6490,6 +6492,7 @@
       <string>u23590</string>
       <string>u23591</string>
       <string>u23594</string>
+      <string>u23595</string>
       <string>u23598</string>
       <string>u23599</string>
       <string>u2359A</string>
@@ -7442,6 +7445,7 @@
       <string>u23EB0</string>
       <string>u23EB1</string>
       <string>u23EB6</string>
+      <string>u23EBB</string>
       <string>u23EBC</string>
       <string>u23EBD</string>
       <string>u23EC2</string>
@@ -7814,6 +7818,7 @@
       <string>u2421B</string>
       <string>u2421C</string>
       <string>u2421D</string>
+      <string>u24220</string>
       <string>u24222</string>
       <string>u24225</string>
       <string>u24226</string>
@@ -12998,6 +13003,8 @@
       <string>u2762C</string>
       <string>u27631</string>
       <string>u27632</string>
+      <string>u27638</string>
+      <string>u27639</string>
       <string>u2763A</string>
       <string>u2763B</string>
       <string>u27640</string>
@@ -19450,6 +19457,7 @@
       <string>u2AE14</string>
       <string>u2AE15</string>
       <string>u2AE17</string>
+      <string>u2AE18</string>
       <string>u2AE19</string>
       <string>u2AE1B</string>
       <string>u2AE1E</string>
@@ -19534,6 +19542,7 @@
       <string>u2AEC6</string>
       <string>u2AEC8</string>
       <string>u2AEC9</string>
+      <string>u2AECD</string>
       <string>u2AECE</string>
       <string>u2AECF</string>
       <string>u2AED0</string>
@@ -19585,6 +19594,7 @@
       <string>u2AF48</string>
       <string>u2AF49</string>
       <string>u2AF4B</string>
+      <string>u2AF4E</string>
       <string>u2AF4F</string>
       <string>u2AF51</string>
       <string>u2AF52</string>
@@ -20413,6 +20423,7 @@
       <string>u2B548</string>
       <string>u2B549</string>
       <string>u2B54A</string>
+      <string>u2B54C</string>
       <string>u2B54D</string>
       <string>u2B54E</string>
       <string>u2B54F</string>
@@ -34570,6 +34581,7 @@
       <string>u3224C</string>
       <string>u3224D</string>
       <string>u3224E</string>
+      <string>u3224F</string>
       <string>u32251</string>
       <string>u32253</string>
       <string>u32255</string>
@@ -34897,6 +34909,7 @@
       <string>u324E3</string>
       <string>u324E6</string>
       <string>u324E7</string>
+      <string>u324ED</string>
       <string>u324F2</string>
       <string>u324F9</string>
       <string>u324FA</string>
@@ -36029,6 +36042,7 @@
       <string>u32DE9</string>
       <string>u32DEA</string>
       <string>u32DEF</string>
+      <string>u32DF2</string>
       <string>u32E01</string>
       <string>u32E06</string>
       <string>u32E08</string>
@@ -36339,6 +36353,7 @@
       <string>u33069</string>
       <string>u3306A</string>
       <string>u3306B</string>
+      <string>u3306D</string>
       <string>u3306F</string>
       <string>u33074</string>
       <string>u33075</string>
@@ -37855,7 +37870,7 @@
       <string>u33432.var1</string>
     </array>
     <key>public.openTypeHeadModified</key>
-    <string>2026/09/01 19:19:27</string>
+    <string>2026/09/18 03:02:25</string>
     <key>public.openTypePostUnderlinePosition</key>
     <integer>-148</integer>
     <key>public.truetype.instructions</key>
