@@ -195,7 +195,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>BabelStone Han Basic:Version 18.0.0 BETA;September 16, 2026</string>
+        <string>BabelStone Han Basic:Version 18.0.1;September 20, 2026</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -219,7 +219,7 @@ Legal Terms
         <key>platformID</key>
         <integer>3</integer>
         <key>string</key>
-        <string>Version 18.0.0 BETA</string>
+        <string>Version 18.0.1</string>
       </dict>
       <dict>
         <key>encodingID</key>
@@ -396,9 +396,9 @@ Legal Terms
       </dict>
     </array>
     <key>openTypeNameUniqueID</key>
-    <string>BabelStone Han Basic:Version 18.0.0 BETA;September 16, 2026</string>
+    <string>BabelStone Han Basic:Version 18.0.1;September 20, 2026</string>
     <key>openTypeNameVersion</key>
-    <string>Version 18.0.0 BETA</string>
+    <string>Version 18.0.1</string>
     <key>openTypeOS2CodePageRanges</key>
     <array>
       <integer>0</integer>
