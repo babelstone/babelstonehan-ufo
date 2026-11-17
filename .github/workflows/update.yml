@@ -6,6 +6,9 @@ on:
 
 name: Update ufo
 
+env:
+  TTF2UFO_VERSION: 0.1.0
+
 jobs:
   update:
     name: Update ufo
@@ -17,14 +20,13 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v7
-      - uses: actions/setup-python@v7
+      - uses: actions/cache@v4
+        id: ttf2ufo-cache
         with:
-          python-version: '3.13'
-          cache: 'pip'
-      - run: pip install -r requirements.txt
-      - uses: Swatinem/rust-cache@v2
-        with:
-          workspaces: tools/ttf2ufo
+          path: ~/.cargo/bin/ttf2ufo
+          key: ttf2ufo-${{ env.TTF2UFO_VERSION }}-${{ runner.os }}-${{ runner.arch }}
+      - if: steps.ttf2ufo-cache.outputs.cache-hit != 'true'
+        run: cargo install --locked ttf2ufo@${{ env.TTF2UFO_VERSION }}
       - run: sh download.sh
       - run: sh build.sh 
       - name: Check if it has been updated

@@ -3,10 +3,10 @@
 #
 # Usage: sh compile.sh [UFO ...]   (default: all three UFOs)
 #
-# The UFOs come from extractufo and keep the source fonts' TrueType outlines
-# and hinting. Each glyph's hinting is stored with a hash of its outline, and
-# ufo2ft drops the hinting if the compiled outline differs, so fontmake must
-# not alter the contours:
+# The UFOs come from ttf2ufo and keep the source fonts' TrueType outlines and
+# hinting. Each glyph's hinting is stored with a hash of its outline, and ufo2ft
+# drops the hinting if the compiled outline differs, so fontmake must not alter
+# the contours:
 #   --keep-direction         contours are already in TrueType direction
 #   --ttf-curves keep-quad   curves are already quadratic; cu2qu would move
 #                            each contour's start point
