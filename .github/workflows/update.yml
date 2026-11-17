@@ -22,6 +22,9 @@ jobs:
           python-version: '3.13'
           cache: 'pip'
       - run: pip install -r requirements.txt
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: tools/ttf2ufo
       - run: sh download.sh
       - run: sh build.sh 
       - name: Check if it has been updated
